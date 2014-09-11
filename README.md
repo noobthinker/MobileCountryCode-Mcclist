@@ -1,4 +1,4 @@
-²Î¿¼Á´½Ó£º
+å‚è€ƒé“¾æ¥
 link:
 http://mcclist.commobile-network-codes-country-codes.asp
 https://en.wikipedia.org/wiki/Mobile_country_code
