@@ -1,0 +1,1779 @@
+Abkhazia	289	67	null	Aquafon	Operational	
+Abkhazia	289	68	null	A-Mobile	Operational	
+Afganistan	412	01	Afghan Wireless Communication Company	AWCC	Operational	
+Afganistan	412	20	Telecom Development Company Afghanistan Ltd.	Roshan	Operational	
+Afganistan	412	40	MNT Group Afganistan	MTN	Operational	
+Afganistan	412	50	Etisalat Afghanistan	Etisalat	Operational	
+Albania	276	01	Albanian Mobile Communications	AMS	Operational	
+Albania	276	02	Vodafone Albania	Vodafone	Operational	
+Albania	276	03	Eagle Mobile	Eagle Mobile	Operational	
+Albania	276	04	Plus Communcation	Plus Communication	Operational	
+Algeria	603	01	ATM Mobilis	Mobilis	Operational	
+Algeria	603	02	Orascom Telecom Algerie Spa	Djezzy	Operational	
+Algeria	603	03	Wataniya Telecom Algerie	Nedjma	Operational	
+American Samoa	544	11	Blue Sky Communications	null	Operational	
+Andorra	213	03	Servei De Tele. DAndorra	Mobiland	Operational	
+Angola	631	02	Unitel S.a.r.l.	Unitel	Operational	
+Angola	631	03	Movicel	Movicel	Operational	
+Angola	631	04	Movicel	Movicel	Operational	
+Anguilla	365	05	Mossel Ltd (Digicel)	null	Operational	
+Anguilla	365	10	Weblinks Limited	null	Operational	
+Anguilla	365	840	Cable &amp; Wireless	null	Operational	
+Antigua and Barbuda	344	30	Antigua Public Utilities Authority	APUA	Operational	
+Antigua and Barbuda	344	50	Antigua Wireless Ventures Limited	Digicel	Inactive	
+Antigua and Barbuda	344	920	Cable &amp; Wireless (Antigua)	Lime	Operational	
+Antigua and Barbuda	344	930	Antigua Wireless Ventures Limited	Digicel	Operational	
+Argentina	722	01	Telefonica M�viles Argentina SA	Movistar	Operational	
+Argentina	722	02	Nll Holdings	Nextel	Operational	
+Argentina	722	07	Telefonica M�viles Argentina SA	Movistar	Operational	
+Argentina	722	10	Telefonica M�viles Argentina SA	Movistar	Inactive	
+Argentina	722	20	Nll Holdings	Nextel	Inactive	
+Argentina	722	34	Telecom Personal S.A.	Personal	Operational	
+Argentina	722	35	Hutchison Telecommunications Argentina S.A.	Port-Hable	Operational	
+Argentina	722	36	Telecom Personal S.A.	Personal	Inactive	
+Argentina	722	40	TE.SA.M Argentina S.A	Globalstar	Inactive	
+Argentina	722	70	Telefonica M�viles Argentina SA	Movistar	Operational	
+Argentina	722	310	AMX Argentina S.A	Claro	Operational	
+Argentina	722	320	AMX Argentina S.A	Claro	Operational	
+Argentina	722	330	AMX Argentina S.A	Claro	Operational	
+Argentina	722	340	Telecom Personal S.A.	Personal	Operational	
+Argentina	722	341	Telecom Personal S.A.	Personal	Operational	
+Argentina	722	350	Hutchison Telecommunications Argentina S.A.	Port-Hable	Inactive	
+Armenia	283	01	ArmenTel	Beeline (telecommunications)	Operational	
+Armenia	283	04	Karabakh Telecom	Karabakh Telecom	Inactive	
+Armenia	283	05	K Telecom CJSC	VivaCell-MTS	Operational	
+Armenia	283	10	Orange Armenia	Orange	Operational	
+Armenia	283	77	K Telecom	VivaCell-MTS	Operational	
+Aruba	363	01	Servicio di Telecomunicacio di Aruba	SETAR	Operational	
+Aruba	363	02	Digicel	Digicel	Operational	
+Australia	505	01	Telstra Corporation Ltd.	Telstra	Operational	
+Australia	505	02	Optus Mobile Pty. Ltd.	Optus	Operational	
+Australia	505	03	Vodafone Network Pty. Ltd.	Vodafone	Operational	
+Australia	505	04	Department of Defence	null	Inactive	
+Australia	505	05	The Ozitel Network Pty. Ltd.	Ozitel	Inactive	
+Australia	505	06	Hutchison 3G Australia Pty. Ltd.	Hi3G	Operational	
+Australia	505	08	One.Tel GSM 1800 Pty. Ltd.	One.Tel	Inactive	
+Australia	505	09	Airnet Commercial Australia Ltd.	Airnet	Inactive	
+Australia	505	11	Telstra Corporation Ltd.	null	Inactive	
+Australia	505	12	Hutchison 3G Australia Pty. Ltd.	Hi3G	Operational	
+Australia	505	13	Rail Corporation New South Wales	Railcorp	Operational	
+Australia	505	14	Telecom New Zealand	AAPT	Operational	
+Australia	505	15	3GIS Pty Ltd. (Telstra &amp; Hutchison 3G)	3GIS	Inactive	
+Australia	505	21	TPG Telecom Limited	SOUL	Operational	
+Australia	505	24	Advanced Communications Technologies Pty. Ltd.	null	Operational	
+Australia	505	38	Vodafone Hutchison Australia Proprietary Limited	Crazy John`s	Operational	
+Australia	505	71	Telstra Corporation Ltd.	Telstra	Operational	
+Australia	505	72	Telstra Corporation Ltd.	Telstra	Operational	
+Australia	505	88	Localstar Holding Pty. Ltd.	null	Inactive	
+Australia	505	90	Optus Ltd.	Optus	Operational	
+Australia	505	99	One.Tel GSM 1800 Pty. Ltd.	null	Inactive	
+Austria	232	01	A1 Telekom Austria	A1	Operational	
+Austria	232	02	A1 Telekom Austria	A1	Operational	
+Austria	232	03	T-Mobile	T-Mobile	Operational	
+Austria	232	05	Orange	Orange	Operational	
+Austria	232	06	null	Orange	Operational	
+Austria	232	07	tele.ring	Tele.ring	Operational	
+Austria	232	09	A1 Telekom Austria	A1	Operational	
+Austria	232	10	Hutchison 3G Austria	3 (Drei)	Operational	
+Austria	232	11	A1 Telekom Austria	Bob	Operational	
+Austria	232	12	Yesss (Orange)	Yesss	Operational	
+Austria	232	14	Hutchison 3G Austria	3 (Drei)	Operational	
+Austria	232	15	Barablu Mobile Ltd	Barablu	Operational	
+Austria	232	91	�BB	GSM-R A	Operational	
+Azerbaijan	400	01	Azercell Limited Liability Joint Venture	Azercell	Operational	
+Azerbaijan	400	02	Bakcell Limited Liabil ity Company	Bakcell	Operational	
+Azerbaijan	400	03	Catel	FONEX	Inactive	
+Azerbaijan	400	04	Azerfon	Nar Mobile (Azerfon)	Operational	
+Bahamas	364	39	The Bahamas Telecommunications Company Ltd	BaTelCo	Inactive	
+Bahamas	364	390	The Bahamas Telecommunications Company Ltd	BaTelCo	Operational	
+Bahrain	426	01	Bahrain Telecommunications Company	Batelco	Operational	
+Bahrain	426	02	Zain Bahrain	Zain BH	Operational	
+Bahrain	426	04	STC Bahrain	Viva	Operational	
+Bangladesh	470	01	GrameenPhone Ltd	GramenPhone	Operational	
+Bangladesh	470	02	Axiata Bangladesh Ltd.	Robi	Operational	
+Bangladesh	470	03	Orascom Telecom Holding	Banglalink	Operational	
+Bangladesh	470	04	TeleTalk	TeleTalk	Operational	
+Bangladesh	470	05	Citycell	Citycell	Operational	
+Bangladesh	470	06	Airtel	Airtel	Operational	
+Bangladesh	470	07	Aritel	Airtel	Operational	
+Barbados	342	50	Digicel Barbados	DigiCel	Operational	
+Barbados	342	600	Lime (Cable &amp; Wireless)	Lime (Cable &amp; Wireless)	Operational	
+Barbados	342	750	Digicel	DigiCel	Operational	
+Barbados	342	810	Cingular Wireless	null	Inactive	
+Barbados	342	820	Sunbeach Communications	null	Inactive	
+Belarus	257	01	MDC Velcom	Velcom	Operational	
+Belarus	257	02	Mobile TeleSystems	MTS	Operational	
+Belarus	257	03	BelCel	DIALLOG	Operational	
+Belarus	257	04	Belarussian Telecommunications Network	life :)	Operational	
+Belarus	257	501	null	BelCel JV	Operational	
+Belgium	206	01	Belgacom Mobile	Proximus	Operational	
+Belgium	206	05	Telenet	Telenet	Operational	
+Belgium	206	10	France Telecom	Mobistar	Operational	
+Belgium	206	20	KPN	Base	Operational	
+Belize	702	67	Belize Telemedia	DigiCell	Operational	
+Belize	702	68	International Telecommunications Ltd. (INTELCO)	IntelCo	Operational	
+Belize	702	99	SpeedNet Communications Ltd	Smart	Operational	
+Benin	616	00	BBCOM	null	Inactive	
+Benin	616	01	Benin Telecoms Mobile	Libercom	Operational	
+Benin	616	02	Telecel Benin	Moov	Operational	
+Benin	616	03	Spacetel Benin	MTN	Operational	
+Benin	616	04	Bell Benin Communications	BBCOM	Operational	
+Benin	616	05	Glo Communications	Glo	Operational	
+Bermuda	350	01	Cingular GSM 1900	Digicel Bermuda	Operational	
+Bermuda	350	02	M3 Wireless	Mobility	Operational	
+Bermuda	350	10	Cingular Wireless	Cellular One (Cingular)	Operational	
+Bermuda	350	38	Mossel (Digicel)	Digicel	Operational	
+Bhutan	402	11	Bhutan Telecom Ltd	B-Mobile	Operational	
+Bhutan	402	17	B-Mobile of Bhutan Telecom	null	Inactive	
+Bhutan	402	77	Tashi InfoComm Limited	TashiCell	Operational	
+Bolivia	736	01	Nuevatel S.A.	Nuevatel	Operational	
+Bolivia	736	02	ENTEL S.A.	Entel	Operational	
+Bolivia	736	03	Telefonica Celular De Bolivia S.A	Tigo	Operational	
+Bolivia	736	20	Entel BOlivia	null	Inactive	
+Bosnia and Herzegovina	218	03	Public Enterprise Croatian Telecom Ltd.	HT-Eronet	Operational	
+Bosnia and Herzegovina	218	05	RS Telecommunications JSC Banja Luka	m:tel	Operational	
+Bosnia and Herzegovina	218	90	BH Telecom	BH Mobile	Operational	
+Botswana	652	01	Mascom Wireless (Pty) Ltd.	Mascom	Operational	
+Botswana	652	02	Orange Botswana (Pty) Ltd.	Orange	Operational	
+Botswana	652	04	Botswana Telecommunications Corporation	BTC Mobile	Operational	
+Brazil	724	00	Nll Holdings, INC.	Nextel	Operational	
+Brazil	724	01	CRT Cellular	null	Operational	
+Brazil	724	02	Telecom Italia Mobile	TIM	Operational	
+Brazil	724	03	Telecom Italia Mobile	TIM	Operational	
+Brazil	724	04	Telecom Italia Mobile	TIM	Operational	
+Brazil	724	05	Claro	Claro	Operational	
+Brazil	724	06	Vivo S.A	Vivo	Operational	
+Brazil	724	07	CTBC Telecom	CTBC Celular	Operational	
+Brazil	724	08	Telecom Italia Mobile	TIM	Operational	
+Brazil	724	09	Telepar Cel	null	Inactive	
+Brazil	724	10	Vivo S.A	Vivo	Operational	
+Brazil	724	11	Vivo S.A	Vivo	Operational	
+Brazil	724	12	Americel	null	Inactive	
+Brazil	724	13	Telesp Cel	null	Inactive	
+Brazil	724	14	Maxitel BA	null	Inactive	
+Brazil	724	15	Sercomtel Celular	Sercomtel	Operational	
+Brazil	724	16	Brasil Telecom Celular S.A	Oi	Operational	
+Brazil	724	17	Ceterp Cel	null	Inactive	
+Brazil	724	18	Norte Brasil Tel	null	Inactive	
+Brazil	724	19	Telemig Cel	null	Inactive	
+Brazil	724	21	Telerj Cel	null	Inactive	
+Brazil	724	23	Vivo S.A	Oi	Operational	
+Brazil	724	24	Amazonia Celular S/A	Oi / Brasil Telecom	Operational	
+Brazil	724	25	Telebrasilia Cel	null	Inactive	
+Brazil	724	27	Telegoias Cel	null	Inactive	
+Brazil	724	29	Telemat Cel	null	Inactive	
+Brazil	724	31	TNL PCS	Oi	Operational	
+Brazil	724	32	CTBC Celular	CTBC Celular	Operational	
+Brazil	724	33	CTBC Celular	CTBC Celular	Operational	
+Brazil	724	34	CTBC Celular	CTBC Celular	Operational	
+Brazil	724	35	Telebahia Cel	null	Inactive	
+Brazil	724	37	Unicel Do Brasil	Aeiou	Operational	
+Brazil	724	39	NII Holdings Inc	Nextel	Inactive	
+Brazil	724	41	Telpe Cel	null	Inactive	
+Brazil	724	43	Telepisa Cel	null	Inactive	
+Brazil	724	45	Telpa Cel	null	Inactive	
+Brazil	724	47	Telern Cel	null	Inactive	
+Brazil	724	48	Teleceara Cel	null	Inactive	
+Brazil	724	51	Telma Cel	null	Inactive	
+Brazil	724	53	Telepara Cel	null	Inactive	
+Brazil	724	55	Teleamazon Cel	null	Inactive	
+Brazil	724	57	Teleamapa Cel	null	Inactive	
+Brazil	724	59	Telaima Cel	null	Inactive	
+British Virgin Islands	348	170	Cabel &amp; Wireless (west Indies)	Cabel &amp; Wireless	Operational	
+British Virgin Islands	348	570	Caribbean Cellular Telephone, Boatphone Ltd.	CCT Boatphone	Operational	
+British Virgin Islands	348	770	Digicel (BVI) Limited	Digicel	Operational	
+Brunei Darussalam	528	01	Jabatan Telekom Brunei	null	Operational	
+Brunei Darussalam	528	02	B-Mobile Communications Sdn Bhd	B-Mobile	Operational	
+Brunei Darussalam	528	11	DST Com	DSTCom	Operational	
+Bulgaria	284	01	M-Tel GSM BG	M-Tel	Operational	
+Bulgaria	284	03	BTC Mobile	Vivacom	Operational	
+Bulgaria	284	05	Globul	GLOBUL	Operational	
+Bulgaria	284	06	BTC Mobile	Vivacom	Operational	
+Burkina Faso	613	01	Onatal	Telmob	Operational	
+Burkina Faso	613	02	Celtel Burkina Faso	Zain	Operational	
+Burkina Faso	613	03	Telcel Faso SA	Telcel Faso	Operational	
+Burundi	642	01	Econet Wireless Burundi PLC	Spacetel	Operational	
+Burundi	642	02	Africell PLC	Africell	Operational	
+Burundi	642	03	Onatel	Onatel	Operational	
+Burundi	642	07	LACELL SU	Smart Mobile	Operational	
+Burundi	642	08	HiTs Telecom	HiTs Telecom	Inactive	
+Burundi	642	82	U-COM Burundi S.A.	U-COM Burundi	Operational	
+Cambodia	456	01	CamGSM	Mobitel	Operational	
+Cambodia	456	02	Telekom Malaysia International (Cambodia) Co. Ltd	Hello	Operational	
+Cambodia	456	03	S Telecom (reserved)	S Telecom	Operational	
+Cambodia	456	04	Cambodia Advance Communications Co. Ltd	QB	Operational	
+Cambodia	456	05	Applifone Co. Ltd	Star-Cell	Operational	
+Cambodia	456	06	Latelz Co. Ltd	Smart Mobile	Operational	
+Cambodia	456	08	Viettel	Mefone	Operational	
+Cambodia	456	09	Sotelco Ltd.	Beeline	Operational	
+Cambodia	456	11	Excell	Excell	Operational	
+Cambodia	456	18	Camshin (Shinawatra)	Mfone	Operational	
+Cameroon	624	01	Mobile Telephone Networks Cameroon	MTN Cameroon	Operational	
+Cameroon	624	02	Orange Cameroun	Orange	Operational	
+Canada	302	220	Telus Mobility	Telus	Operational	
+Canada	302	221	Telus Mobility (Unknown)	Telus	Operational	
+Canada	302	290	Aurtek Wurekess	null	Operational	
+Canada	302	320	Dave Wireless	Mobilicity	Operational	
+Canada	302	350	FIRST Networks Operations	FIRST	Operational	
+Canada	302	360	Telus Mobility	MiKE	Operational	
+Canada	302	361	Telus Mobility	Telus	Operational	
+Canada	302	370	Fido Solutions (Rogers Wireless)	Fido	Operational	
+Canada	302	380	Dryden Mobility	DMTS	Operational	
+Canada	302	490	Globalive Communications	WIND Mobile	Operational	
+Canada	302	500	Videotron	Videotron	Operational	
+Canada	302	510	Videotron	Videotron	Operational	
+Canada	302	610	Bell Mobility	Bell	Operational	
+Canada	302	620	ICE Wireless	ICE Wireless	Operational	
+Canada	302	640	Bell Mobility	Bell	Operational	
+Canada	302	651	Bell Mobility	Bell	Operational	
+Canada	302	652	BC Tel Mobility	null	Operational	
+Canada	302	653	Telus Mobility	Telus	Operational	
+Canada	302	654	Sask Tel Mobility	null	Operational	
+Canada	302	655	MTS Mobility	MTS	Operational	
+Canada	302	656	Thunder Bay Telephone Mobility	TBay	Operational	
+Canada	302	657	Telus Mobility	Telus	Operational	
+Canada	302	680	SaskTel Mobility	SaskTel	Operational	
+Canada	302	701	MB Tel Mobility	null	Operational	
+Canada	302	702	MT&amp;T Mobility (Aliant)	null	Operational	
+Canada	302	703	New Tel Mobility (Aliant	null	Operational	
+Canada	302	710	Globalstar Canada	Globalstar	Operational	
+Canada	302	720	Rorges Communications	Rogers Wireless	Operational	
+Canada	302	780	SaskTel Mobility	SaskTel	Operational	
+Canada	302	880	Shared Telus, Bell, and SaskTel	Bell / Telus / SaskTel	Operational	
+Cape Verde	625	01	CVMovel, S.A.	CVMOVEL	Operational	
+Cape Verde	625	02	T+Telecomunica��es	T+	Operational	
+Cayman Islands	346	50	Digicel Cayman Ltd.	Digicel	Operational	
+Cayman Islands	346	140	Cable &amp; Wireless (Cayman) Limited	Cable &amp; Wireless (Lime)	Operational	
+Central African Republic	623	01	Atlantique Telecom Centrafrique SA	MOOV	Operational	
+Central African Republic	623	02	Telecel Centrafrique (TC)	TC	Operational	
+Central African Republic	623	03	Orange RCA	Orange	Operational	
+Central African Republic	623	04	Nationlink Telecom RCA	Nationlink	Operational	
+Chad	622	01	CelTel Tchad SA	Zain	Operational	
+Chad	622	02	Tchad Mobile	Tawali	Operational	
+Chad	622	03	Millicom Tchad	Millicom Tchad	Operational	
+Chad	622	04	Sotel Mobile	Salam	Operational	
+Chile	730	01	Entel PCS Telecomunicaciones S.A.	entel	Operational	
+Chile	730	02	Telef�nica M�vil de Chile	movistar	Operational	
+Chile	730	03	Claro Chile S.A.	Claro	Operational	
+Chile	730	04	Centennial Cayman Corp. Chile S.A.	Nextel	Operational	
+Chile	730	05	VTW S.A.	VTR M�vil	Inactive	
+Chile	730	09	Centennial Cayman Corp. Chile	Nextel	Operational	
+Chile	730	10	Entel Telefonia M�vil S.A.	entel	Operational	
+Chile	730	99	WILL Telefonia	Will	Operational	
+China	460	00	China Mobile	null	Operational	
+China	460	01	China Unicom	null	Operational	
+China	460	02	Liaoning PPTA	null	Operational	
+China	460	03	China Unicom CDMA	null	Operational	
+China	460	04	China Satellite Global Star Network	null	Inactive	
+China	460	05	China Telecom	null	Operational	
+China	460	06	China Unicom	null	Operational	
+China	460	07	China Mobile	null	Operational	
+China	460	20	China Tietong (GSM-R)	null	Operational	
+Colombia	732	01	Colombia Telecomunicaciones S.A.	null	Operational	
+Colombia	732	02	Edatel S.A.	Edatel	Operational	
+Colombia	732	20	Emtelsa	null	Inactive	
+Colombia	732	99	Emcali	null	Inactive	
+Colombia	732	101	Comcel S.A. Occel S.A./Celcaribe	Comcel	Operational	
+Colombia	732	102	Bellsouth Colombia S.A.	Movistar	Operational	
+Colombia	732	103	Colombia M�vil S.A.	Tigo	Operational	
+Colombia	732	111	Colombia M�vil S.A.	Tigo	Operational	
+Colombia	732	123	Telef�nica M�viles Colombia	Movistar	Operational	
+Colombia	732	130	Avantel	null	Inactive	
+Comoros and Mayotte	654	01	HURI - SNPT	null	Operational	
+Cook Islands	548	01	Telecom Cook	null	Operational	
+Costa Rica	712	01	Instituto Costarricense de Electricidad - ICE	ICE	Operational	
+Costa Rica	712	02	Instituto Costarricense de Electricidad - ICE	ICE	Operational	
+Costa Rica	712	03	Gruop ICE	ICE	Operational	
+C�te d'Ivoire	612	01	Cora de Comstar	null	Inactive	
+C�te d'Ivoire	612	02	Moov	null	Operational	
+C�te d'Ivoire	612	03	Orange	null	Operational	
+C�te d'Ivoire	612	04	Koz	null	Operational	
+C�te d'Ivoire	612	05	MTN	null	Operational	
+C�te d'Ivoire	612	06	OriCel	null	Operational	
+Croatia	219	01	T-Mobile	null	Operational	
+Croatia	219	02	Tele2	null	Operational	
+Croatia	219	10	VIPnet	null	Operational	
+Cuba	368	01	Empresa de Telecomunicaciones de Cuba, SA	Cubacel	Operational	
+Cyprus	280	00	Areeba Ltd.	null	Inactive	
+Cyprus	280	01	CYTA	Cytamobile-Vodafone	Operational	
+Cyprus	280	10	Areeba Ltd	MTN	Operational	
+Cyprus	280	20	Primetel PLC	Primetel	Operational	
+Czech Rep.	230	01	T-Mobile Czech Republic a.s.	T-Mobile	Operational	
+Czech Rep.	230	02	Telef�nica O2 Czech Republic a.s.	O2	Operational	
+Czech Rep.	230	03	Vodafone Czech Republic a.s.	Vodafone	Operational	
+Czech Rep.	230	04	Mobilkom a.s.	U:fon	Operational	
+Czech Rep.	230	05	Travel Telecomunication s.r.o.	null	Inactive	
+Czech Rep.	230	06	Osno Telecomunication s.r.o.	null	Inactive	
+Czech Rep.	230	10	Telef�nica O2 Czech Republic a.s.	O2	Operational	
+Czech Rep.	230	98	Sprava Zeleznicni Dopravni Cesty	S�DC s.o.	Inactive	
+Czech Rep.	230	99	Vodafone Czech Republic a.s. R&amp;D Centre	Vodafone	Operational	
+Democratic Rep. of Congo	630	01	Vodacom Congo RDC sprl	Vodacom	Operational	
+Democratic Rep. of Congo	630	02	Celtel Congo	Zain	Operational	
+Democratic Rep. of Congo	630	05	Supercell Sprl	Supercell	Operational	
+Democratic Rep. of Congo	630	10	Libertis Telecom	null	Inactive	
+Democratic Rep. of Congo	630	86	Congo-Chine Telecom s.a.r.l.	CCT	Operational	
+Democratic Rep. of Congo	630	88	Yozma Timeturns	Yozma Timeturns	Operational	
+Democratic Rep. of Congo	630	89	Sait-T�l�com SPRL	SAIT Telecom	Operational	
+Denmark	238	01	TDC Mobil APS	TDC	Operational	
+Denmark	238	02	Telenor Denmark	Telenor	Operational	
+Denmark	238	03	End2End	null	Operational	
+Denmark	238	05	Dansk Beredskapskommunikasjon	Dansk Beredskapskommunikasjon	Inactive	
+Denmark	238	06	H3G APS	3	Operational	
+Denmark	238	07	Mundio Mobile	Mundio Mobile	Operational	
+Denmark	238	08	null	Nordisk Mobiltelefon	Operational	
+Denmark	238	10	TDC Mobil APS	TDC	Operational	
+Denmark	238	12	Lyca Mobile Denmark Ltd	Lyca	Operational	
+Denmark	238	20	Telia Sonera APS	Telia	Operational	
+Denmark	238	23	null	Banedanmark	Inactive	
+Denmark	238	30	Telia Sonera APS	Telia	Operational	
+Denmark	238	40	null	Ericsson Danmark A/S	Inactive	
+Denmark	238	77	Telenor Denmark	Telenor	Operational	
+Djibouti	638	01	Evatis	null	Operational	
+Dominica	366	20	Cingular Wireless	Digicel	Operational	
+Dominica	366	110	Cable &amp; Wireless Dominica Ltd.	null	Operational	
+Dominican Republic	370	01	Orange Dominicana, S.A.	Orange	Operational	
+Dominican Republic	370	02	Compa��a Dominicana de Tel�fonos, C por	Claro	Operational	
+Dominican Republic	370	03	Tricom S.A.	Tricom	Operational	
+Dominican Republic	370	04	Trilogy Dominicana, S.A.	Viva	Operational	
+Ecuador	740	00	Otecel S.A. - Bellsouth	Moviestar	Operational	
+Ecuador	740	01	Am�rica M�vil	Porta	Operational	
+Ecuador	740	02	Telecsa S.A.	Alegro	Operational	
+Egypt	602	01	EEMS - Mobinil	Mobinil	Operational	
+Egypt	602	02	Vodafone Egypt	Vodafone	Operational	
+Egypt	602	03	Etisalat Egypt	Etisalat	Operational	
+El Salvador	706	01	CTE Telecom Personal, S.A. de C.V.	CTW Telecom Personal	Operational	
+El Salvador	706	02	Digicel Group	Digicel	Operational	
+El Salvador	706	03	Telemovil EL Salvador S.A.	Tigo	Operational	
+El Salvador	706	04	Telef�nica M�viles El Salvador	movistar	Operational	
+El Salvador	706	10	Am�rica M�vil	Claro	Operational	
+Equatorial Guinea	627	01	Guinea Ecuatorial de Telecomunicaciones Sociedad An�nima	Orange GQ	Operational	
+Equatorial Guinea	627	03	HiTs EG.SA	Hits GQ	Operational	
+Estonia	248	01	EMT GSM	EMT	Operational	
+Estonia	248	02	Elisa Eesti	Elisa	Operational	
+Estonia	248	03	Tele 2 Eesti	Tele 2	Operational	
+Estonia	248	04	OY Top Connect	null	Inactive	
+Estonia	248	05	AS Bravocom Mobiil	null	Inactive	
+Estonia	248	06	OY ViaTel (UMTS)	null	Operational	
+Estonia	248	07	Telev�rgu AS	null	Inactive	
+Estonia	248	71	Siseministeerium (Ministry of Interior)	null	Inactive	
+Ethiopia	636	01	Ethiopian Telecoms Auth. (ETH MTN)	ETH MTN	Operational	
+Falkland Islands	750	01	Touch	Cable &amp; Wireless	Operational	
+Faroe Islands	288	01	Faroese Telecom - GSM	null	Operational	
+Faroe Islands	288	02	Vodafone Faroe Islands	Vodafone	Operational	
+Fiji	542	01	Vodafone	Vodafone	Operational	
+Fiji	542	02	Digicel Fiji	Digicel	Operational	
+Finland	244	03	DNA Oy	DNA	Operational	
+Finland	244	05	Elisa Oyj	Elisa	Operational	
+Finland	244	07	Nokia test network	Nokia	Inactive	
+Finland	244	08	Unknown network/operator	Uknown brand	Inactive	
+Finland	244	09	Finnet Group	Finnet	Operational	
+Finland	244	10	TDC Oy	TDC	Operational	
+Finland	244	11	Soumen Erillisverkot Oy	Virve	Inactive	
+Finland	244	12	DNA Oy	DNA	Operational	
+Finland	244	14	Alands Mobiltelefon AB	AMT	Operational	
+Finland	244	15	Samk student network	Samk	Operational	
+Finland	244	16	Oy Finland Tele2 AB	null	Inactive	
+Finland	244	21	Saunalahti	Saunalahti	Operational	
+Finland	244	29	null	Scnl Truphone	Operational	
+Finland	244	41	Saunalahti	Saunalahti	Inactive	
+Finland	244	91	TeliaSonera Finland Oyj	Sonera	Operational	
+France	208	00	France Telecom	Orange	Inactive	
+France	208	01	France Telecom	Orange	Operational	
+France	208	02	France Telecom	Orange	Operational	
+France	208	05	Globalstar Europe	null	Inactive	
+France	208	06	Globalstar Europe	null	Inactive	
+France	208	07	Globalstar Europe	null	Inactive	
+France	208	10	Vivendi	SFR	Operational	
+France	208	11	Vivendi	SFR	Operational	
+France	208	13	Vivendi	SFR	Inactive	
+France	208	14	Iliad	Free Mobile	Operational	
+France	208	15	Iliad	Free Mobile	Operational	
+France	208	20	Bouygues Telecom	Bouygues	Operational	
+France	208	21	Bouygues Telecom	Bouygues	Operational	
+France	208	88	Bouygues Telecom (Zones Blanches)	Bouygues	Operational	
+French Guiana	742	01	Orange Caribe French Guiana	Orange Caribe French Guiana	Inactive	
+French Guiana	742	20	Digicel French Guiana	Digicel	Operational	
+French Polynesia	547	00	Digicel Antilles Francaises Guyane	null	Inactive	
+French Polynesia	547	01	Orange Caraibe Mobiles	null	Inactive	
+French Polynesia	547	02	Outremer Telecom	null	Inactive	
+French Polynesia	547	03	Saint Martin et Saint Barthelemy Telcell Sarl	null	Inactive	
+French Polynesia	547	08	AMIGO GSM	null	Inactive	
+French Polynesia	547	20	Tikiphone	null	Operational	
+Gabon	628	01	Gabon Telecom &amp; Libertis S.A.	Libertis	Operational	
+Gabon	628	02	Atlantique T�l�com (Etisalat Group)	Moov	Operational	
+Gabon	628	03	Celtel Gabon S.A.	Airtel	Operational	
+Gabon	628	04	USAN Gabon S.A.	Azur	Operational	
+Gabon	628	05	R�seau de l�Administration Gabonaise	RAG	Operational	
+Gambia	607	01	Gamcel	Gamcel	Operational	
+Gambia	607	02	Africell	Africell	Operational	
+Gambia	607	03	Comium Services Ltd	Comium	Operational	
+Gambia	607	04	QCell Gambia	QCell	Operational	
+Georgia	282	01	Geocell Ltd.	Geocell	Operational	
+Georgia	282	02	Magti GSM Ltd.	MagtiCom	Operational	
+Georgia	282	03	Iberiatel Ltd.	Iberiatel	Operational	
+Georgia	282	04	Beeline	Beeline	Operational	
+Georgia	282	05	Sliknet	SLINKNET	Operational	
+Georgia	282	67	Aquafon	null	Operational	
+Georgia	282	88	A-Mobile	null	Inactive	
+Germany	262	01	T-Mobile Deutschland GmbH	T-Mobile	Operational	
+Germany	262	02	Vodafone D2 GmbH	Vodafone	Operational	
+Germany	262	03	E-Plus Mobilfunk GmbH &amp; Co. KG	E-plus	Operational	
+Germany	262	04	Vodafone D2 GmbH	Vodafone (Reserved)	Inactive	
+Germany	262	05	E-Plus Mobilfunk GmbH &amp; Co. KG	E-Plus (Reserved)	Inactive	
+Germany	262	06	T-Mobile Deutschland GmbH	T-Mobile (Reserved)	Inactive	
+Germany	262	07	O2 (Germany) GmbH &amp; Co. OHG	O2	Operational	
+Germany	262	08	O2 (Germany) GmbH &amp; Co. OHG	O2	Operational	
+Germany	262	09	Vodafone D2 GmbH	Vodafone	Operational	
+Germany	262	10	Arcor AG &amp; Co. (GSM-R)	null	Operational	
+Germany	262	11	O2 (Germany) GmbH &amp; Co. OHG	O2 (RESERVED)	Inactive	
+Germany	262	12	Dolphin Telecom (Deutschland) GmbH	null	Operational	
+Germany	262	13	Mobilcom Multimedia GmbH	null	Inactive	
+Germany	262	14	Group 3G UMTS GmbH (Quam)	null	Inactive	
+Germany	262	15	Airdata AG	Airdata	Inactive	
+Germany	262	16	MVNE (E-plus)	Vistream	Operational	
+Germany	262	17	Ring Mobilfunk	Ring Mobilfunk	Operational	
+Germany	262	20	E-Plus	OnePhone	Operational	
+Germany	262	43	Lyca Mobile	Lyca	Operational	
+Germany	262	60	DB Telematik (GSM-R)	null	Inactive	
+Germany	262	76	Siemens AG,	null	Inactive	
+Germany	262	77	E-Plus Mobilfunk GmbH &amp; Co. KG	E-Plus	Inactive	
+Germany	262	901	Debitel AG	Debitel	Operational	
+Ghana	620	01	MTN Group	MTN	Operational	
+Ghana	620	02	Vodafone Group	Vodafone	Operational	
+Ghana	620	03	Millicom Ghana	tiGO	Operational	
+Ghana	620	04	Kasapa Telecom Ltd.	Expresso	Operational	
+Ghana	620	06	Airtel	Airtel	Operational	
+Ghana	620	997	Glo Mobile Ghana	Glo Mobile	Operational	
+Gibraltar	266	01	Gibtelecom GSM	GibTel	Operational	
+Gibraltar	266	06	CTS Gibraltar	CTS Mobile	Operational	
+Gibraltar	266	09	Cloud9 Mobile Communications	null	Inactive	
+Greece	202	01	Cosmote Mobile Teelecommunications S.A.	Cosmote	Operational	
+Greece	202	05	Vodafone - Panafon	Vodafone	Operational	
+Greece	202	09	Wind Hellas Telecommunications S.A.	Wind	Operational	
+Greece	202	10	Wind Hellas Telecommunications S.A.	Wind	Operational	
+Greenland	290	01	Tele Greenland	null	Operational	
+Grenada	352	30	Digicel	Digicel	Operational	
+Grenada	352	110	Cable &amp; Wireless Grenada Ltd.	Cable &amp; Wireless	Operational	
+Guam (US)	535	47	Docomo Pacific Inc	null	Operational	
+Guatemala	704	01	Servicios de Comunicaciones Personales Inal�mbricas, S.A.	Claro	Operational	
+Guatemala	704	02	Comunicaciones Celulares S.A.	Comcel / Tigo	Operational	
+Guatemala	704	03	Telef�nica Centroam�rica Guatemala S.A.	Movistar	Operational	
+Guinea	611	01	Orange	Orange S.A.	Operational	
+Guinea	611	02	Sotelgui Lagui	Sotelgui	Operational	
+Guinea	611	03	INTERCEL Guin�e	Telecel Guinee	Operational	
+Guinea	611	04	Areeba Guinea	MTN	Operational	
+Guinea	611	05	Cellcom Guin�e SA	Cellcom	Operational	
+Guinea-Bissau	632	01	Guin�tel S.A.	null	Inactive	
+Guinea-Bissau	632	02	Spacetel Guin�-Bissau S.A.	null	Operational	
+Guinea-Bissau	632	03	Orange	Orange	Operational	
+Guinea-Bissau	632	07	Guinetel (Telecel Guinee SARL)	null	Inactive	
+Guyana	738	01	U-Mobile (Cellular) Inc.	Digicel	Operational	
+Guyana	738	02	Guyana Telephone &amp; Telegraph Co.	GT&amp;T Cellink Plus	Operational	
+Haiti	372	01	Communication Cellulaire dHaiti SA	Voila	Operational	
+Haiti	372	02	Unigestion Holding S.A	Digicel	Operational	
+Haiti	372	03	Telecommunication S.A	NATCOM	Operational	
+Haiti	372	50	Unigestion Holding S.A	Digicel	Operational	
+Honduras	708	01	Servicios de Comunicaciones de Honduras S.A. de C.V.	Claro	Operational	
+Honduras	708	02	Celtel / Tigo	Tigo	Operational	
+Honduras	708	30	Empresa Hondurena de Telecomunicaciones	Hondutel	Operational	
+Honduras	708	40	Digicel de Honduras	DIGICEL	Operational	
+Hongkong, China	454	00	CSL Ltd	1O1O / One2Free	Operational	
+Hongkong, China	454	01	CITIC Telecom 1616	null	Operational	
+Hongkong, China	454	02	CSL Ltd	CSL	Operational	
+Hongkong, China	454	03	Hutchison Telecom	3 (3G)	Operational	
+Hongkong, China	454	04	Hutchison Telecom	3 (2G)	Operational	
+Hongkong, China	454	05	Hutchison Telecom	3 (CDMA)	Operational	
+Hongkong, China	454	06	SmarTone Mobile Communications Ltd	SmarTone-Vodafone	Operational	
+Hongkong, China	454	07	China Unicom (Hong Kong) Ltd	null	Operational	
+Hongkong, China	454	08	Trident Telecom	null	Operational	
+Hongkong, China	454	09	China Motion Telecom	null	Operational	
+Hongkong, China	454	10	CSL Ltd	New World Mobility	Operational	
+Hongkong, China	454	11	China-Hong Kong Telecom	null	Operational	
+Hongkong, China	454	12	China Mobile Hong Kong Company Ltd	CMCC HK	Operational	
+Hongkong, China	454	14	Hutchison Telecom	null	Operational	
+Hongkong, China	454	15	3G Radio System/SMT3G	null	Operational	
+Hongkong, China	454	16	PCCW Ltd	PCCW Mobile	Operational	
+Hongkong, China	454	17	SmarTone Mobile Communications Limited	SmarTone Mobile Communications Limited	Operational	
+Hongkong, China	454	18	CSL Ltd	CSL	Operational	
+Hongkong, China	454	19	PCCW Ltd	PCCW Mobile	Operational	
+Hongkong, China	454	22	null	SmarTone Mobile (P-Plus)	Operational	
+Hongkong, China	454	29	PCCW Ltd	PCCW Mobile	Operational	
+Hongkong, China	454	40	shared by private TETRA systems	null	Inactive	
+Hongkong, China	454	47	Hong Kong Police Force - TETRA systems	null	Inactive	
+Hungary	216	01	Telenor Magyarorsz�g Zrt.	Telenor	Operational	
+Hungary	216	30	Magyar Telekom Plc	T-Mobile	Operational	
+Hungary	216	70	Vodafone Magyarorsz�g Zrt.	Vodafone	Operational	
+Iceland	274	01	Iceland Telecom Ltd.	Siminn	Operational	
+Iceland	274	02	Vodafone	Vodafone	Operational	
+Iceland	274	03	Islandssimi GSM ehf	Vodafone	Operational	
+Iceland	274	04	IMC Islande ehf	Viking	Operational	
+Iceland	274	06	09 Mobile	null	Operational	
+Iceland	274	07	IceCell ehf	IceCell	Operational	
+Iceland	274	11	Nova ehf	Nova	Operational	
+India	404	00	Sistema Shyam (Rajasthan)	Sistema Shyam	Operational	
+India	405	01	Reliance Telecom (Andhra Pradesh)	Reliance Telecom	Operational	
+India	404	01	Vodafone (Haryana)	Vodafone	Operational	
+India	404	02	Bharti Airtel Ltd (Punjab)	Airtel	Operational	
+India	404	03	Bharti Airtel Ltd (Himachal Pradesh)	Airtel	Operational	
+India	405	03	Reliance Telecom (Bihar)	Reliance Telecom	Operational	
+India	405	04	Reliance Telecom (Chennai)	Reliance Telecom	Operational	
+India	404	04	Idea (Delhi)	Idea	Operational	
+India	405	05	Reliance Telecom (Delhi)	Reliance Telecom	Operational	
+India	404	05	Vodafone (Gujarat)	Vodafone	Operational	
+India	405	06	Reliance Telecom (Gujarat)	Reliance Telecom	Operational	
+India	405	07	Reliance Telecom (Haryana)	Reliance Telecom	Operational	
+India	404	07	Idea (Andhra Pradesh)	Idea	Operational	
+India	405	08	Reliance Telecom (Himachal Pradesh)	Reliance Telecom	Operational	
+India	405	09	Reliance Telecom (Jammu &amp; Kashmir)	Reliance Telecom	Operational	
+India	404	09	Reliance Telecom (Assam)	Reliance Telecom	Operational	
+India	405	10	Reliance Telecom (Karnataka)	Reliance Telecom	Operational	
+India	404	10	Bharti Airtel Ltd (Delhi)	Airtel	Operational	
+India	405	11	Reliance Telecom (Kerala)	Reliance Telecom	Operational	
+India	404	11	Vodafone (Delhi)	Vodafone	Operational	
+India	405	12	Reliance Telecom (Kolkata)	Reliance Telecom	Operational	
+India	404	12	Idea (Haryana)	Idea	Operational	
+India	405	13	Reliance Telecom (Maharashtra)	Reliance Telecom	Operational	
+India	404	13	Vodafone (Andhra Pradesh)	Vodafone	Operational	
+India	405	14	Reliance Telecom (Madhya Pradesh)	Reliance Telecom	Operational	
+India	404	14	Idea (Punjab)	Idea	Operational	
+India	405	15	Reliance Telecom (Mumbai)	Reliance Telecom	Operational	
+India	404	15	Vodafone (Uttar Pradesh (East)	Vodafone	Operational	
+India	404	16	Bharti Airtel Ltd (North East)	Airtel	Operational	
+India	404	17	Aircel (West Bengal)	Aircel	Operational	
+India	405	17	Reliance Telecom (Orissa)	Reliance Telecom	Operational	
+India	405	18	Reliance Telecom (Punjab)	Reliance Telecom	Operational	
+India	404	18	Reliance Telecom (Himachal Pradesh)	Reliance Telecom	Operational	
+India	405	19	Reliance Telecom (Rajasthan)	Reliance Telecom	Operational	
+India	404	19	Idea (Kerala)	Idea	Operational	
+India	405	20	Reliance Telecom (Tamilnadu)	Reliance Telecom	Operational	
+India	404	20	Vodafone (Mumbai)	Vodafone	Operational	
+India	405	21	Reliance Telecom (Uttar Pradesh (East)	Reliance Telecom	Operational	
+India	404	21	LOOP (Mumbai)	LOOP	Operational	
+India	404	22	Idea (Maharashtra)	Idea	Operational	
+India	405	22	Reliance Telecom (Uttar Pradesh (West)	Reliance Telecom	Operational	
+India	405	23	Reliance Telecom (West Bengal)	Reliance Telecom	Operational	
+India	404	24	Idea (Gujarat)	Idea	Operational	
+India	405	24	HFCL INFOTEL (Punjab)	HFCL INFOTEL	Operational	
+India	404	25	Aircel (Bihar)	Aircel	Operational	
+India	405	25	TATA Teleservices (Andhra Pradesh)	TATA Teleservices	Operational	
+India	405	26	TATA Teleservices (Assam)	TATA Teleservices	Operational	
+India	405	27	TATA Teleservices (Bihar)	TATA Teleservices	Operational	
+India	404	27	Vodafone (Maharashtra)	Vodafone	Operational	
+India	405	28	TATA Teleservices (Chennai)	TATA Teleservices	Operational	
+India	404	28	Aircel (Orissa)	Aircel	Operational	
+India	404	29	Aircel (Assam)	Aircel	Operational	
+India	405	29	TATA Teleservices (Delhi)	TATA Teleservices	Operational	
+India	405	30	TATA Teleservices (Gujarat)	TATA Teleservices	Operational	
+India	404	30	Vodafone (Kolkata)	Vodafone	Operational	
+India	405	31	TATA Teleservices (Haryana)	TATA Teleservices	Operational	
+India	404	31	Bharti Airtel Ltd (Kolkata)	Airtel	Operational	
+India	405	32	TATA Teleservices (Himachal Pradesh)	TATA Teleservices	Operational	
+India	405	33	TATA Teleservices (Jammu &amp; Kashmir)	TATA Teleservices	Operational	
+India	404	33	Aircel (North East)	Aircel	Operational	
+India	404	34	BSNL (Haryana)	BSNL	Operational	
+India	405	34	TATA Teleservices (Karnataka)	TATA Teleservices	Operational	
+India	405	35	TATA Teleservices (Kerala)	TATA Teleservices	Operational	
+India	404	35	Aircel (Himachal Pradesh)	Aircel	Operational	
+India	405	36	TATA Teleservices (Kolkata)	TATA Teleservices	Operational	
+India	404	36	Reliance Telecom (Bihar)	Reliance Telecom	Operational	
+India	405	37	TATA Teleservices (Maharashtra)	TATA Teleservices	Operational	
+India	404	37	Aircel (Jammu &amp; Kashmir)	Aircel	Operational	
+India	404	38	BSNL (Assam)	BSNL	Operational	
+India	405	38	TATA Teleservices (Madhya Pradesh)	TATA Teleservices	Operational	
+India	405	39	TATA Teleservices (Mumbai)	TATA Teleservices	Operational	
+India	405	40	TATA Teleservices (North East)	TATA Teleservices	Operational	
+India	404	40	Bharti Airtel Ltd (Chennai)	Airtel	Operational	
+India	404	41	Aircel (Chennai)	Aircel	Operational	
+India	405	41	TATA Teleservices (Orissa)	TATA Teleservices	Operational	
+India	405	42	TATA Teleservices (Punjab)	TATA Teleservices	Operational	
+India	404	42	Aircel (Tamilnadu)	Aircel	Operational	
+India	405	43	TATA Teleservices (Rajasthan)	TATA Teleservices	Operational	
+India	404	43	Vodafone (Tamilnadu)	Vodafone	Operational	
+India	405	44	TATA Teleservices (Tamilnadu)	TATA Teleservices	Operational	
+India	404	44	Idea (Karnataka)	Idea	Operational	
+India	404	45	Bharti Airtel Ltd (Karnataka)	Airtel	Operational	
+India	405	45	TATA Teleservices (Uttar Pradesh (East)	TATA Teleservices	Operational	
+India	405	46	TATA Teleservices (Uttar Pradesh (West)	TATA Teleservices	Operational	
+India	404	46	Vodafone (Kerala)	Vodafone	Operational	
+India	405	47	TATA Teleservices (West Bengal)	TATA Teleservices	Operational	
+India	405	48	INDIAN RAILWAYS GSM-R (ALL CIRCLES)	Indian Raylways	Operational	
+India	404	49	Bharti Airtel Ltd (Andhra Pradesh)	Airtel	Operational	
+India	404	50	Reliance Telecom (North East)	Reliance Telecom	Operational	
+India	405	51	Bharti Airtel Ltd (West Bengal)	Airtel	Operational	
+India	404	51	BSNL (Himachal Pradesh)	BSNL	Operational	
+India	405	52	Bharti Airtel Ltd (Bihar)	Airtel	Operational	
+India	404	52	Reliance Telecom (Orissa)	Reliance Telecom	Operational	
+India	405	53	Bharti Airtel Ltd (Orissa)	Airtel	Operational	
+India	404	53	BSNL (Punjab)	BSNL	Operational	
+India	404	54	BSNL (Uttar Pradesh (West)	BSNL	Operational	
+India	405	54	Bharti Airtel Ltd (Uttar Pradesh (East)	Airtel	Operational	
+India	405	55	Bharti Airtel Ltd (Jammu &amp; Kashmir)	Airtel	Operational	
+India	404	55	BSNL (Uttar Pradesh (East)	BSNL	Operational	
+India	404	56	Idea (Uttar Pradesh (West)	Idea	Operational	
+India	405	56	Bharti Airtel Ltd (Assam)	Airtel	Operational	
+India	404	57	BSNL (Gujarat)	BSNL	Operational	
+India	404	58	BSNL (Madhya Pradesh)	BSNL	Operational	
+India	404	59	BSNL (Rajasthan)	BSNL	Operational	
+India	404	60	Vodafone (Rajasthan)	Vodafone	Operational	
+India	404	62	BSNL (Jammu &amp; Kashmir)	BSNL	Operational	
+India	404	64	BSNL (Chennai)	BSNL	Operational	
+India	404	66	BSNL (Maharashtra)	BSNL	Operational	
+India	405	66	Vodafone (Uttar Pradesh (West)	Vodafone	Operational	
+India	405	67	Vodafone (West Bengal)	Vodafone	Operational	
+India	404	67	Reliance Telecom (Madhya Pradesh)	Reliance Telecom	Operational	
+India	404	68	MTNL (Delhi)	Dolphin	Operational	
+India	404	69	MTNL (Mumbai)	Dolphin	Operational	
+India	405	70	Idea (Bihar)	Idea	Operational	
+India	404	70	Bharti Airtel Ltd (Rajasthan)	Airtel	Operational	
+India	404	71	BSNL (Karnataka)	BSNL	Operational	
+India	404	72	BSNL (Kerala)	BSNL	Operational	
+India	404	73	BSNL (Andhra Pradesh)	BSNL	Operational	
+India	404	74	BSNL (West Bengal)	BSNL	Operational	
+India	404	75	BSNL (Bihar)	BSNL	Operational	
+India	404	76	BSNL (Orissa)	BSNL	Operational	
+India	404	77	BSNL (North East)	BSNL	Operational	
+India	404	78	Idea (Madhya Pradesh)	Idea	Operational	
+India	404	79	BSNL (Andaman Nicobar)	BSNL	Operational	
+India	404	80	BSNL (Tamilnadu)	BSNL	Operational	
+India	404	81	BSNL (Kolkata)	BSNL	Operational	
+India	404	82	Idea (Himachal Pradesh)	Idea	Operational	
+India	404	83	Reliance Telecom (Kolkata)	Reliance Telecom	Operational	
+India	404	84	Vodafone (Chennai)	Vodafone	Operational	
+India	404	85	Reliance Telecom (West Bengal)	Reliance Telecom	Operational	
+India	404	86	Vodafone (Karnataka)	Vodafone	Operational	
+India	404	87	Idea (Rajasthan)	Idea	Operational	
+India	404	88	Vodafone (Punjab)	Vodafone	Operational	
+India	404	89	Idea (Uttar Pradesh (East)	Idea	Operational	
+India	404	90	Bharti Airtel Ltd (Maharashtra)	Airtel	Operational	
+India	404	91	Aircel (Kolkata)	Aircel	Operational	
+India	404	92	Bharti Airtel Ltd (Mumbai)	Airtel	Operational	
+India	404	93	Bharti Airtel Ltd (Madhya Pradesh)	Airtel	Operational	
+India	404	94	Bharti Airtel Ltd (Tamilnadu)	Airtel	Operational	
+India	404	95	Bharti Airtel Ltd (Kerala)	Airtel	Operational	
+India	404	96	Bharti Airtel Ltd (Haryana)	Airtel	Operational	
+India	404	97	Bharti Airtel Ltd (Uttar Pradesh (West)	Airtel	Operational	
+India	404	98	Bharti Airtel Ltd (Gujarat)	Airtel	Operational	
+India	405	750	Vodafone (Jammu &amp; Kashmir)	Vodafone	Operational	
+India	405	751	Vodafone (Assam)	Vodafone	Operational	
+India	405	752	Vodafone (Bihar)	Vodafone	Operational	
+India	405	753	Vodafone (Orissa)	Vodafone	Operational	
+India	405	754	Vodafone (Himachal Pradesh)	Vodafone	Operational	
+India	405	755	Vodafone (North East)	Vodafone	Operational	
+India	405	756	Vodafone (Madhya Pradesh)	Vodafone	Operational	
+India	405	799	Idea (Mumbai)	Idea	Operational	
+India	405	800	Aircel (Delhi)	Aircel	Operational	
+India	405	801	Aircel (Andhra Pradesh)	Aircel	Operational	
+India	405	802	Aircel (Gujarat)	Aircel	Operational	
+India	405	803	Aircel (Karnataka)	Aircel	Operational	
+India	405	804	Aircel (Maharashtra)	Aircel	Operational	
+India	405	805	Aircel (Mumbai)	Aircel	Operational	
+India	405	806	Aircel (Rajasthan)	Aircel	Operational	
+India	405	807	Aircel (Haryana)	Aircel	Operational	
+India	405	808	Aircel (Madhya Pradesh)	Aircel	Operational	
+India	405	809	Aircel (Kerala)	Aircel	Operational	
+India	405	810	Aircel (Uttar Pradesh (East)	Aircel	Operational	
+India	405	811	Aircel (Uttar Pradesh (West)	Aircel	Operational	
+India	405	812	Aircel (Punjab)	Aircel	Operational	
+India	405	813	Telenor Unitech (Haryana)	Uninor	Operational	
+India	405	814	Telenor Unitech (Himachal Pradesh)	Uninor	Operational	
+India	405	815	Telenor Unitech (Jammu &amp; Kashmir)	Uninor	Operational	
+India	405	816	Telenor Unitech (Punjab)	Uninor	Operational	
+India	405	817	Telenor Unitech (Rajasthan)	Uninor	Operational	
+India	405	818	Telenor Unitech (Uttar Pradesh (West)	Uninor	Operational	
+India	405	819	Telenor Unitech (Andhra Pradesh)	Uninor	Operational	
+India	405	820	Telenor Unitech (Karnataka)	Uninor	Operational	
+India	405	821	Telenor Unitech (Kerala)	Uninor	Operational	
+India	405	822	Telenor Unitech (Kolkata)	Uninor	Operational	
+India	405	823	Videocon (Andhra Pradesh)	Videocon	Operational	
+India	405	824	Videocon (Assam)	Videocon	Operational	
+India	405	825	Videocon (Bihar)	Videocon	Operational	
+India	405	826	Videocon (Delhi)	Videocon	Operational	
+India	405	827	Videocon (Gujarat)	Videocon	Operational	
+India	405	828	Videocon (Haryana)	Videocon	Operational	
+India	405	829	Videocon (Himachal Pradesh)	Videocon	Operational	
+India	405	830	Videocon (Jammu &amp; Kashmir)	Videocon	Operational	
+India	405	831	Videocon (Karnataka)	Videocon	Operational	
+India	405	832	Videocon (Kerala)	Videocon	Operational	
+India	405	833	Videocon (Kolkata)	Videocon	Operational	
+India	405	834	Videocon (Madhya Pradesh)	Videocon	Operational	
+India	405	835	Videocon (Maharashtra)	Videocon	Operational	
+India	405	836	Videocon (Mumbai)	Videocon	Operational	
+India	405	837	Videocon (North East)	Videocon	Operational	
+India	405	838	Videocon (Orissa)	Videocon	Operational	
+India	405	839	Videocon (Rajasthan)	Videocon	Operational	
+India	405	840	Videocon (Tamilnadu)	Videocon	Operational	
+India	405	841	Videocon (Uttar Pradesh (East)	Videocon	Operational	
+India	405	842	Videocon (Uttar Pradesh (West)	Videocon	Operational	
+India	405	843	Videocon (West Bengal)	Videocon	Operational	
+India	405	844	Telenor Unitech (Delhi)	Uninor	Operational	
+India	405	845	Idea (Assam)	Idea	Operational	
+India	405	846	Idea (Jammu &amp; Kashmir)	Idea	Operational	
+India	405	848	Idea (Kolkata)	Idea	Operational	
+India	405	849	Idea (North East)	Idea	Operational	
+India	405	850	Idea (Orissa)	Idea	Operational	
+India	405	852	Idea (Tamilnadu)	Idea	Operational	
+India	405	853	Idea (West Bengal)	Idea	Operational	
+India	405	854	LOOP (Andhra Pradesh)	LOOP	Operational	
+India	405	855	LOOP (Assam)	LOOP	Operational	
+India	405	856	LOOP (Bihar)	LOOP	Operational	
+India	405	857	LOOP (Delhi)	LOOP	Operational	
+India	405	858	LOOP (Gujarat)	LOOP	Operational	
+India	405	859	LOOP (Haryana)	LOOP	Operational	
+India	405	860	LOOP (Himachal Pradesh)	LOOP	Operational	
+India	405	861	LOOP (Jammu &amp; Kashmir)	LOOP	Operational	
+India	405	862	LOOP (Karnataka)	LOOP	Operational	
+India	405	863	LOOP (Kerala)	LOOP	Operational	
+India	405	864	LOOP (Kolkata)	LOOP	Operational	
+India	405	865	LOOP (Madhya Pradesh)	LOOP	Operational	
+India	405	866	LOOP (Maharashtra)	LOOP	Operational	
+India	405	867	LOOP (North East)	LOOP	Operational	
+India	405	868	LOOP (Orissa)	LOOP	Operational	
+India	405	869	LOOP (Punjab)	LOOP	Operational	
+India	405	870	LOOP (Rajasthan)	LOOP	Operational	
+India	405	871	LOOP (Tamilnadu)	LOOP	Operational	
+India	405	872	LOOP (Uttar Pradesh (East)	LOOP	Operational	
+India	405	873	LOOP (Uttar Pradesh (West)	LOOP	Operational	
+India	405	874	LOOP (West Bengal)	LOOP	Operational	
+India	405	875	Telenor Unitech (Assam)	Uninor	Operational	
+India	405	876	Telenor Unitech (Bihar)	Uninor	Operational	
+India	405	877	Telenor Unitech (North East)	Uninor	Operational	
+India	405	878	Telenor Unitech (Orissa)	Uninor	Operational	
+India	405	879	Telenor Unitech (Uttar Pradesh (East)	Uninor	Operational	
+India	405	880	Telenor Unitech (West Bengal)	Uninor	Operational	
+India	405	881	S TEL (Assam)	S TEL	Operational	
+India	405	882	S TEL (Bihar)	S TEL	Operational	
+India	405	883	S TEL (Himachal Pradesh)	S TEL	Operational	
+India	405	884	S TEL (Jammu &amp; Kashmir)	S TEL	Operational	
+India	405	885	S TEL (North East)	S TEL	Operational	
+India	405	886	S TEL (Orissa)	S TEL	Operational	
+India	405	887	Sistema Shyam (Andhra Pradesh)	Sistema Shyam	Operational	
+India	405	888	Sistema Shyam (Assam)	Sistema Shyam	Operational	
+India	405	889	Sistema Shyam (Bihar)	Sistema Shyam	Operational	
+India	405	890	Sistema Shyam (Delhi)	Sistema Shyam	Operational	
+India	405	891	Sistema Shyam (Gujarat)	Sistema Shyam	Operational	
+India	405	892	Sistema Shyam (Haryana)	Sistema Shyam	Operational	
+India	405	893	Sistema Shyam (Himachal Pradesh)	Sistema Shyam	Operational	
+India	405	894	Sistema Shyam (Jammu &amp; Kashmir)	Sistema Shyam	Operational	
+India	405	895	Sistema Shyam (Karnataka)	Sistema Shyam	Operational	
+India	405	896	Sistema Shyam (Kerala)	Sistema Shyam	Operational	
+India	405	897	Sistema Shyam (Kolkata)	Sistema Shyam	Operational	
+India	405	898	Sistema Shyam (Madhya Pradesh)	Sistema Shyam	Operational	
+India	405	899	Sistema Shyam (Maharashtra)	Sistema Shyam	Operational	
+India	405	900	Sistema Shyam (Mumbai)	Sistema Shyam	Operational	
+India	405	901	Sistema Shyam (North East)	Sistema Shyam	Operational	
+India	405	902	Sistema Shyam (Orissa)	Sistema Shyam	Operational	
+India	405	903	Sistema Shyam (Punjab)	Sistema Shyam	Operational	
+India	405	904	Sistema Shyam (Tamilnadu)	Sistema Shyam	Operational	
+India	405	905	Sistema Shyam (Uttar Pradesh (East)	Sistema Shyam	Operational	
+India	405	906	Sistema Shyam (Uttar Pradesh (West)	Sistema Shyam	Operational	
+India	405	907	Sistema Shyam (West Bengal)	Sistema Shyam	Operational	
+India	405	912	Etisalat DB (Andhra Pradesh)	Etisalat DB	Operational	
+India	405	913	Etisalat DB (Delhi)	Etisalat DB	Operational	
+India	405	914	Etisalat DB (Gujarat)	Etisalat DB	Operational	
+India	405	915	Etisalat DB (Haryana)	Etisalat DB	Operational	
+India	405	916	Etisalat DB (Karnataka)	Etisalat DB	Operational	
+India	405	917	Etisalat DB (Kerala)	Etisalat DB	Operational	
+India	405	918	Etisalat DB (Maharashtra)	Etisalat DB	Operational	
+India	405	919	Etisalat DB (Mumbai)	Etisalat DB	Operational	
+India	405	920	Etisalat DB (Punjab)	Etisalat DB	Operational	
+India	405	921	Etisalat DB (Rajasthan)	Etisalat DB	Operational	
+India	405	922	Etisalat DB (Tamilnadu)	Etisalat DB	Operational	
+India	405	923	Etisalat DB (Uttar Pradesh (East)	Etisalat DB	Operational	
+India	405	924	Etisalat DB (Uttar Pradesh (West)	Etisalat DB	Operational	
+India	405	925	Telenor Unitech (Tamilnadu)	Uninor	Operational	
+India	405	926	Telenor Unitech (Mumbai)	Uninor	Operational	
+India	405	927	Telenor Unitech (Gujarat)	Uninor	Operational	
+India	405	928	Telenor Unitech (Madhya Pradesh)	Uninor	Operational	
+India	405	929	Telenor Unitech (Maharashtra)	Uninor	Operational	
+India	405	930	Etisalat DB (Bihar)	Etisalat DB	Operational	
+India	405	931	Etisalat DB (Madhya Pradesh)	Etisalat DB	Operational	
+India	405	932	Videocon (Punjab)	Videocon	Operational	
+Indonesia	510	00	PT Pasifik Satelit Nusantara (ACeS)	PSN	Operational	
+Indonesia	510	01	PT Indonesian Satellite Corporation Tbk (INDOSAT)	INDOSAT	Operational	
+Indonesia	510	03	PT Indosat TBK	StarOne	Inactive	
+Indonesia	510	07	PT Telkom	TelkomFlexi	Inactive	
+Indonesia	510	08	PT Natrindo Telepon Seluler	AXIS	Operational	
+Indonesia	510	09	PT Smart Telecom	SMART	Operational	
+Indonesia	510	10	PT Telekomunikasi Selular	Telkomsel	Operational	
+Indonesia	510	11	PT XL Axiata Tbk	XL	Operational	
+Indonesia	510	20	Pt Telcom Indonesia TBK	TelkomMobile	Inactive	
+Indonesia	510	21	PT Indonesian Satelite Corporation Tbk (Indosat)	IM3	Inactive	
+Indonesia	510	27	PT Sampoerna Telekomunikasi Indonesia	Ceria	Operational	
+Indonesia	510	28	PT Mobile-8 Telecom	Fren/Hepi	Operational	
+Indonesia	510	89	PT Hutchison CP Telecommunications	3	Operational	
+Indonesia	510	99	PT Bakrie Telecom	Esia	Inactive	
+International	901	01	ICO Satellite Management	ICO	Operational	
+International	901	03	Iridium	Iridium	Operational	
+International	901	04	Globalstar	Globalstar	Operational	
+International	901	05	Thuraya RMSS Network	null	Operational	
+International	901	06	Thuraya Satellite Telecommunications Company	null	Operational	
+International	901	10	ACeS	ACeS	Operational	
+International	901	11	Inmarsat	Inmarsat	Operational	
+International	901	12	Maritime Communications Partner AS	MCP	Operational	
+International	901	13	Global Networks Switzerland Inc.	GSM.AQ	Operational	
+International	901	14	AeroMobile AS	null	Operational	
+International	901	15	OnAir Switzerland Sarl	null	Operational	
+International	901	17	Navitas	Navitas	Operational	
+International	901	18	AT&amp;T Mobility	Cellular @Sea	Operational	
+International	901	21	Seanet Maritime Communications	Seanet	Operational	
+Iran	432	11	Mobile Communications Company of Iran	IR-MCI	Operational	
+Iran	432	14	KIFZO (Telecommunication Kish Co.)	TKC	Operational	
+Iran	432	19	Mobile Telecommunications Company of Esfahan	MTCE	Operational	
+Iran	432	32	Rafsanjan Industrial Complex	Taliya	Operational	
+Iran	432	35	Irancell Telecommunications Services Company	Irancell	Operational	
+Iran	432	70	Telephone Communications Company of Iran	TCI	Operational	
+Iran	432	93	null	Iraphone	Operational	
+Iraq	418	05	Asia Cell Telecommunications Com.	Asia Cell	Operational	
+Iraq	418	08	Korek Telecom Ltd	Korek	Operational	
+Iraq	418	20	Zain Iraq	Zain	Operational	
+Iraq	418	30	Zain Iraq	Zain	Operational	
+Iraq	418	40	Korek Telecom Ltd	Korek	Operational	
+Iraq	418	45	Mobitel Co. Ltd	Mobiltel	Operational	
+Iraq	418	92	Ommnea Wireless	Omnnea	Operational	
+Ireland	272	01	Vodafone Ireland Plc	Vodafone	Operational	
+Ireland	272	02	O2 Ireland	O2	Operational	
+Ireland	272	03	Meteor Mobile Communications Ltd.	Meteor	Operational	
+Ireland	272	04	Access Telecom Ltd.	null	Inactive	
+Ireland	272	05	Hutchison 3G Ireland limited	3	Operational	
+Ireland	272	07	Eircom	Eircom	Operational	
+Ireland	272	09	Clever Communications Ltd.	null	Operational	
+Ireland	272	11	Liffey Telecom	Tesco Mobile	Operational	
+Ireland	272	13	null	Lyca Mobile	Operational	
+Israel	425	01	Partner Communications Co. Ltd.	Orange	Operational	
+Israel	425	02	Cellcom Israel Ltd.	Cellcom	Operational	
+Israel	425	03	Pelephone Communications Ltd.	Pelephone	Operational	
+Israel	425	05	Palestine Cellular Communications	Jawwal	Operational	
+Israel	425	06	null	Wataniya Palestine	Inactive	
+Israel	425	07	Hot Mobile	Hot Mobile	Operational	
+Israel	425	08	null	Golan Telecom	Operational	
+Israel	425	303	Pelephone Communications Ltd.	Rami Levy	Operational	
+Italy	222	01	Telecom Italia SpA	TIM	Operational	
+Italy	222	02	Elsacom	Elsacom	Inactive	
+Italy	222	07	null	Noverca	Operational	
+Italy	222	08	null	Fastweb	Operational	
+Italy	222	10	Vodafone Omnitel N.V.	Vodafone	Operational	
+Italy	222	30	Rete Ferroviaria Italiana	RFI	Inactive	
+Italy	222	77	null	IPSE 2000	Inactive	
+Italy	222	88	Wind Telecomunicazioni SpA	Wind	Operational	
+Italy	222	98	null	Blu	Inactive	
+Italy	222	99	Hutchison 3G	3 Italia	Operational	
+Jamaica	338	05	JM DIGICEL	null	Inactive	
+Jamaica	338	20	Cable &amp; Wireless Jamaica Ltd.	LIME (formerly known as Cable &amp; Wireless)	Operational	
+Jamaica	338	50	Digicel (Jamaica) Limited	Digicel	Operational	
+Jamaica	338	70	Oceanic Digital Jamaica Limited	Claro	Operational	
+Jamaica	338	180	Cable and Wireless Jamaica Limited	LIME (formerly known as Cable &amp; Wireless)	Operational	
+Japan	440	00	Emobile Ltd	eMobile	Operational	
+Japan	440	01	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	02	NTT DoCoMo Kansai	DoCoMo	Operational	
+Japan	440	03	NTT DoCoMo Hokuriku	DoCoMo	Operational	
+Japan	440	04	SoftBank Mobile Corp	Softbank	Operational	
+Japan	440	06	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	07	KDDI Corporation	KDDI	Operational	
+Japan	440	08	KDDI Corporation	KDDI	Operational	
+Japan	440	09	NTT DoCoMo Kansai	DoCoMo	Operational	
+Japan	440	10	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	11	NTT DoCoMo Tokai	DoCoMo	Operational	
+Japan	440	12	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	13	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	14	NTT DoCoMo Thoku	DoCoMo	Operational	
+Japan	440	15	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	16	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	17	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	18	NTT DoCoMo Tokai	DoCoMo	Operational	
+Japan	440	19	NTT DoCoMo Hokkaido	DoCoMo	Operational	
+Japan	440	20	SoftBank Mobile Corp	SoftBank	Operational	
+Japan	440	21	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	22	NTT DoCoMo Kansai	DoCoMo	Operational	
+Japan	440	23	NTT DoCoMo Tokai	DoCoMo	Operational	
+Japan	440	24	NTT DoCoMo Chugoku	DoCoMo	Operational	
+Japan	440	25	NTT DoCoMo Hokkaido	DoCoMo	Operational	
+Japan	440	26	NTT DoCoMo Kyushu	DoCoMo	Operational	
+Japan	440	27	NTT DoCoMo Tohoku	DoCoMo	Operational	
+Japan	440	28	NTT DoCoMo Shikoku	DoCoMo	Operational	
+Japan	440	29	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	30	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	31	NTT DoCoMo Kansai	DoCoMo	Operational	
+Japan	440	32	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	33	NTT DoCoMo Tokai	DoCoMo	Operational	
+Japan	440	34	NTT DoCoMo Kyushu	DoCoMo	Operational	
+Japan	440	35	NTT DoCoMo Kansai	DoCoMo	Operational	
+Japan	440	36	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	37	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	38	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	39	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	40	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	41	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	42	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	43	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	44	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	45	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	46	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	47	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	48	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	49	KDDI Corporation	KDDI	Operational	
+Japan	440	50	KDDI Corporation	KDDI	Operational	
+Japan	440	51	KDDI Corporation	KDDI	Operational	
+Japan	440	52	KDDI Corporation	KDDI	Operational	
+Japan	440	53	KDDI Corporation	KDDI	Operational	
+Japan	440	54	KDDI Corporation	KDDI	Operational	
+Japan	440	55	KDDI Corporation	KDDI	Operational	
+Japan	440	56	KDDI Corporation	KDDI	Operational	
+Japan	440	58	NTT DoCoMo Kansai	DoCoMo	Operational	
+Japan	440	60	NTT DoCoMo Kansai	DoCoMo	Operational	
+Japan	440	61	NTT DoCoMo Chugoku	DoCoMo	Operational	
+Japan	440	62	NTT DoCoMo Kyushu	DoCoMo	Operational	
+Japan	440	63	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	64	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	65	NTT DoCoMo Shikoku	DoCoMo	Operational	
+Japan	440	66	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	67	NTT DoCoMo Tohoku	DoCoMo	Operational	
+Japan	440	68	NTT DoCoMo Kyushu	DoCoMo	Operational	
+Japan	440	69	NTT DoCoMo	DoCoMo	Operational	
+Japan	440	70	KDDI Corporation	Au	Operational	
+Japan	440	71	KDDI Corporation	KDDI	Operational	
+Japan	440	72	KDDI Corporation	KDDI	Operational	
+Japan	440	73	KDDI Corporation	KDDI	Operational	
+Japan	440	74	KDDI Corporation	KDDI	Operational	
+Japan	440	75	KDDI Corporation	KDDI	Operational	
+Japan	440	76	KDDI Corporation	KDDI	Operational	
+Japan	440	77	KDDI Corporation	KDDI	Operational	
+Japan	440	78	Okinawa Cellular Telephone	Okinawa	Operational	
+Japan	440	79	KDDI Corporation	KDDI	Operational	
+Japan	440	80	TU-KA Cellular Tokyo	TU-KA	Inactive	
+Japan	440	81	TU-KA Cellular Tokyo	TU-KA	Inactive	
+Japan	440	82	TU-KA Phone Kansai	TU-KA	Inactive	
+Japan	440	83	TU-KA Cellular Tokai	TU-KA	Inactive	
+Japan	440	85	TU-KA Cellular Tokai	TU-KA	Inactive	
+Japan	440	86	TU-KA Cellular Tokyo	TU-KA	Inactive	
+Japan	440	87	NTT DoCoMo Chugoku	DoCoMo	Operational	
+Japan	440	88	KDDI Corporation	KDDI	Operational	
+Japan	440	89	KDDI Corporation	KDDI	Operational	
+Japan	440	90	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	91	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	92	SoftBank Mobile Corp	Softbank	Operational	
+Japan	440	93	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	94	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	95	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	96	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	97	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	98	Softbank Mobile Corp	Softbank	Operational	
+Japan	440	99	NTT DoCoMo	DoCoMo	Operational	
+Jordan	416	01	Jordan Mobile Telephone Services	zain JO	Operational	
+Jordan	416	02	Xpress	XPress Telecom	Operational	
+Jordan	416	03	Umniah	Umniah	Operational	
+Jordan	416	77	Petra Jordanian Mobile Telecommunications Company (MobileCom)	Orange	Operational	
+Kazakhstan	401	01	Kar-Tel llc	Beeline	Operational	
+Kazakhstan	401	02	GSM Kazakhstan Ltd	Kcell	Operational	
+Kazakhstan	401	07	Dalacom (CDMA)	Dalacom	Operational	
+Kazakhstan	401	08	Kazakhtelecom	Kazakhtelecom	Operational	
+Kazakhstan	401	77	Mobile Telecom Service LLP	Mobile Telecom Service	Operational	
+Kenya	639	02	Safaricom Ltd.	Safaricom	Operational	
+Kenya	639	03	Celtel Kenya Limited	Zain	Operational	
+Kenya	639	05	Telkom Kenya	yu	Operational	
+Kenya	639	07	Econet Wireless Kenya	Orange Kenya	Operational	
+Kiribati	545	09	Telecom Services Kiribati Ltd	Kiribati Frigate	Operational	
+Korea (North)	467	193	Korea Posts and Telecommunications Corporation	SUN NET	Operational	
+Korea (South)	450	00	KT	Dacom	Inactive	
+Korea (South)	450	02	KT	KT	Operational	
+Korea (South)	450	03	Shinsegi Telecom Inc.	Digital 017	Inactive	
+Korea (South)	450	04	KT	KT	Operational	
+Korea (South)	450	05	SK Telecom	SKT	Operational	
+Korea (South)	450	06	LGT Telcom	LGT	Operational	
+Korea (South)	450	08	KTF SHOW	KTF Show	Operational	
+Kuwait	419	02	Mobile Telecommunications Company	Zain	Operational	
+Kuwait	419	03	Wataniya Telecom	Wataniya	Operational	
+Kuwait	419	04	Kuwait Telecommunication Company	Viva	Operational	
+Kyrqyzstan	437	01	Bitel GSM	null	Operational	
+Kyrqyzstan	437	03	Aktel Ltd	Fonex	Operational	
+Kyrqyzstan	437	05	MEGACOM	null	Operational	
+Kyrqyzstan	437	09	NurTelecom LLC	O!	Operational	
+Laos	457	01	Lao Shinawatra Telecom	LaoTel	Operational	
+Laos	457	02	Enterprise of Telecommunications Lao	ETL	Operational	
+Laos	457	03	Star Telecom Co., Ltd	Unitel	Operational	
+Laos	457	08	Millicom Lao Co Ltd	Tigo	Operational	
+Latvia	247	01	Latvian Mobile Phone (LMT)	LMT	Operational	
+Latvia	247	02	Tele2	Tele2	Operational	
+Latvia	247	03	Telekom Baltija (CDMA)	Triatel	Operational	
+Latvia	247	05	Bite Latvija	Bite	Operational	
+Latvia	247	06	Rigatta	null	Inactive	
+Latvia	247	07	Master Telecom (MTS)	null	Operational	
+Latvia	247	08	IZZI	null	Operational	
+Latvia	247	09	Camel Mobile	Camel Mobile	Operational	
+Lebanon	415	01	MIC 1	Alfa	Operational	
+Lebanon	415	03	MIC 2	mtc touch	Operational	
+Lebanon	415	05	Ogero Telecom	Ogero Mobile	Operational	
+Lesotho	651	01	Vodacom Lesotho (pty) Ltd.	Vodacom	Operational	
+Lesotho	651	02	Econet Ezin-cel	null	Operational	
+Liberia	618	01	Lonestar Cell	null	Operational	
+Liberia	618	02	Libercell	null	Inactive	
+Liberia	618	03	Cellcom	null	Operational	
+Liberia	618	04	Comium	null	Operational	
+Liberia	618	07	Cellcom	Cellcom	Operational	
+Liberia	618	20	LIB Telco	null	Inactive	
+Libya	606	00	Libyana Mobile Phone	null	Operational	
+Libya	606	01	Madar	null	Operational	
+Liechtenstein	295	01	Swisscom AG	Swisscom	Operational	
+Liechtenstein	295	02	Orange AG	Orange	Operational	
+Liechtenstein	295	04	Cubic Telecom AG	Cubic Telecom	Operational	
+Liechtenstein	295	05	Mobilkom AG (FL1)	FL1	Operational	
+Liechtenstein	295	77	Alpcom AG	Alpmobil	Operational	
+Lithuania	246	01	Omnitel	null	Operational	
+Lithuania	246	02	Bite GSM	null	Operational	
+Lithuania	246	03	Tele2	null	Operational	
+Luxembourg	270	01	LuxGSM	LuxGSM	Operational	
+Luxembourg	270	77	Tango	Tango	Operational	
+Luxembourg	270	99	Orange S.A.	Orange	Operational	
+Macao China	455	00	SmarTone	null	Operational	
+Macao China	455	01	C.T.M Telemovel+	CTM	Operational	
+Macao China	455	02	China Telecom	null	Operational	
+Macao China	455	03	Hutchison Telecom	3	Operational	
+Macao China	455	04	C.T.M Telemovel+	CTM	Operational	
+Macao China	455	05	Hutchison Telecom	3	Operational	
+Macedonia	294	01	T-Mobile	null	Operational	
+Macedonia	294	02	Cosmofon	null	Operational	
+Macedonia	294	03	VIP Operator	null	Operational	
+Madagascar	646	01	Celtel	Zain	Operational	
+Madagascar	646	02	Orange Madagascar S.A	Orange	Operational	
+Madagascar	646	03	Madamobil	Madamobil	Operational	
+Madagascar	646	04	Telma Mobile S.A	Telma	Operational	
+Malawi	650	01	Telekom Network Ltd.	TNM	Operational	
+Malawi	650	10	Bharti Airtel Limited	Airtel	Operational	
+Malaysia	502	00	Art900	null	Inactive	
+Malaysia	502	01	Telekom Malaysia Bhd	TM CDMA	Operational	
+Malaysia	502	11	MTX Utara	null	Inactive	
+Malaysia	502	12	Maxis Communications Berhad	Maxis	Operational	
+Malaysia	502	13	TM Touch	Celcom	Operational	
+Malaysia	502	16	DIGI	DiGi	Operational	
+Malaysia	502	17	Maxis	Maxis	Operational	
+Malaysia	502	18	U Mobile Sdn Bhd	U Mobile	Operational	
+Malaysia	502	19	CelCom	Celcom	Operational	
+Maldives	472	01	Dhivehi Raajjeyge Gulhun	Dhiraagu	Operational	
+Maldives	472	02	Wataniya Telecom Maldives	Wataniya	Operational	
+Mali	610	01	Malitel	Malitel	Operational	
+Mali	610	02	Orange Mali SA	Orange	Operational	
+Malta	278	01	Vodafone Malta	Vodafone	Operational	
+Malta	278	21	Mobisle Communications Limited	GO	Operational	
+Malta	278	77	Melita Plc	Melita	Operational	
+Martinique & Guadeloupe	340	01	Orange Cara�be Mobiles	Orange	Operational	
+Martinique & Guadeloupe	340	02	Outremer Telecom	Outremer	Operational	
+Martinique & Guadeloupe	340	03	Saint Martin et Saint Barthelemy Telcell Sarl	Telcell	Operational	
+Martinique & Guadeloupe	340	08	MIO GSM	MIO GSM	Operational	
+Martinique & Guadeloupe	340	20	DIGICEL Antilles Fran�aise Guyane	Digicel	Operational	
+Martinique & Guadeloupe	340	993	Orange Martinique	null	Operational	
+Mauritania	609	01	Mattel S.A.	Mattel	Operational	
+Mauritania	609	02	Chinguitel S.A.	null	Operational	
+Mauritania	609	10	Mauritel Mobiles	Mauritel	Operational	
+Mauritius	617	01	Cellplus Mobile Communications Ltd.	Orange	Operational	
+Mauritius	617	02	Mahanagar Telephone (Mauritius) Ltd.	MTML	Operational	
+Mauritius	617	10	Emtel Ltd	Emtel	Operational	
+Mexico	334	01	Nextel M�xico	Nextel	Operational	
+Mexico	334	02	Am�rica M�vil	Telcel	Operational	
+Mexico	334	03	Telefonica Moviles (Movistar)	Movistar	Operational	
+Mexico	334	04	Iusacell / Unefon	Iusacell / Unefon	Operational	
+Mexico	334	05	null	Iusacell / Unefon	Operational	
+Mexico	334	20	Am�rica M�vil	Telcel	Inactive	
+Mexico	334	50	Iusacell / Unefon	Iusacell / Unefon	Operational	
+Micronesia	550	01	FSM Telecom	null	Operational	
+Moldova	259	01	Orange Moldova GSM	Orange	Operational	
+Moldova	259	02	Moldcell GSM	Moldcell	Operational	
+Moldova	259	03	Moldtelecom	IDC	Operational	
+Moldova	259	04	Eventis Mobile GSM	Evntis	Inactive	
+Moldova	259	05	Moldtelecom	Unite	Operational	
+Monaco	212	00	null	Media Telecom	Operational	
+Monaco	212	01	Monaco Telecom	Office des Telephones	Operational	
+Monaco	212	02	null	Morocco Wana	Operational	
+Mongolia	428	88	Unitel	Unitel	Operational	
+Mongolia	428	91	Skytel LLC	Skytel	Operational	
+Mongolia	428	98	G-Mobile LLC	G.Mobile	Operational	
+Mongolia	428	99	Mobicom	MobiCom	Operational	
+Montenegro	297	01	Telenor Montenegro	Telenor	Operational	
+Montenegro	297	02	T-Mobile Montenegro LLC	T-Mobile	Operational	
+Montenegro	297	03	MTEL CG	m:tel CG	Operational	
+Montenegro	297	04	T-Mobile Montenegro LLC	T-Mobile	Operational	
+Montserrat	354	860	Cable &amp; Wireless West Indies (Montserrat)	null	Operational	
+Morocco	604	00	Medi Telecom	M�ditel	Operational	
+Morocco	604	01	Ittissalat Al Maghrib (Maroc Telecom)	IAM	Operational	
+Morocco	604	02	WANA - Groupe ONA	INWI	Operational	
+Morocco	604	05	WANA - Groupe ON	INWI	Operational	
+Mozambique	643	01	Mocambique Celular S.A.R.L	mCel	Operational	
+Mozambique	643	03	Movitel	Movitel	Operational	
+Mozambique	643	04	Vodacom Mozambique, S.A.R.L.	Vodacom	Operational	
+Myanmar	414	01	Myanmar Post and Telecommunication	MPT	Operational	
+Namibia	649	01	Mobile Telecommunications Ltd.	MTC	Operational	
+Namibia	649	02	Switch	Switch	Operational	
+Namibia	649	03	Orascom Telecom Holding	Leo	Operational	
+Nepal	429	01	Nepal Telecommunications	Namaste / Nt Mobile	Operational	
+Nepal	429	02	Spice Nepal Private Ltd.	Ncell	Operational	
+Nepal	429	03	Nepal Telecom	Sky/C-Phone	Operational	
+Nepal	429	04	Smart Telecom Pvt. Ltd	SmartCell	Operational	
+Netherlands	204	01	VastMobiel B.V.	Scarlet Telecom B.V	Inactive	
+Netherlands	204	02	Tele2	Tele2	Operational	
+Netherlands	204	03	Voiceworks B.V	Voiceworks B.V	Inactive	
+Netherlands	204	04	Vodafone	Vodafone	Operational	
+Netherlands	204	05	null	Elephant Talk Communications	Operational	
+Netherlands	204	06	Mundio Mobile Ltd	Mundio Mobile	Operational	
+Netherlands	204	07	Teleena Holding B.V.	Teleena	Operational	
+Netherlands	204	08	KPN B.V	KPN	Operational	
+Netherlands	204	09	Lyca mobile Netherlands Ltd.	Lyca mobile	Operational	
+Netherlands	204	10	KPN B.V	KPN	Operational	
+Netherlands	204	12	Telfort B.V	Telfort	Operational	
+Netherlands	204	13	Unica Installatietechniek B.V.	Unica Installatietechniek B.V.	Inactive	
+Netherlands	204	14	6GMobile B.V	6GMobile	Operational	
+Netherlands	204	15	Ziggo B.V	Ziggo B.V	Operational	
+Netherlands	204	16	T-Mobile	T-mobile	Operational	
+Netherlands	204	17	Intercity Mobile Communications B.V	Intercity Mobile Communications B.V	Inactive	
+Netherlands	204	18	UPC Netherlands B.V	UPC	Inactive	
+Netherlands	204	19	Mixe Communication Solutions B.V	Mixe Communication Solutions B.V	Inactive	
+Netherlands	204	20	T-mobile	T-mobile	Operational	
+Netherlands	204	21	ProRail B.V	null	Inactive	
+Netherlands	204	22	null	Ministerie van Defensie	Inactive	
+Netherlands	204	23	ASPIDER Solutions B.V	null	Inactive	
+Netherlands	204	24	Private Mobility Netherlands B.V	Private Mobility Netherlands B.V	Inactive	
+Netherlands	204	25	CapX B.V.	null	Inactive	
+Netherlands	204	26	SpeakUp B.V	SpeakUp B.V	Inactive	
+Netherlands	204	27	Brezz Nederland B.V	Brezz Nederland B.V	Inactive	
+Netherlands	204	28	Lancelot B.V	Lancelot B.V	Inactive	
+Netherlands	204	67	RadioAccess B.V.	null	Inactive	
+Netherlands	204	68	null	Unify Group Holding B.V	Inactive	
+Netherlands	204	69	KPN B.V	KPN	Operational	
+Netherlands Antilles	362	51	TelCell	null	Operational	
+Netherlands Antilles	362	69	Digicel	null	Operational	
+Netherlands Antilles	362	76	Antiliano Por N.V.	Antiliano Por N.V.	Operational	
+Netherlands Antilles	362	91	UTS	null	Operational	
+Netherlands Antilles	362	94	Bayos	Bayos	Operational	
+Netherlands Antilles	362	95	MIO	MIO	Operational	
+Netherlands Antilles	362	630	Cingular Wireless	null	Operational	
+Netherlands Antilles	362	951	UTS Wireless Curacao	null	Operational	
+New Caledonia	546	01	OPT Mobilis	Mobilis	Operational	
+New Zealand	530	00	Telecom New Zealand	Telecom	Operational	
+New Zealand	530	01	Vodafone New Zealand	Vodafone	Operational	
+New Zealand	530	02	Telecom New Zealand	Telecom	Inactive	
+New Zealand	530	03	Woosh Wireless New Zealand	Woosh	Operational	
+New Zealand	530	04	TelstraClear New Zealand	TelstraClear	Operational	
+New Zealand	530	05	Telecom New Zealand	XT Mobile (Telecom)	Operational	
+New Zealand	530	06	Skinny	Skinny	Operational	
+New Zealand	530	24	2degrees	2degrees	Operational	
+New Zealand	530	28	Econet Wireless New Zealand GSM Mobile Network	null	Inactive	
+New Zealand	530	55	Cable &amp; Wireless Guernsey Ltd	Telecom	Operational	
+Nicaraqua	710	21	Empresa Nicarag�ense de Telecomunicaciones, S.A. (ENITEL)	Claro	Operational	
+Nicaraqua	710	30	Telef�nica M�viles de Nicaragua S.A.	movistar	Operational	
+Nicaraqua	710	73	Servicios de Comunicaciones, S.A. (SERCOM)	SERCOM	Operational	
+Nicaraqua	710	730	SERCOM S.A. (Nicaragua)	null	Inactive	
+Niger	614	01	Sahel.Com	SahelCom	Operational	
+Niger	614	02	Celtel	Zain	Operational	
+Niger	614	03	Telecel Niger SA	Telecel	Operational	
+Niger	614	04	Orange	Orange	Operational	
+Nigeria	621	20	Bharti Airtel Ltd	Airtel	Operational	
+Nigeria	621	25	Vidafone Communications Ltd.	Visafone	Operational	
+Nigeria	621	30	MTN Nigeria Communications	MTN	Operational	
+Nigeria	621	40	Nigerian Mobile Telecommunications Ltd.	M-Tel	Operational	
+Nigeria	621	50	Globacom Ltd	Glo	Operational	
+Nigeria	621	60	Etisalat Ltd.	Etisalat	Operational	
+Norway	242	01	Telenor Norway AS	Telenor	Operational	
+Norway	242	02	TeliaSonera Norway AS	Netcom	Operational	
+Norway	242	03	Teletopia Gruppen AS	MTU	Inactive	
+Norway	242	04	Tele2 Norway AS	Tele2	Operational	
+Norway	242	05	Network Norway AS	Network Norway	Operational	
+Norway	242	06	ICE Norge AS	ICE	Inactive	
+Norway	242	07	Ventelo Norway AS	Ventelo	Operational	
+Norway	242	08	TDC Mobil AS	TDC	Operational	
+Norway	242	09	Com4 AS	Com4	Inactive	
+Norway	242	11	Systemnet AS	null	Inactive	
+Norway	242	12	Telenor Norway AS	Telenor	Inactive	
+Norway	242	20	null	Jernbaneverket	Inactive	
+Norway	242	21	null	Jernbaneverket	Inactive	
+Norway	242	22	Network Norway AS	Network Norway	Inactive	
+Norway	242	23	Lyca Mobile Ltd	null	Operational	
+Oman	422	02	Oman Mobile Telecommunications Company	Oman Mobile	Operational	
+Oman	422	03	Oman Qatari Telecommunications Company (Nawras)	Nawras	Operational	
+Oman	422	04	Oman Telecommunications Company (Omantel)	null	Inactive	
+Pakistan	410	01	Mobilink-PMCL	Mobilink	Operational	
+Pakistan	410	03	Pakistan Telecommunication Mobile Ltd	Ufone	Operational	
+Pakistan	410	04	China Mobile	Zong	Operational	
+Pakistan	410	06	Telenor Pakistan	Telenor	Operational	
+Pakistan	410	07	WaridTel	Warid	Operational	
+Pakistan	410	08	Instaphone (AMPS/CDMA)	null	Inactive	
+Palau	552	01	Palau National Communications Corp. (a.k.a. PNCC)	PNCC	Operational	
+Palau	552	80	Palau Mobile Corporation	Palau Mobile	Operational	
+Panama	714	01	Cable &amp; Wireless Panama S.A.	Cable &amp; Wireless	Operational	
+Panama	714	02	Telefonica Moviles Panama S.A	movistar	Operational	
+Panama	714	03	Am�rica M�vil	Claro	Operational	
+Panama	714	04	Group	Digicel	Operational	
+Panama	714	20	Movistar	null	Inactive	
+Papua New Guinea	537	01	Pacific Mobile Communications	B-Mobile	Operational	
+Papua New Guinea	537	02	Greencom	null	Inactive	
+Papua New Guinea	537	03	Digicel PNG	Digicel	Operational	
+Paraquay	744	01	Hola Paraguay S.A	VOX	Operational	
+Paraquay	744	02	AMX Paraguay S.A.	Claro	Operational	
+Paraquay	744	03	Compa�ia Privada de Comunicaciones S.A.	null	Inactive	
+Paraquay	744	04	Telefonica Celular Del Paraguay S.A. (Telecel)	Claro	Operational	
+Paraquay	744	05	N�cleo S.A	Personal	Operational	
+Peru	716	06	Telef�nica M�viles Per�	movistar	Operational	
+Peru	716	07	Nextel	null	Inactive	
+Peru	716	10	Am�rica M�vil Per�	Claro	Operational	
+Peru	716	17	NII Holdings	NEXTEL	Operational	
+Philippines	515	01	Globe Telecom via Innove Communications	Islacom	Inactive	
+Philippines	515	02	Globe Telecom	Globe	Operational	
+Philippines	515	03	PLDT via Smart Communications	Smart	Operational	
+Philippines	515	05	Digital Telecommunications Philippines	Sun	Operational	
+Philippines	515	11	PLDT via ACeS Philippines	null	Inactive	
+Philippines	515	18	PLDT via Smarts Connectivity Unlimited Resources Enterprise	Cure	Operational	
+Philippines	515	88	Nextel	Nextel	Operational	
+Poland	260	01	Plus GSM (Polkomtel S.A.)	Plus (Polkomtel)	Operational	
+Poland	260	02	ERA GSM (Polska Telefonia Cyfrowa Sp. Z.o.o.)	T-Mobile	Operational	
+Poland	260	03	Orange	Orange	Operational	
+Poland	260	04	Netia S.A	Tele 2 (Netia)	Inactive	
+Poland	260	05	Polska Telefonia Kom�rkowa Centertel Sp. z o.o.	null	Inactive	
+Poland	260	06	Play (P4)	Play (P4)	Operational	
+Poland	260	07	Netia S.A	Netia (Using P4 Nw)	Operational	
+Poland	260	08	E-Telko Sp. z o.o.	null	Inactive	
+Poland	260	09	Telekomunikacja Kolejowa (GSM-R)	null	Inactive	
+Poland	260	10	Sferia S.A.	Sferia (Using T-mobile)	Operational	
+Poland	260	12	Cyfrowy Polsat S.A.	Cyfrowy Polsat	Operational	
+Poland	260	14	Sferia S.A	Sferia (Using T-mobile)	Operational	
+Poland	260	15	CenterNet S.A.	CenterNet (UMTS Data only)	Operational	
+Poland	260	16	Mobyland Sp. z o.o.	Mobyland (UMTS)	Operational	
+Poland	260	17	Aero 2 Sp. z o.o.	Aero2 (UMTS)	Operational	
+Portugal	268	01	Vodafone Portugal	Vodafone	Operational	
+Portugal	268	03	Sonaecom � Servi�os de Comunica��es, S.A.	Optimus	Operational	
+Portugal	268	05	Oniway - Inforcomunica��es, S.A.	null	Inactive	
+Portugal	268	06	Telecomunica��es M�veis Nacionais	TMN	Operational	
+Portugal	268	21	Zapp Portugal	Zapp	Operational	
+Puerto Rico (US)	330	10	Cingular Wireless	null	Inactive	
+Puerto Rico (US)	330	11	Puerto Rico Telephone Company	Claro	Operational	
+Quatar	427	01	Qtel	Qtel	Operational	
+Quatar	427	02	Vodaphone Quatar	Vodafone	Operational	
+Republic of Congo	629	01	Celtel Congo	Zain	Operational	
+Republic of Congo	629	07	MTN CONGO S.A	Libertis Telecom	Operational	
+Republic of Congo	629	10	Libertis Telecom	null	Operational	
+Reunion	647	00	Orange	null	Operational	
+Reunion	647	02	Outremer Telecom	null	Operational	
+Reunion	647	10	SFR Reunion	null	Operational	
+Reunion	647	995	SRR Mayotte	SRR Mayotte	Operational	
+Reunion	647	997	Orange Mayotte	Orange	Operational	
+Romania	226	01	Vodafone Romania SA	null	Operational	
+Romania	226	02	Romtelecom	null	Operational	
+Romania	226	03	Cosmote (Zapp)	null	Operational	
+Romania	226	04	Cosmote (Zapp)	null	Operational	
+Romania	226	05	Digi mobil	null	Operational	
+Romania	226	06	Cosmote	null	Operational	
+Romania	226	10	Orange Romania	null	Operational	
+Russia	250	01	Mobile TeleSystems	MTS	Operational	
+Russia	250	02	MegaFon OJSC	MegaFon	Operational	
+Russia	250	03	Nizhegorodskaya Cellular Communications	NCC	Operational	
+Russia	250	04	Sibchallenge	null	Inactive	
+Russia	250	05	Yeniseytelecom	ETK	Operational	
+Russia	250	06	CJSC Saratov System of Cellular Communications	Skylink	Operational	
+Russia	250	07	Zao SMARTS	SMARTS	Operational	
+Russia	250	09	Khabarovsky Cellular Phone	Skylink	Operational	
+Russia	250	10	Don Telecom	DTC	Inactive	
+Russia	250	11	Orensot	null	Inactive	
+Russia	250	12	Baykal Westcom / Akos	Baykal	Operational	
+Russia	250	13	Kuban GSM	KUGSM	Inactive	
+Russia	250	15	SMARTS Ufa, SMARTS Uljanovsk	SMARTS	Operational	
+Russia	250	16	New Telephone Company	NTC	Operational	
+Russia	250	17	JSC Uralsvyazinform	Utel	Operational	
+Russia	250	19	Indigo	null	Inactive	
+Russia	250	20	Tele2	Tele2	Operational	
+Russia	250	23	Mobicom - Novisibirsk	Mobicom	Inactive	
+Russia	250	28	Beeline	Beeline	Inactive	
+Russia	250	35	MOTIV	MOTIV	Operational	
+Russia	250	37	ZAO Kodotel	ZAO Kodotel	Operational	
+Russia	250	38	Tambov GSM	Tambov GSM	Operational	
+Russia	250	39	Uralsvyazinform	Utel	Operational	
+Russia	250	44	Stuvtelesot	null	Inactive	
+Russia	250	92	MTS - Primtelefon	null	Inactive	
+Russia	250	93	Telecom XXI	null	Inactive	
+Russia	250	99	OJSC VimpelCom	Beeline	Operational	
+Russia	250	801	null	EastWest Telecom	Operational	
+Russia	250	802	MCS Pvolzhie	MegaFon	Operational	
+Russia	250	803	Mobicom-Caucasus	MegaFon	Operational	
+Russia	250	804	Sonic Duo	MegaFon	Operational	
+Russia	250	805	RTCOM	RTCOM	Operational	
+Russia	250	806	Smolensk Cellular	Smolensk Cellular	Operational	
+Russia	250	807	ST Mobile	ST Mobile	Operational	
+Russia	250	808	Siberian Cellular Comms (Omsk)	Tele 2	Operational	
+Russia	250	809	Corporation Severnaya Corona	Vimpelcom	Operational	
+Russia	250	810	Tatincom-T	Volga Telecom	Operational	
+Russia	250	811	Votek Mobile	null	Operational	
+Rwanda	635	10	MTN Rwandacell SARL	MTN	Operational	
+Rwanda	635	11	null	Rwandatel (CDMA)	Inactive	
+Rwanda	635	12	null	Rwandatel (GSM)	Operational	
+Rwanda	635	13	TIGO RWANDA S.A	Tigo	Operational	
+Saint Kitts and Nevis	356	50	Digicel	Digicel	Operational	
+Saint Kitts and Nevis	356	70	UTS	Chippie	Operational	
+Saint Kitts and Nevis	356	110	Cable &amp; Wireless	LIME	Operational	
+Saint Lucia	358	30	Cingular Wireless	null	Inactive	
+Saint Lucia	358	50	Digicel (St Lucia) Limited	Digicel	Operational	
+Saint Lucia	358	110	Cable &amp; Wireless	Lime (Cable &amp; Wireless)	Operational	
+Saint Vincent and the Grenadines	360	10	Cingular Wireless	null	Inactive	
+Saint Vincent and the Grenadines	360	70	Digicel (St. Vincent and Grenadines) Limited	Digicel	Operational	
+Saint Vincent and the Grenadines	360	100	Cingular Wireless	Cingular Wireless	Operational	
+Saint Vincent and the Grenadines	360	110	Cable &amp; Wireless	Lime (Cable &amp; Wireless)	Operational	
+Samoa	549	01	Digicel Pacific Ltd.	Digicel	Operational	
+Samoa	549	27	SamoaTel Ltd	SamoaTel	Operational	
+Sao Tome and Principe	626	01	Companhia Santomese de Telecomunica��es	CSTmovel	Operational	
+Saudi Arabia	420	01	Saudi Telecom Company	Al Jawal	Operational	
+Saudi Arabia	420	03	Etihad Etisalat Company	Mobily	Operational	
+Saudi Arabia	420	04	Zain SA	Zain SA	Operational	
+Saudi Arabia	420	07	EAE	null	Inactive	
+Senegal	608	01	Sonatel	Orange	Operational	
+Senegal	608	02	Millicom	Tigo	Operational	
+Senegal	608	03	Sudatel	Expresso	Operational	
+Serbia	220	01	Telenor Serbia	Telenor	Operational	
+Serbia	220	02	Telenor Montenegro	Telenor	Operational	
+Serbia	220	03	Telekom Srbija a.d.	mt:s	Operational	
+Serbia	220	04	Monet	null	Inactive	
+Serbia	220	05	Vip mobile d.o.o.	VIP	Operational	
+Seychelles	633	01	Cable &amp; Wireless (Seychelles) Ltd.	Cable &amp; Wireless	Operational	
+Seychelles	633	02	Mediatech International Ltd.	Mediatech International	Operational	
+Seychelles	633	10	Telecom (Seychelles) Ltd.	Airtel	Operational	
+Sierra Leone	619	01	Bharti Airtel Ltd	Airtel	Operational	
+Sierra Leone	619	02	Millicom (SL) Ltd	Tigo	Operational	
+Sierra Leone	619	03	Lintel Sierra Leone Ltd	Africell	Operational	
+Sierra Leone	619	04	Comium (Sierra Leone) Ltd.	Comium	Operational	
+Sierra Leone	619	05	Lintel (Sierra Leone) Ltd.	Africell	Operational	
+Sierra Leone	619	25	Mobitel	Mobitel	Operational	
+Sierra Leone	619	40	Datatel (SL) Ltd GSM	null	Inactive	
+Sierra Leone	619	50	Dtatel (SL) Ltd CDMA	null	Inactive	
+Sierra Leone	619	999	Sierratel	LeoneCel	Inactive	
+Singapore	525	01	Singapore Telecom	SingTel	Operational	
+Singapore	525	02	Singapore Telecom	SingTel-G18	Operational	
+Singapore	525	03	MobileOne Asia	M1	Operational	
+Singapore	525	05	StarHub Mobile	StarHub	Operational	
+Singapore	525	12	Digital Trunked Radio Network	null	Operational	
+Slovakia	231	01	Orange Slovensko	Orange	Operational	
+Slovakia	231	02	T-Mobile Slovensko	T-Mobile	Operational	
+Slovakia	231	03	Unient Communications	null	Inactive	
+Slovakia	231	04	T-Mobile Slovensko	T-Mobile	Operational	
+Slovakia	231	05	Orange Slovensko	Orange	Inactive	
+Slovakia	231	06	Telef�nica O2	O2	Operational	
+Slovakia	231	15	Orange Slovensko	null	Inactive	
+Slovakia	231	99	�eleznice Slovenskej Republiky	�SR	Inactive	
+Slovenia	293	40	SI Mobil D.D	Si.mobil	Operational	
+Slovenia	293	41	Ipkonet	Mobitel	Operational	
+Slovenia	293	64	T-2 d.o.o.	T-2	Operational	
+Slovenia	293	70	Tusmobil d.o.o.	Tu�mobil	Operational	
+Solomon Islands	540	01	Solomon Telekom Co Ltd	BREEZE	Operational	
+Solomon Islands	540	10	Breeze	null	Inactive	
+Somalia	637	01	Telesom	Telesom	Operational	
+Somalia	637	04	Somafone FZLLC	Somafone	Operational	
+Somalia	637	10	NationLink Telecom	Nationlink	Operational	
+Somalia	637	19	Hormuud Telecom	null	Inactive	
+Somalia	637	25	Hormuud Telecom Somalia Inc	Hormuud	Operational	
+Somalia	637	30	Golis Telecom Somalia	Golis	Operational	
+Somalia	637	62	Telecom Mobile	null	Inactive	
+Somalia	637	65	Telecom Mobile	null	Inactive	
+Somalia	637	82	Telcom Somalia	Telcom	Operational	
+South Africa	655	01	Vodacom (Pty) Ltd.	Vodacom	Operational	
+South Africa	655	02	Telkom	Telkom Mobile / 8.ta	Operational	
+South Africa	655	04	Sasol (PTY) LTD	Sasol (PTY) LTD	Operational	
+South Africa	655	06	Sentech (Pty) Ltd.	Sentech	Operational	
+South Africa	655	07	Cell C (Pty) Ltd.	Cell C &amp; Virgin	Operational	
+South Africa	655	10	Mobile Telephone Networks	MTN	Operational	
+South Africa	655	11	SAPS Gauteng	null	Operational	
+South Africa	655	13	Neotel	Neotel	Operational	
+South Africa	655	19	Wireless Business Solutions	iBurst	Operational	
+South Africa	655	21	Cape Town Metropolitan Council	null	Operational	
+South Africa	655	25	Wirels Connect	Wirels Connect	Operational	
+South Africa	655	30	Bokamoso Consortium	null	Operational	
+South Africa	655	31	Karabo Telecoms (Pty) Ltd.	null	Operational	
+South Africa	655	32	Ilizwi Telecommunications	null	Operational	
+South Africa	655	33	Thinta Thinta Telecommunications	null	Operational	
+South Africa	655	34	Bokone Telecoms	null	Inactive	
+South Africa	655	35	Kingdom Communications	null	Inactive	
+South Africa	655	36	Amatole Telecommunication Services	null	Inactive	
+South Africa	655	41	South African Police Service	South African Police Service	Inactive	
+South Sudan	659	01	Vivacell	Now	Operational	
+Spain	214	01	Vodafone Spain	Vodafone	Operational	
+Spain	214	03	France Telecom Espa�a SA	Orange	Operational	
+Spain	214	04	Xfera Moviles SA	Yoigo	Operational	
+Spain	214	05	Telef�nica M�viles Espa�a	TME	Operational	
+Spain	214	06	Vodafone Spain	Vodafone	Operational	
+Spain	214	07	Telef�nica M�viles Espa�a	movistar	Operational	
+Spain	214	08	Euskaltel	Euskaltel	Operational	
+Spain	214	09	France Telecom Espa�a SA	Orange	Operational	
+Spain	214	15	BT Group Espa�a Compa�ia de Servicios Globales de Telecomunicaciones S.A.U.	BT	Operational	
+Spain	214	16	Telecable de Asturias S.A.U.	TeleCable	Operational	
+Spain	214	17	R Cable y Telecomunicaciones Galicia S.A.	M�bil R	Operational	
+Spain	214	18	Cableuropa S.A.U.	ONO	Operational	
+Spain	214	19	E-PLUS Moviles Virtuales Espa�a S.L.U. (KPN)	Simyo	Operational	
+Spain	214	20	Fonyou Telecom S.L.	Fonyou	Operational	
+Spain	214	21	Jazz Telecom S.A.U.	Jazztel	Operational	
+Spain	214	22	Best Spain Telecom	DigiMobil	Operational	
+Spain	214	23	Barablu Movil Espana	Barablu	Operational	
+Spain	214	24	Eroski M�vil Espa�a	Eroski	Operational	
+Spain	214	25	LycaMobile S.L.	LycaMobile	Operational	
+Spain	214	33	France Telecom Espa�a SA	Orange	Operational	
+Sri Lanka	413	01	Sri Lanka Telecom Mobitel	Mobitel	Operational	
+Sri Lanka	413	02	Dialog Telekom	Dialog	Operational	
+Sri Lanka	413	03	Emirates Telecommunication Corporation	Etisalat	Operational	
+Sri Lanka	413	05	Bharti Airtel	Airtel	Operational	
+Sri Lanka	413	08	Hutchison Telecommunications Lanka (Pvt) Limited	Hutch	Operational	
+St. Helena, Ascension and Tristan	658	00	null	Cable &amp; Wireless Plc	Inactive	
+St. Pierre and Miquelon	308	01	St. Pierre-et-Miquelon T�l�com	Ameris	Operational	
+Sudan	634	01	Zain Group - Sudan	Zain SD	Operational	
+Sudan	634	02	MTN Sudan	MTN	Operational	
+Sudan	634	05	Wawat Securities	Vivacell (NOW)	Operational	
+Sudan	634	07	Sudatel Group	Sudani One	Operational	
+Suriname	746	01	Telecommunications Company Suriname	Telesur	Inactive	
+Suriname	746	02	Telecommunications Company Suriname	Telesur	Operational	
+Suriname	746	03	Digicel Group Limited	Digicel	Operational	
+Suriname	746	04	Intelsur N.V. / UTS N.V.	Uniqa	Operational	
+Swaziland	653	10	Swazi MTN	null	Operational	
+Sweden	240	00	Direct2 Internet	Direct2 Internet	Operational	
+Sweden	240	01	Telia Sonera AB	Telia	Operational	
+Sweden	240	02	H3G Access AB	3	Operational	
+Sweden	240	03	Netett Sverige AB	Netett Sverige AB	Operational	
+Sweden	240	05	Svenska UMTS-N�t	Sweden 3G (Telia/Tele2)	Operational	
+Sweden	240	06	Telenor Sweden AB	Telenor	Operational	
+Sweden	240	07	Tele2 Sweden AB	Tele2	Operational	
+Sweden	240	08	Telenor Sweden AB	Telenor	Operational	
+Sweden	240	09	Djuice Mobile Sweden	Djuice Mobile Sweden	Operational	
+Sweden	240	10	Spring Mobil AB	Spring	Operational	
+Sweden	240	11	null	Lindholmen Science Park	Operational	
+Sweden	240	12	Lycamobile AB	Lycamobile	Operational	
+Sweden	240	13	Ventelo Sweden AB	Ventelo	Operational	
+Sweden	240	14	TDC Mobil AS	TDC	Operational	
+Sweden	240	15	Wireless Maingate	Wireless Maingate	Inactive	
+Sweden	240	16	42 Telecom AB	42 Telecom AB	Operational	
+Sweden	240	17	G�talandsn�tet AB	G�talandsn�tet AB	Operational	
+Sweden	240	18	Generic Mobile Systems Sweden AB	null	Operational	
+Sweden	240	19	Mudio Mobile Sweden	Mudio Mobile	Operational	
+Sweden	240	20	Imez AB	Imez AB	Inactive	
+Sweden	240	22	null	EuTel	Operational	
+Sweden	240	23	null	Infobip Ltd	Inactive	
+Sweden	240	25	null	Digitel Mobile Srl	Operational	
+Sweden	240	26	Beepsend	Beepsend	Inactive	
+Sweden	240	27	MyIndian AB	MyIndian AB	Operational	
+Sweden	240	28	null	CoolTEL Aps	Inactive	
+Sweden	240	29	null	Mercury International Carrier Services	Operational	
+Sweden	240	30	null	NextGen Mobile Ltd	Operational	
+Sweden	240	32	null	CompaTel Ltd.	Inactive	
+Sweden	240	34	Tigo LTD	Tigo LTD	Operational	
+Sweden	240	36	Interactive digital media GmbH	IDM	Operational	
+Sweden	240	41	null	Shyam Telecom UK Ltd	Operational	
+Sweden	240	89	ACN Communications Sweden AB	ACN Communications Sweden AB	Operational	
+Sweden	240	500	Unknown	Unknown	Operational	
+Sweden	240	503	Unknown	Unknown	Operational	
+Switzerland	228	01	Swisscom Ltd	Swisscom	Operational	
+Switzerland	228	02	Sunrise Communications AG	Sunrise	Operational	
+Switzerland	228	03	Orange Communications SA	Orange	Operational	
+Switzerland	228	05	Togewanet AG (Comfone)	null	Operational	
+Switzerland	228	06	SBB AG	SBB AG	Operational	
+Switzerland	228	07	IN&amp;Phone SA	IN&amp;Phone	Operational	
+Switzerland	228	08	Tele2 Telecommunications AG	Tele2	Operational	
+Switzerland	228	09	Comfone AG	Comfone	Inactive	
+Switzerland	228	12	Sunrise	null	Inactive	
+Switzerland	228	50	3G Mobile AG	null	Operational	
+Switzerland	228	51	Bebbicell AG	null	Operational	
+Switzerland	228	52	Barablu Mobile AG	Barablu	Inactive	
+Switzerland	228	53	UPC Cablecom GmbH	UPC	Inactive	
+Switzerland	228	54	Lyca Mobile AG	Lyca Mobile	Inactive	
+Syrian Arab Republic	417	01	Syriatel Mobile Telecom	Syriatel	Operational	
+Syrian Arab Republic	417	02	MTN Syria	MTN	Operational	
+Taiwan	466	01	Far EasTone Telecommunications Co Ltd	FarEasTone	Operational	
+Taiwan	466	05	Asia Pacific Telecom	APTG	Operational	
+Taiwan	466	06	Tuntex Telecom	Tuntex	Operational	
+Taiwan	466	11	LDTA/Chungwa Telecom	Chunghwa LDM	Operational	
+Taiwan	466	68	ACeS Taiwan Telecommunications Co Ltd	ACeS	Inactive	
+Taiwan	466	88	KG Telecom	KG Telecom	Operational	
+Taiwan	466	89	VIBO Telecom	VIBO	Operational	
+Taiwan	466	92	Chunghwa Telecom LDM	Chungwa	Operational	
+Taiwan	466	93	Mobitai Communications	MobiTai	Operational	
+Taiwan	466	97	Taiwan Cellular Corporation	Taiwan Mobile	Operational	
+Taiwan	466	99	TransAsia Telecoms	TransAsia	Operational	
+Tajikistan	436	01	JV Somoncom	Tcell	Operational	
+Tajikistan	436	02	Indigo Tajikistan	Tcell	Operational	
+Tajikistan	436	03	TT Mobile	MLT	Operational	
+Tajikistan	436	04	Babilon-Mobile	Babilon-M	Operational	
+Tajikistan	436	05	Vimpelcom	Beeline	Operational	
+Tajikistan	436	12	Indigo	Tcell	Operational	
+Tanzania	640	01	Tri Telecommunication (T) Ltd.	null	Inactive	
+Tanzania	640	02	MIC Tanzania Ltd	tiGO	Operational	
+Tanzania	640	03	Zanzibar Telecom Ltd	Zantel	Operational	
+Tanzania	640	04	Vodacom Tanzania Ltd	Vodacom	Operational	
+Tanzania	640	05	Bharti Airtel	Airtel	Operational	
+Tanzania	640	06	Dovetel Ltd	SasaTel	Operational	
+Tanzania	640	07	Tanzania Telecommunication Company LTD	TTCL Mobile	Operational	
+Tanzania	640	08	Benson Informatics Ltd	Benson Online (BOL)	Operational	
+Tanzania	640	09	ExcellentCom Tanzania Ltd	Hits	Inactive	
+Tanzania	640	11	Smile Telecoms Holdings Ltd	SmileCom	Operational	
+Thailand	520	00	CAT CDMA	Hutch	Operational	
+Thailand	520	01	Advanced Info Service	AIS	Operational	
+Thailand	520	02	CAT Telecom	CAT CDMA	Operational	
+Thailand	520	10	null	WCS	Inactive	
+Thailand	520	15	elephone Organization of Thailand	TOT 3G	Operational	
+Thailand	520	18	Total Access Communications Co (DTAC)	dtac	Operational	
+Thailand	520	23	Digital Phone (AIS)	AIS GSM 1800	Operational	
+Thailand	520	88	True Corporation	True Move H	Inactive	
+Thailand	520	99	True Corporation	True Move	Operational	
+Timor-Leste (East Timor)	514	02	Timor Telecom	null	Operational	
+Togo	615	01	Togo Telecom	Togo Cell	Operational	
+Togo	615	02	Telecel	null	Inactive	
+Togo	615	03	Moov Togo	Moov	Operational	
+Togo	615	05	Telecel	null	Inactive	
+Tonga	539	01	Tonga Communications Corporation	null	Operational	
+Tonga	539	43	Shoreline Communication	null	Operational	
+Tonga	539	88	Digicel	Digicel	Operational	
+Trinidad and Tobago	374	12	BMobile	bMobile	Operational	
+Trinidad and Tobago	374	13	Digicel	Digicel	Operational	
+Trinidad and Tobago	374	140	LaqTel Ltd.	null	Inactive	
+Tunisia	605	01	Orange Tunisia	Orange	Operational	
+Tunisia	605	02	Tunisie Telecom	Tunicell	Operational	
+Tunisia	605	03	Orascom Telecom	Tunisiana	Operational	
+Turkey	286	01	Turkcell Iletisim Hizmetleri A.S.	Turkcell	Operational	
+Turkey	286	02	Vodafone	Vodafone	Operational	
+Turkey	286	03	Avea	Avea	Operational	
+Turkey	286	04	Aycell	Aycell	Inactive	
+Turkmenistan	438	01	Barash Communication Technologies (BCTI)	MTS	Operational	
+Turkmenistan	438	02	TM-Cell	TM-Cell	Operational	
+Turks and Caicos Islands (UK)	376	05	Digicel (Turks &amp; Caicos) Limited	Digicel	Operational	
+Turks and Caicos Islands (UK)	376	350	Cable &amp; Wireless West Indies Ltd (Turks &amp; Caicos)	Lime (Cable &amp; Wireless)	Operational	
+Turks and Caicos Islands (UK)	376	352	IslandCom Communications Ltd.	Islandcom	Operational	
+Uganda	641	01	Celtel Uganda	Zain	Operational	
+Uganda	641	10	MTN Uganda Ltd.	MTN	Operational	
+Uganda	641	11	Uganda Telecom Ltd.	Uganda Telecom	Operational	
+Uganda	641	14	Orange Uganda	Orange	Operational	
+Uganda	641	22	Warid Telecom Uganda Ltd.	Warid Telecom	Operational	
+UK	234	00	British Telecom	BT	Operational	
+UK	234	01	Mudio Mobile Ltd	Vectone MObile	Operational	
+UK	234	02	O2 UK Ltd	O2	Operational	
+UK	234	03	Jersey Airtel Ltd	Airtel-Vodafone	Operational	
+UK	234	04	FMS Solutions Ltd	null	Inactive	
+UK	234	05	COLT Mobile Telecommunications Ltd	null	Inactive	
+UK	234	06	Internet Computer Bureau Ltd	null	Inactive	
+UK	234	07	Cable and Wireless Plc	null	Operational	
+UK	234	08	OnePhone Ltd	null	Inactive	
+UK	234	09	Tismi BV	null	Inactive	
+UK	234	10	Telef�nica Europe	O2	Operational	
+UK	234	11	Telef�nica Europe	O2	Operational	
+UK	234	12	Network Rail Infrastructure Ltd	Railtrack Plc (UK)	Inactive	
+UK	234	13	Network Rail Infrastructure Ltd	Railtrack Plc (UK)	Inactive	
+UK	234	14	Hay Systems Ltd	null	Inactive	
+UK	234	15	Vodafone Ltd	Vodafone	Operational	
+UK	234	16	Talk Talk Communications Ltd	Talk Talk	Operational	
+UK	234	17	Flextel Ltd	null	Operational	
+UK	234	18	Wire9 Telecom Plc	Cloud9	Operational	
+UK	234	19	Teleware Plc	Teleware	Operational	
+UK	234	20	Hutchison 3G UK Ltd	3	Operational	
+UK	234	22	Routo Telecommunications Ltd	RoutoMessaging	Inactive	
+UK	234	24	Stour Marine	Greenfone	Inactive	
+UK	234	25	null	Truphone (UK)	Inactive	
+UK	234	30	Everything Everywhere Ltd	T-mobile	Operational	
+UK	234	31	Virgin Media (MVNO on EE)	Virgin	Operational	
+UK	234	32	Virgin Media (MVNO on EE)	Virgin	Operational	
+UK	234	33	Everything Everywhere Ltd	Orange	Operational	
+UK	234	34	Everything Everywhere Ltd	Orange	Operational	
+UK	234	35	JSC Ingenium Ltd	null	Inactive	
+UK	234	37	Synectiv Ltd	null	Inactive	
+UK	234	50	Jersey Telecom GSM	JT-Wave	Operational	
+UK	234	55	Cable and Wireless Plc	Cable and Wireless	Operational	
+UK	234	58	Manx Telecom	Manx Telecom	Operational	
+UK	234	60	Dobson Telephone Co	null	Inactive	
+UK	234	75	Inquam Telecom Ltd.	Inquam	Operational	
+UK	234	76	British Telecom	BT	Operational	
+UK	234	78	Airwave	null	Operational	
+UK	234	91	Vodafone United Kingdom	Vodafone	Operational	
+UK	234	95	Network Rail Infrastructure Ltd	Railtrack Plc (UK)	Inactive	
+UK	234	995	Guernsey Airtel	Guernsey Airtel	Inactive	
+Ukraine	255	01	Ukrainian Mobile Communication, UMC	MTS	Operational	
+Ukraine	255	02	Ukranian Radio Systems, URS	Beeline	Operational	
+Ukraine	255	03	Kyivstar GSM JSC	Kyivstar	Operational	
+Ukraine	255	04	Intertelecom	IT	Inactive	
+Ukraine	255	05	Golden Telecom	Golden Telecom	Operational	
+Ukraine	255	06	Astelit	life:)	Operational	
+Ukraine	255	07	Ukrtelecom	Ukrtelecom	Operational	
+Ukraine	255	21	CJSC - Telesystems of Ukraine	PEOPLEnet	Operational	
+Ukraine	255	23	CDMA Ukraine	ITC	Operational	
+Ukraine	255	25	CST Inves	Newtone	Operational	
+Ukraine	255	39	Golden Telecom GSM	null	Inactive	
+Ukraine	255	50	Ukrainian Mobile Communications	null	Inactive	
+Ukraine	255	67	Kyivstar	null	Inactive	
+Ukraine	255	68	Wellcom	null	Inactive	
+United Arab Emirates	424	02	E mirates Telecom Corp	Etisalat	Operational	
+United Arab Emirates	424	03	Emirates Integrated Telecommunications Company	du	Operational	
+United States	310	00	Mid-Tex Cellular Ltd.	Mid-Tex Cellular	Operational	
+United States	311	00	Mid-Tex Cellular Ltd.	Mid-Tex Cellular	Operational	
+United States	310	02	Sprint Spectrum	Sprint	Inactive	
+United States	310	03	Verizon Wireless	Verizon	Operational	
+United States	310	04	Verizon Wireless	Verizon	Operational	
+United States	310	05	Verizon Wireless	Verizon	Operational	
+United States	310	06	Consolidated Telcom	null	Inactive	
+United States	310	07	Highland	null	Operational	
+United States	310	08	Corr Wireless Communications	null	Inactive	
+United States	310	09	Edge Wireless LLC	null	Inactive	
+United States	310	10	Verizon Wirelss	Verizon	Operational	
+United States	311	10	Chariton Valley Communications	Chariton Valley	Operational	
+United States	310	11	Southern Communications Services Inc.	null	Inactive	
+United States	316	11	null	Southern Communications Services	Operational	
+United States	310	12	Verizon Wireless	Verizon	Operational	
+United States	310	13	Alltel Wireless	Alltel Wireless	Operational	
+United States	310	14	Testing	null	Inactive	
+United States	310	15	Southern Communications dba Southern LINC	null	Inactive	
+United States	310	16	Cricket Communications	null	Operational	
+United States	310	17	North Sight Communications Inc.	null	Operational	
+United States	310	20	Union Telephone Company	null	Operational	
+United States	311	20	Missouri RSA 5 Partnership	null	Operational	
+United States	310	23	VoiceStream 23	null	Inactive	
+United States	310	24	VoiceStream 24	null	Inactive	
+United States	310	25	VoiceStream 25	null	Inactive	
+United States	310	26	T-Mobile	T-Mobile	Operational	
+United States	311	30	Indigo Wireless	Indigo Wireless	Operational	
+United States	310	30	Centennial Communications	Centennial	Operational	
+United States	310	31	AERIAL	null	Inactive	
+United States	310	32	IT&amp;E Overseas, Inc.	null	Inactive	
+United States	310	34	Airpeak	Airpeak	Operational	
+United States	310	38	USA 3650 AT&amp;T	null	Inactive	
+United States	310	40	Concho Cellular Telephone Co., Inc.	Concho	Operational	
+United States	311	40	Commnet Wireless	Commnet Wireless	Operational	
+United States	310	46	TMP Corp	Simmetry	Operational	
+United States	310	50	ACS Wireless Inc.	null	Inactive	
+United States	311	50	Wikes Cellular	Wikes Cellular	Operational	
+United States	311	60	Farmers Cellular Telephone	Farmers Cellular	Operational	
+United States	310	60	Consolidated Telcom	null	Operational	
+United States	310	70	Highland Cellular, Inc.	null	Operational	
+United States	311	70	AT&amp;T	AT&amp;T	Operational	
+United States	311	80	Pine Telephone Company	Pine Cellular	Operational	
+United States	310	80	Corr Wireless Communications LLC	Corr	Operational	
+United States	311	90	Long Lines Wireless LLC	Long Lines Wireless	Operational	
+United States	310	90	AT&amp;T	AT&amp;T	Operational	
+United States	311	100	High Plains Wireless	High Plains Wireless	Operational	
+United States	310	100	New Mexico RSA 4 East Ltd. Partnership	Plateau Wireless	Operational	
+United States	310	110	Verizon Wireless	Verizon	Operational	
+United States	311	110	High Plains Wireless	High Plains Wireless	Operational	
+United States	310	120	Sprint	Sprint	Operational	
+United States	310	130	Carolina West Wireless	null	Inactive	
+United States	311	130	Alltel	Alltel	Operational	
+United States	311	140	MBO Wireless	Sprocket	Operational	
+United States	310	140	GTA Wireless LLC	null	Inactive	
+United States	310	150	AT&amp;T Mobility	AT&amp;T	Operational	
+United States	311	150	Wilkes Cellular	null	Operational	
+United States	310	160	T-Mobile	T-Mobile	Operational	
+United States	310	170	Cingular Wireless	null	Inactive	
+United States	311	170	Broadpoint Inc	PetroCom	Operational	
+United States	310	180	West Central Wireless	West Central	Operational	
+United States	310	190	Alaska Wireless Communications LLC	Dutch Harbor	Operational	
+United States	310	200	T-Mobile	null	Inactive	
+United States	310	210	T-Mobile	null	Inactive	
+United States	311	210	Farmers Cellular Telephone	Farmers Cellular	Operational	
+United States	310	220	T-Mobile	null	Inactive	
+United States	310	230	T-Mobile	null	Inactive	
+United States	310	240	T-Mobile	null	Inactive	
+United States	310	250	T-Mobile	null	Inactive	
+United States	310	260	T-Mobile	null	Operational	
+United States	311	260	Cellular One	Cellular One	Operational	
+United States	311	270	Lamar Country Cellular	Lamar Country Cellular	Operational	
+United States	310	270	T-Mobile	null	Inactive	
+United States	310	280	Verizon Wireless	Verizon	Inactive	
+United States	310	290	Nep Cellcorp Inc.	null	Inactive	
+United States	311	290	NEP Wireless	NEP Wireless	Operational	
+United States	310	300	Smart Call (Truphone)	iSmart Mobile	Operational	
+United States	310	310	T-Mobile	null	Inactive	
+United States	310	311	Farmers Wireless	null	Operational	
+United States	310	320	Smith Bagley Inc, dba Cellular One	Cellular One	Operational	
+United States	310	330	AN Subsidiary LLC	null	Inactive	
+United States	311	330	Michigan Wireless, LLC	Bug Tussel Wireless	Operational	
+United States	310	340	Westlink Communications	Westlink	Operational	
+United States	310	350	Mohave Cellular L.P.	null	Inactive	
+United States	310	360	Cellular Network Partnership dba Pioneer Cellular	null	Inactive	
+United States	310	370	Guamcell Cellular and Paging	null	Inactive	
+United States	311	370	General Communication Inc.	GCI Wireless in Alaska	Operational	
+United States	310	380	New Cingular Wireless PCS, LLC	null	Inactive	
+United States	310	390	Verizon Wireless	Verizon	Operational	
+United States	310	400	Wave Runner LLC	i CAN_GSM	Operational	
+United States	310	410	AT&amp;T	AT&amp;T	Operational	
+United States	310	420	Cincinnati Bell Wireless LLC	Cincinnati Bell	Operational	
+United States	310	430	Alaska Digitel LLC	null	Operational	
+United States	310	440	Numerex Corp.	null	Inactive	
+United States	310	450	Viaero Wireless	Viaero	Operational	
+United States	310	460	TMP Corp	Simmetry	Operational	
+United States	310	470	Omnipoint	null	Inactive	
+United States	310	480	Verizon Wireless	Verizon	Operational	
+United States	310	490	T-Mobile	T-Mobile	Operational	
+United States	310	500	Alltel	Alltel	Operational	
+United States	310	510	Airtel Wireless LLC	Airtel	Operational	
+United States	310	520	VeriSign	null	Inactive	
+United States	310	530	West Virginia Wireless	null	Operational	
+United States	311	530	NewCore Wireless	NewCore Wireless	Operational	
+United States	310	540	Oklahoma Western Telephone Company	Oklahoma Western	Operational	
+United States	310	550	Wireless Solutions International	AT&amp;T	Inactive	
+United States	310	560	AT&amp;T	AT&amp;T	Operational	
+United States	310	570	MTPCS LLC	Cellular One	Operational	
+United States	310	580	Inland Cellular Telephone Company	null	Inactive	
+United States	310	590	Alltel	Alltel	Operational	
+United States	310	600	New Cell Inc. dba Cellcom	null	Inactive	
+United States	310	610	Elkhart Telephone Co.	Epic Touch	Operational	
+United States	310	620	Coleman County Telecommunications Inc. (Trans Texas PCS)	Coleman County Telecom	Operational	
+United States	310	630	Choice Wireless	AmeriLink PCS	Operational	
+United States	310	640	Airadigm Communications	Airadigm	Operational	
+United States	310	650	Jasper Wireless Inc.	Jasper	Operational	
+United States	310	660	MetroPCS	MetroPCS	Operational	
+United States	310	670	Northstar	Northstar	Operational	
+United States	310	680	AT&amp;T	AT&amp;T	Operational	
+United States	310	690	Conestoga Wireless Company	Conestoga	Operational	
+United States	310	700	Cross Valiant Cellular Partnership	null	Inactive	
+United States	310	710	Arctic Slopo Telephone Association Cooperative	null	Inactive	
+United States	310	720	Wireless Solutions International Inc.	null	Inactive	
+United States	310	730	SeaMobile	SeaMobile	Operational	
+United States	310	740	Convey Communications Inc.	Convey	Operational	
+United States	310	750	East Kentucky Network LLC dba Appalachian Wireless	null	Inactive	
+United States	310	760	Panhandle Telecommunications Systems Inc.	Panhandle	Operational	
+United States	310	770	Iowa Wireless Services LLC dba I Wireless	i wireless	Operational	
+United States	310	780	Connect Net Inc	null	Inactive	
+United States	310	790	PinPoint Communications Inc.	PinPoint	Operational	
+United States	310	800	T-Mobile	null	Inactive	
+United States	310	810	Brazos Cellular Communications Ltd.	null	Inactive	
+United States	310	820	South Canaan Cellular Communications Co. LP	null	Inactive	
+United States	310	830	Caprock Cellular Ltd. Partnership	Caprock	Operational	
+United States	310	840	Telecom North America Mobile, Inc.	telna Mobile	Operational	
+United States	310	850	Aeris Communications, Inc.	Aeris	Operational	
+United States	310	860	TX RSA 15B2, LP dba Five Star Wireless	null	Inactive	
+United States	310	870	Kaplan Telephone Company Inc.	PACE	Operational	
+United States	310	880	Advantage Cellular Systems, Inc.	Advantage	Operational	
+United States	310	890	Verizon Wireless	Verizon	Operational	
+United States	310	900	Mid-Rivers Communications	Mid-Rivers Wireless	Operational	
+United States	310	910	Verizon Wireless	Verizon	Operational	
+United States	310	920	Get Mobile	null	Inactive	
+United States	310	930	Copper Valley Wireless	null	Inactive	
+United States	310	940	Poka Lambro Telecommunications Ltd.	null	Operational	
+United States	310	950	Iris Wireless LLC	XIT Wireless	Operational	
+United States	310	960	Texas RSA 1 dba XIT Cellular	Plateau Wireless	Operational	
+United States	310	970	Globalstar USA	Globalstar	Operational	
+United States	310	980	New Cingular Wireless PCS LLC	null	Inactive	
+United States	310	990	E.N.M.R. Telephone Cooperative	null	Inactive	
+Uruguay	748	00	Compania estatal (ANTEL)	Ancel	Operational	
+Uruguay	748	01	Compania estatal (ANTEL)	Ancel	Operational	
+Uruguay	748	03	Ancel	null	Inactive	
+Uruguay	748	07	Telef�nica M�viles Uruguay	Movistar	Operational	
+Uruguay	748	10	AM Wireless Uruguay S.A.	Claro	Operational	
+Uzbekistan	434	01	Buztel	null	Operational	
+Uzbekistan	434	02	Uzmacom	null	Operational	
+Uzbekistan	434	04	Unitel LLC	Beeline	Operational	
+Uzbekistan	434	05	Coscom	Ucell	Operational	
+Uzbekistan	434	06	Perfectum Mobile	null	Operational	
+Uzbekistan	434	07	Uzdunrobita	MTS	Operational	
+Vanuatu	541	01	Telecom Vanatou	Smile	Operational	
+Vanuatu	541	05	Digicel	Digicel	Operational	
+Venezuela	734	01	Digitel	Digitel	Operational	
+Venezuela	734	02	Digitel	Digitel	Operational	
+Venezuela	734	03	Digitel	Digitel	Operational	
+Venezuela	734	04	Movistar	Movistar	Operational	
+Venezuela	734	06	Movilnet	Movilnet	Operational	
+Vietnam	452	01	Vietnam Mobile Telecom (VMS)	MobilFone	Operational	
+Vietnam	452	02	Vinaphone	Vinaphone	Operational	
+Vietnam	452	03	S-Telecom	S-Fone	Operational	
+Vietnam	452	04	Viettel Corporation (Viettel Mobile)	Viettel	Operational	
+Vietnam	452	05	Hanoi Telecom	Vietnamobile	Operational	
+Vietnam	452	06	EVN Telecom	E-Mobile	Operational	
+Vietnam	452	07	GTEL Mobile JSC	Beeline VN	Operational	
+Yemen	421	01	SabaFon	null	Operational	
+Yemen	421	02	Spacetel Yemen	null	Operational	
+Yemen	421	03	Yemen Mobile	Yemen Mobile	Operational	
+Yemen	421	04	Y	HiTS-Unitel	Operational	
+Zambia	645	01	Zain	null	Operational	
+Zambia	645	02	MTN	null	Operational	
+Zambia	645	03	Zamtel	null	Operational	
+Zimbabwe	648	01	Net*One Cellular Ltd	Net One	Operational	
+Zimbabwe	648	03	Telecel Zimbabwe Ltd	Telecel	Operational	
+Zimbabwe	648	04	Econet Wireless	Econet	Operational	

@@ -1,0 +1,1490 @@
+28967	-Aquafon	
+28968	-A-Mobile	
+41201	Afghan Wireless Communication Company-AWCC	
+41220	Telecom Development Company Afghanistan Ltd.-Roshan	
+41240	MNT Group Afganistan-MTN	
+41250	Etisalat Afghanistan-Etisalat	
+27601	Albanian Mobile Communications-AMS	
+27602	Vodafone Albania-Vodafone	
+27603	Eagle Mobile-Eagle Mobile	
+27604	Plus Communcation-Plus Communication	
+60301	ATM Mobilis-Mobilis	
+60302	Orascom Telecom Algerie Spa-Djezzy	
+60303	Wataniya Telecom Algerie-Nedjma	
+54411	Blue Sky Communications	
+21303	Servei De Tele. DAndorra-Mobiland	
+63102	Unitel S.a.r.l.-Unitel	
+63103	Movicel-Movicel	
+63104	Movicel-Movicel	
+36505	Mossel Ltd (Digicel)	
+36510	Weblinks Limited	
+365840	Cable &amp; Wireless	
+34430	Antigua Public Utilities Authority-APUA	
+344920	Cable &amp; Wireless (Antigua)-Lime	
+344930	Antigua Wireless Ventures Limited-Digicel	
+72201	Telefonica M�viles Argentina SA-Movistar	
+72202	Nll Holdings-Nextel	
+72207	Telefonica M�viles Argentina SA-Movistar	
+72234	Telecom Personal S.A.-Personal	
+72235	Hutchison Telecommunications Argentina S.A.-Port-Hable	
+72270	Telefonica M�viles Argentina SA-Movistar	
+722310	AMX Argentina S.A-Claro	
+722320	AMX Argentina S.A-Claro	
+722330	AMX Argentina S.A-Claro	
+722340	Telecom Personal S.A.-Personal	
+722341	Telecom Personal S.A.-Personal	
+28301	ArmenTel-Beeline (telecommunications)	
+28305	K Telecom CJSC-VivaCell-MTS	
+28310	Orange Armenia-Orange	
+28377	K Telecom-VivaCell-MTS	
+36301	Servicio di Telecomunicacio di Aruba-SETAR	
+36302	Digicel-Digicel	
+50501	Telstra Corporation Ltd.-Telstra	
+50502	Optus Mobile Pty. Ltd.-Optus	
+50503	Vodafone Network Pty. Ltd.-Vodafone	
+50506	Hutchison 3G Australia Pty. Ltd.-Hi3G	
+50512	Hutchison 3G Australia Pty. Ltd.-Hi3G	
+50513	Rail Corporation New South Wales-Railcorp	
+50514	Telecom New Zealand-AAPT	
+50521	TPG Telecom Limited-SOUL	
+50524	Advanced Communications Technologies Pty. Ltd.	
+50538	Vodafone Hutchison Australia Proprietary Limited-Crazy John`s	
+50571	Telstra Corporation Ltd.-Telstra	
+50572	Telstra Corporation Ltd.-Telstra	
+50590	Optus Ltd.-Optus	
+23201	A1 Telekom Austria-A1	
+23202	A1 Telekom Austria-A1	
+23203	T-Mobile-T-Mobile	
+23205	Orange-Orange	
+23206	-Orange	
+23207	tele.ring-Tele.ring	
+23209	A1 Telekom Austria-A1	
+23210	Hutchison 3G Austria-3 (Drei)	
+23211	A1 Telekom Austria-Bob	
+23212	Yesss (Orange)-Yesss	
+23214	Hutchison 3G Austria-3 (Drei)	
+23215	Barablu Mobile Ltd-Barablu	
+23291	�BB-GSM-R A	
+40001	Azercell Limited Liability Joint Venture-Azercell	
+40002	Bakcell Limited Liabil ity Company-Bakcell	
+40004	Azerfon-Nar Mobile (Azerfon)	
+364390	The Bahamas Telecommunications Company Ltd-BaTelCo	
+42601	Bahrain Telecommunications Company-Batelco	
+42602	Zain Bahrain-Zain BH	
+42604	STC Bahrain-Viva	
+47001	GrameenPhone Ltd-GramenPhone	
+47002	Axiata Bangladesh Ltd.-Robi	
+47003	Orascom Telecom Holding-Banglalink	
+47004	TeleTalk-TeleTalk	
+47005	Citycell-Citycell	
+47006	Airtel-Airtel	
+47007	Aritel-Airtel	
+34250	Digicel Barbados-DigiCel	
+342600	Lime (Cable &amp; Wireless)-Lime (Cable &amp; Wireless)	
+342750	Digicel-DigiCel	
+25701	MDC Velcom-Velcom	
+25702	Mobile TeleSystems-MTS	
+25703	BelCel-DIALLOG	
+25704	Belarussian Telecommunications Network-life :)	
+257501	-BelCel JV	
+20601	Belgacom Mobile-Proximus	
+20605	Telenet-Telenet	
+20610	France Telecom-Mobistar	
+20620	KPN-Base	
+70267	Belize Telemedia-DigiCell	
+70268	International Telecommunications Ltd. (INTELCO)-IntelCo	
+70299	SpeedNet Communications Ltd-Smart	
+61601	Benin Telecoms Mobile-Libercom	
+61602	Telecel Benin-Moov	
+61603	Spacetel Benin-MTN	
+61604	Bell Benin Communications-BBCOM	
+61605	Glo Communications-Glo	
+35001	Cingular GSM 1900-Digicel Bermuda	
+35002	M3 Wireless-Mobility	
+35010	Cingular Wireless-Cellular One (Cingular)	
+35038	Mossel (Digicel)-Digicel	
+40211	Bhutan Telecom Ltd-B-Mobile	
+40277	Tashi InfoComm Limited-TashiCell	
+73601	Nuevatel S.A.-Nuevatel	
+73602	ENTEL S.A.-Entel	
+73603	Telefonica Celular De Bolivia S.A-Tigo	
+21803	Public Enterprise Croatian Telecom Ltd.-HT-Eronet	
+21805	RS Telecommunications JSC Banja Luka-m:tel	
+21890	BH Telecom-BH Mobile	
+65201	Mascom Wireless (Pty) Ltd.-Mascom	
+65202	Orange Botswana (Pty) Ltd.-Orange	
+65204	Botswana Telecommunications Corporation-BTC Mobile	
+72400	Nll Holdings, INC.-Nextel	
+72401	CRT Cellular	
+72402	Telecom Italia Mobile-TIM	
+72403	Telecom Italia Mobile-TIM	
+72404	Telecom Italia Mobile-TIM	
+72405	Claro-Claro	
+72406	Vivo S.A-Vivo	
+72407	CTBC Telecom-CTBC Celular	
+72408	Telecom Italia Mobile-TIM	
+72410	Vivo S.A-Vivo	
+72411	Vivo S.A-Vivo	
+72415	Sercomtel Celular-Sercomtel	
+72416	Brasil Telecom Celular S.A-Oi	
+72423	Vivo S.A-Oi	
+72424	Amazonia Celular S/A-Oi / Brasil Telecom	
+72431	TNL PCS-Oi	
+72432	CTBC Celular-CTBC Celular	
+72433	CTBC Celular-CTBC Celular	
+72434	CTBC Celular-CTBC Celular	
+72437	Unicel Do Brasil-Aeiou	
+348170	Cabel &amp; Wireless (west Indies)-Cabel &amp; Wireless	
+348570	Caribbean Cellular Telephone, Boatphone Ltd.-CCT Boatphone	
+348770	Digicel (BVI) Limited-Digicel	
+52801	Jabatan Telekom Brunei	
+52802	B-Mobile Communications Sdn Bhd-B-Mobile	
+52811	DST Com-DSTCom	
+28401	M-Tel GSM BG-M-Tel	
+28403	BTC Mobile-Vivacom	
+28405	Globul-GLOBUL	
+28406	BTC Mobile-Vivacom	
+61301	Onatal-Telmob	
+61302	Celtel Burkina Faso-Zain	
+61303	Telcel Faso SA-Telcel Faso	
+64201	Econet Wireless Burundi PLC-Spacetel	
+64202	Africell PLC-Africell	
+64203	Onatel-Onatel	
+64207	LACELL SU-Smart Mobile	
+64282	U-COM Burundi S.A.-U-COM Burundi	
+45601	CamGSM-Mobitel	
+45602	Telekom Malaysia International (Cambodia) Co. Ltd-Hello	
+45603	S Telecom (reserved)-S Telecom	
+45604	Cambodia Advance Communications Co. Ltd-QB	
+45605	Applifone Co. Ltd-Star-Cell	
+45606	Latelz Co. Ltd-Smart Mobile	
+45608	Viettel-Mefone	
+45609	Sotelco Ltd.-Beeline	
+45611	Excell-Excell	
+45618	Camshin (Shinawatra)-Mfone	
+62401	Mobile Telephone Networks Cameroon-MTN Cameroon	
+62402	Orange Cameroun-Orange	
+302220	Telus Mobility-Telus	
+302221	Telus Mobility (Unknown)-Telus	
+302290	Aurtek Wurekess	
+302320	Dave Wireless-Mobilicity	
+302350	FIRST Networks Operations-FIRST	
+302360	Telus Mobility-MiKE	
+302361	Telus Mobility-Telus	
+302370	Fido Solutions (Rogers Wireless)-Fido	
+302380	Dryden Mobility-DMTS	
+302490	Globalive Communications-WIND Mobile	
+302500	Videotron-Videotron	
+302510	Videotron-Videotron	
+302610	Bell Mobility-Bell	
+302620	ICE Wireless-ICE Wireless	
+302640	Bell Mobility-Bell	
+302651	Bell Mobility-Bell	
+302652	BC Tel Mobility	
+302653	Telus Mobility-Telus	
+302654	Sask Tel Mobility	
+302655	MTS Mobility-MTS	
+302656	Thunder Bay Telephone Mobility-TBay	
+302657	Telus Mobility-Telus	
+302680	SaskTel Mobility-SaskTel	
+302701	MB Tel Mobility	
+302702	MT&amp;T Mobility (Aliant)	
+302703	New Tel Mobility (Aliant	
+302710	Globalstar Canada-Globalstar	
+302720	Rorges Communications-Rogers Wireless	
+302780	SaskTel Mobility-SaskTel	
+302880	Shared Telus, Bell, and SaskTel-Bell / Telus / SaskTel	
+62501	CVMovel, S.A.-CVMOVEL	
+62502	T+Telecomunica��es-T+	
+34650	Digicel Cayman Ltd.-Digicel	
+346140	Cable &amp; Wireless (Cayman) Limited-Cable &amp; Wireless (Lime)	
+62301	Atlantique Telecom Centrafrique SA-MOOV	
+62302	Telecel Centrafrique (TC)-TC	
+62303	Orange RCA-Orange	
+62304	Nationlink Telecom RCA-Nationlink	
+62201	CelTel Tchad SA-Zain	
+62202	Tchad Mobile-Tawali	
+62203	Millicom Tchad-Millicom Tchad	
+62204	Sotel Mobile-Salam	
+73001	Entel PCS Telecomunicaciones S.A.-entel	
+73002	Telef�nica M�vil de Chile-movistar	
+73003	Claro Chile S.A.-Claro	
+73004	Centennial Cayman Corp. Chile S.A.-Nextel	
+73009	Centennial Cayman Corp. Chile-Nextel	
+73010	Entel Telefonia M�vil S.A.-entel	
+73099	WILL Telefonia-Will	
+46000	China Mobile	
+46001	China Unicom	
+46002	Liaoning PPTA	
+46003	China Unicom CDMA	
+46005	China Telecom	
+46006	China Unicom	
+46007	China Mobile	
+46020	China Tietong (GSM-R)	
+73201	Colombia Telecomunicaciones S.A.	
+73202	Edatel S.A.-Edatel	
+732101	Comcel S.A. Occel S.A./Celcaribe-Comcel	
+732102	Bellsouth Colombia S.A.-Movistar	
+732103	Colombia M�vil S.A.-Tigo	
+732111	Colombia M�vil S.A.-Tigo	
+732123	Telef�nica M�viles Colombia-Movistar	
+65401	HURI - SNPT	
+54801	Telecom Cook	
+71201	Instituto Costarricense de Electricidad - ICE-ICE	
+71202	Instituto Costarricense de Electricidad - ICE-ICE	
+71203	Gruop ICE-ICE	
+61202	Moov	
+61203	Orange	
+61204	Koz	
+61205	MTN	
+61206	OriCel	
+21901	T-Mobile	
+21902	Tele2	
+21910	VIPnet	
+36801	Empresa de Telecomunicaciones de Cuba, SA-Cubacel	
+28001	CYTA-Cytamobile-Vodafone	
+28010	Areeba Ltd-MTN	
+28020	Primetel PLC-Primetel	
+23001	T-Mobile Czech Republic a.s.-T-Mobile	
+23002	Telef�nica O2 Czech Republic a.s.-O2	
+23003	Vodafone Czech Republic a.s.-Vodafone	
+23004	Mobilkom a.s.-U:fon	
+23010	Telef�nica O2 Czech Republic a.s.-O2	
+23099	Vodafone Czech Republic a.s. R&amp;D Centre-Vodafone	
+63001	Vodacom Congo RDC sprl-Vodacom	
+63002	Celtel Congo-Zain	
+63005	Supercell Sprl-Supercell	
+63086	Congo-Chine Telecom s.a.r.l.-CCT	
+63088	Yozma Timeturns-Yozma Timeturns	
+63089	Sait-T�l�com SPRL-SAIT Telecom	
+23801	TDC Mobil APS-TDC	
+23802	Telenor Denmark-Telenor	
+23803	End2End	
+23806	H3G APS-3	
+23807	Mundio Mobile-Mundio Mobile	
+23808	-Nordisk Mobiltelefon	
+23810	TDC Mobil APS-TDC	
+23812	Lyca Mobile Denmark Ltd-Lyca	
+23820	Telia Sonera APS-Telia	
+23830	Telia Sonera APS-Telia	
+23877	Telenor Denmark-Telenor	
+63801	Evatis	
+36620	Cingular Wireless-Digicel	
+366110	Cable &amp; Wireless Dominica Ltd.	
+37001	Orange Dominicana, S.A.-Orange	
+37002	Compa��a Dominicana de Tel�fonos, C por-Claro	
+37003	Tricom S.A.-Tricom	
+37004	Trilogy Dominicana, S.A.-Viva	
+74000	Otecel S.A. - Bellsouth-Moviestar	
+74001	Am�rica M�vil-Porta	
+74002	Telecsa S.A.-Alegro	
+60201	EEMS - Mobinil-Mobinil	
+60202	Vodafone Egypt-Vodafone	
+60203	Etisalat Egypt-Etisalat	
+70601	CTE Telecom Personal, S.A. de C.V.-CTW Telecom Personal	
+70602	Digicel Group-Digicel	
+70603	Telemovil EL Salvador S.A.-Tigo	
+70604	Telef�nica M�viles El Salvador-movistar	
+70610	Am�rica M�vil-Claro	
+62701	Guinea Ecuatorial de Telecomunicaciones Sociedad An�nima-Orange GQ	
+62703	HiTs EG.SA-Hits GQ	
+24801	EMT GSM-EMT	
+24802	Elisa Eesti-Elisa	
+24803	Tele 2 Eesti-Tele 2	
+24806	OY ViaTel (UMTS)	
+63601	Ethiopian Telecoms Auth. (ETH MTN)-ETH MTN	
+75001	Touch-Cable &amp; Wireless	
+28801	Faroese Telecom - GSM	
+28802	Vodafone Faroe Islands-Vodafone	
+54201	Vodafone-Vodafone	
+54202	Digicel Fiji-Digicel	
+24403	DNA Oy-DNA	
+24405	Elisa Oyj-Elisa	
+24409	Finnet Group-Finnet	
+24410	TDC Oy-TDC	
+24412	DNA Oy-DNA	
+24414	Alands Mobiltelefon AB-AMT	
+24415	Samk student network-Samk	
+24421	Saunalahti-Saunalahti	
+24429	-Scnl Truphone	
+24491	TeliaSonera Finland Oyj-Sonera	
+20801	France Telecom-Orange	
+20802	France Telecom-Orange	
+20810	Vivendi-SFR	
+20811	Vivendi-SFR	
+20814	Iliad-Free Mobile	
+20815	Iliad-Free Mobile	
+20820	Bouygues Telecom-Bouygues	
+20821	Bouygues Telecom-Bouygues	
+20888	Bouygues Telecom (Zones Blanches)-Bouygues	
+74220	Digicel French Guiana-Digicel	
+54720	Tikiphone	
+62801	Gabon Telecom &amp; Libertis S.A.-Libertis	
+62802	Atlantique T�l�com (Etisalat Group)-Moov	
+62803	Celtel Gabon S.A.-Airtel	
+62804	USAN Gabon S.A.-Azur	
+62805	R�seau de l�Administration Gabonaise-RAG	
+60701	Gamcel-Gamcel	
+60702	Africell-Africell	
+60703	Comium Services Ltd-Comium	
+60704	QCell Gambia-QCell	
+28201	Geocell Ltd.-Geocell	
+28202	Magti GSM Ltd.-MagtiCom	
+28203	Iberiatel Ltd.-Iberiatel	
+28204	Beeline-Beeline	
+28205	Sliknet-SLINKNET	
+28267	Aquafon	
+26201	T-Mobile Deutschland GmbH-T-Mobile	
+26202	Vodafone D2 GmbH-Vodafone	
+26203	E-Plus Mobilfunk GmbH &amp; Co. KG-E-plus	
+26207	O2 (Germany) GmbH &amp; Co. OHG-O2	
+26208	O2 (Germany) GmbH &amp; Co. OHG-O2	
+26209	Vodafone D2 GmbH-Vodafone	
+26210	Arcor AG &amp; Co. (GSM-R)	
+26212	Dolphin Telecom (Deutschland) GmbH	
+26216	MVNE (E-plus)-Vistream	
+26217	Ring Mobilfunk-Ring Mobilfunk	
+26220	E-Plus-OnePhone	
+26243	Lyca Mobile-Lyca	
+262901	Debitel AG-Debitel	
+62001	MTN Group-MTN	
+62002	Vodafone Group-Vodafone	
+62003	Millicom Ghana-tiGO	
+62004	Kasapa Telecom Ltd.-Expresso	
+62006	Airtel-Airtel	
+620997	Glo Mobile Ghana-Glo Mobile	
+26601	Gibtelecom GSM-GibTel	
+26606	CTS Gibraltar-CTS Mobile	
+20201	Cosmote Mobile Teelecommunications S.A.-Cosmote	
+20205	Vodafone - Panafon-Vodafone	
+20209	Wind Hellas Telecommunications S.A.-Wind	
+20210	Wind Hellas Telecommunications S.A.-Wind	
+29001	Tele Greenland	
+35230	Digicel-Digicel	
+352110	Cable &amp; Wireless Grenada Ltd.-Cable &amp; Wireless	
+53547	Docomo Pacific Inc	
+70401	Servicios de Comunicaciones Personales Inal�mbricas, S.A.-Claro	
+70402	Comunicaciones Celulares S.A.-Comcel / Tigo	
+70403	Telef�nica Centroam�rica Guatemala S.A.-Movistar	
+61101	Orange-Orange S.A.	
+61102	Sotelgui Lagui-Sotelgui	
+61103	INTERCEL Guin�e-Telecel Guinee	
+61104	Areeba Guinea-MTN	
+61105	Cellcom Guin�e SA-Cellcom	
+63202	Spacetel Guin�-Bissau S.A.	
+63203	Orange-Orange	
+73801	U-Mobile (Cellular) Inc.-Digicel	
+73802	Guyana Telephone &amp; Telegraph Co.-GT&amp;T Cellink Plus	
+37201	Communication Cellulaire dHaiti SA-Voila	
+37202	Unigestion Holding S.A-Digicel	
+37203	Telecommunication S.A-NATCOM	
+37250	Unigestion Holding S.A-Digicel	
+70801	Servicios de Comunicaciones de Honduras S.A. de C.V.-Claro	
+70802	Celtel / Tigo-Tigo	
+70830	Empresa Hondurena de Telecomunicaciones-Hondutel	
+70840	Digicel de Honduras-DIGICEL	
+45400	CSL Ltd-1O1O / One2Free	
+45401	CITIC Telecom 1616	
+45402	CSL Ltd-CSL	
+45403	Hutchison Telecom-3 (3G)	
+45404	Hutchison Telecom-3 (2G)	
+45405	Hutchison Telecom-3 (CDMA)	
+45406	SmarTone Mobile Communications Ltd-SmarTone-Vodafone	
+45407	China Unicom (Hong Kong) Ltd	
+45408	Trident Telecom	
+45409	China Motion Telecom	
+45410	CSL Ltd-New World Mobility	
+45411	China-Hong Kong Telecom	
+45412	China Mobile Hong Kong Company Ltd-CMCC HK	
+45414	Hutchison Telecom	
+45415	3G Radio System/SMT3G	
+45416	PCCW Ltd-PCCW Mobile	
+45417	SmarTone Mobile Communications Limited-SmarTone Mobile Communications Limited	
+45418	CSL Ltd-CSL	
+45419	PCCW Ltd-PCCW Mobile	
+45422	-SmarTone Mobile (P-Plus)	
+45429	PCCW Ltd-PCCW Mobile	
+21601	Telenor Magyarorsz�g Zrt.-Telenor	
+21630	Magyar Telekom Plc-T-Mobile	
+21670	Vodafone Magyarorsz�g Zrt.-Vodafone	
+27401	Iceland Telecom Ltd.-Siminn	
+27402	Vodafone-Vodafone	
+27403	Islandssimi GSM ehf-Vodafone	
+27404	IMC Islande ehf-Viking	
+27406	09 Mobile	
+27407	IceCell ehf-IceCell	
+27411	Nova ehf-Nova	
+40400	Sistema Shyam (Rajasthan)-Sistema Shyam	
+40501	Reliance Telecom (Andhra Pradesh)-Reliance Telecom	
+40401	Vodafone (Haryana)-Vodafone	
+40402	Bharti Airtel Ltd (Punjab)-Airtel	
+40403	Bharti Airtel Ltd (Himachal Pradesh)-Airtel	
+40503	Reliance Telecom (Bihar)-Reliance Telecom	
+40504	Reliance Telecom (Chennai)-Reliance Telecom	
+40404	Idea (Delhi)-Idea	
+40505	Reliance Telecom (Delhi)-Reliance Telecom	
+40405	Vodafone (Gujarat)-Vodafone	
+40506	Reliance Telecom (Gujarat)-Reliance Telecom	
+40507	Reliance Telecom (Haryana)-Reliance Telecom	
+40407	Idea (Andhra Pradesh)-Idea	
+40508	Reliance Telecom (Himachal Pradesh)-Reliance Telecom	
+40509	Reliance Telecom (Jammu &amp; Kashmir)-Reliance Telecom	
+40409	Reliance Telecom (Assam)-Reliance Telecom	
+40510	Reliance Telecom (Karnataka)-Reliance Telecom	
+40410	Bharti Airtel Ltd (Delhi)-Airtel	
+40511	Reliance Telecom (Kerala)-Reliance Telecom	
+40411	Vodafone (Delhi)-Vodafone	
+40512	Reliance Telecom (Kolkata)-Reliance Telecom	
+40412	Idea (Haryana)-Idea	
+40513	Reliance Telecom (Maharashtra)-Reliance Telecom	
+40413	Vodafone (Andhra Pradesh)-Vodafone	
+40514	Reliance Telecom (Madhya Pradesh)-Reliance Telecom	
+40414	Idea (Punjab)-Idea	
+40515	Reliance Telecom (Mumbai)-Reliance Telecom	
+40415	Vodafone (Uttar Pradesh (East)-Vodafone	
+40416	Bharti Airtel Ltd (North East)-Airtel	
+40417	Aircel (West Bengal)-Aircel	
+40517	Reliance Telecom (Orissa)-Reliance Telecom	
+40518	Reliance Telecom (Punjab)-Reliance Telecom	
+40418	Reliance Telecom (Himachal Pradesh)-Reliance Telecom	
+40519	Reliance Telecom (Rajasthan)-Reliance Telecom	
+40419	Idea (Kerala)-Idea	
+40520	Reliance Telecom (Tamilnadu)-Reliance Telecom	
+40420	Vodafone (Mumbai)-Vodafone	
+40521	Reliance Telecom (Uttar Pradesh (East)-Reliance Telecom	
+40421	LOOP (Mumbai)-LOOP	
+40422	Idea (Maharashtra)-Idea	
+40522	Reliance Telecom (Uttar Pradesh (West)-Reliance Telecom	
+40523	Reliance Telecom (West Bengal)-Reliance Telecom	
+40424	Idea (Gujarat)-Idea	
+40524	HFCL INFOTEL (Punjab)-HFCL INFOTEL	
+40425	Aircel (Bihar)-Aircel	
+40525	TATA Teleservices (Andhra Pradesh)-TATA Teleservices	
+40526	TATA Teleservices (Assam)-TATA Teleservices	
+40527	TATA Teleservices (Bihar)-TATA Teleservices	
+40427	Vodafone (Maharashtra)-Vodafone	
+40528	TATA Teleservices (Chennai)-TATA Teleservices	
+40428	Aircel (Orissa)-Aircel	
+40429	Aircel (Assam)-Aircel	
+40529	TATA Teleservices (Delhi)-TATA Teleservices	
+40530	TATA Teleservices (Gujarat)-TATA Teleservices	
+40430	Vodafone (Kolkata)-Vodafone	
+40531	TATA Teleservices (Haryana)-TATA Teleservices	
+40431	Bharti Airtel Ltd (Kolkata)-Airtel	
+40532	TATA Teleservices (Himachal Pradesh)-TATA Teleservices	
+40533	TATA Teleservices (Jammu &amp; Kashmir)-TATA Teleservices	
+40433	Aircel (North East)-Aircel	
+40434	BSNL (Haryana)-BSNL	
+40534	TATA Teleservices (Karnataka)-TATA Teleservices	
+40535	TATA Teleservices (Kerala)-TATA Teleservices	
+40435	Aircel (Himachal Pradesh)-Aircel	
+40536	TATA Teleservices (Kolkata)-TATA Teleservices	
+40436	Reliance Telecom (Bihar)-Reliance Telecom	
+40537	TATA Teleservices (Maharashtra)-TATA Teleservices	
+40437	Aircel (Jammu &amp; Kashmir)-Aircel	
+40438	BSNL (Assam)-BSNL	
+40538	TATA Teleservices (Madhya Pradesh)-TATA Teleservices	
+40539	TATA Teleservices (Mumbai)-TATA Teleservices	
+40540	TATA Teleservices (North East)-TATA Teleservices	
+40440	Bharti Airtel Ltd (Chennai)-Airtel	
+40441	Aircel (Chennai)-Aircel	
+40541	TATA Teleservices (Orissa)-TATA Teleservices	
+40542	TATA Teleservices (Punjab)-TATA Teleservices	
+40442	Aircel (Tamilnadu)-Aircel	
+40543	TATA Teleservices (Rajasthan)-TATA Teleservices	
+40443	Vodafone (Tamilnadu)-Vodafone	
+40544	TATA Teleservices (Tamilnadu)-TATA Teleservices	
+40444	Idea (Karnataka)-Idea	
+40445	Bharti Airtel Ltd (Karnataka)-Airtel	
+40545	TATA Teleservices (Uttar Pradesh (East)-TATA Teleservices	
+40546	TATA Teleservices (Uttar Pradesh (West)-TATA Teleservices	
+40446	Vodafone (Kerala)-Vodafone	
+40547	TATA Teleservices (West Bengal)-TATA Teleservices	
+40548	INDIAN RAILWAYS GSM-R (ALL CIRCLES)-Indian Raylways	
+40449	Bharti Airtel Ltd (Andhra Pradesh)-Airtel	
+40450	Reliance Telecom (North East)-Reliance Telecom	
+40551	Bharti Airtel Ltd (West Bengal)-Airtel	
+40451	BSNL (Himachal Pradesh)-BSNL	
+40552	Bharti Airtel Ltd (Bihar)-Airtel	
+40452	Reliance Telecom (Orissa)-Reliance Telecom	
+40553	Bharti Airtel Ltd (Orissa)-Airtel	
+40453	BSNL (Punjab)-BSNL	
+40454	BSNL (Uttar Pradesh (West)-BSNL	
+40554	Bharti Airtel Ltd (Uttar Pradesh (East)-Airtel	
+40555	Bharti Airtel Ltd (Jammu &amp; Kashmir)-Airtel	
+40455	BSNL (Uttar Pradesh (East)-BSNL	
+40456	Idea (Uttar Pradesh (West)-Idea	
+40556	Bharti Airtel Ltd (Assam)-Airtel	
+40457	BSNL (Gujarat)-BSNL	
+40458	BSNL (Madhya Pradesh)-BSNL	
+40459	BSNL (Rajasthan)-BSNL	
+40460	Vodafone (Rajasthan)-Vodafone	
+40462	BSNL (Jammu &amp; Kashmir)-BSNL	
+40464	BSNL (Chennai)-BSNL	
+40466	BSNL (Maharashtra)-BSNL	
+40566	Vodafone (Uttar Pradesh (West)-Vodafone	
+40567	Vodafone (West Bengal)-Vodafone	
+40467	Reliance Telecom (Madhya Pradesh)-Reliance Telecom	
+40468	MTNL (Delhi)-Dolphin	
+40469	MTNL (Mumbai)-Dolphin	
+40570	Idea (Bihar)-Idea	
+40470	Bharti Airtel Ltd (Rajasthan)-Airtel	
+40471	BSNL (Karnataka)-BSNL	
+40472	BSNL (Kerala)-BSNL	
+40473	BSNL (Andhra Pradesh)-BSNL	
+40474	BSNL (West Bengal)-BSNL	
+40475	BSNL (Bihar)-BSNL	
+40476	BSNL (Orissa)-BSNL	
+40477	BSNL (North East)-BSNL	
+40478	Idea (Madhya Pradesh)-Idea	
+40479	BSNL (Andaman Nicobar)-BSNL	
+40480	BSNL (Tamilnadu)-BSNL	
+40481	BSNL (Kolkata)-BSNL	
+40482	Idea (Himachal Pradesh)-Idea	
+40483	Reliance Telecom (Kolkata)-Reliance Telecom	
+40484	Vodafone (Chennai)-Vodafone	
+40485	Reliance Telecom (West Bengal)-Reliance Telecom	
+40486	Vodafone (Karnataka)-Vodafone	
+40487	Idea (Rajasthan)-Idea	
+40488	Vodafone (Punjab)-Vodafone	
+40489	Idea (Uttar Pradesh (East)-Idea	
+40490	Bharti Airtel Ltd (Maharashtra)-Airtel	
+40491	Aircel (Kolkata)-Aircel	
+40492	Bharti Airtel Ltd (Mumbai)-Airtel	
+40493	Bharti Airtel Ltd (Madhya Pradesh)-Airtel	
+40494	Bharti Airtel Ltd (Tamilnadu)-Airtel	
+40495	Bharti Airtel Ltd (Kerala)-Airtel	
+40496	Bharti Airtel Ltd (Haryana)-Airtel	
+40497	Bharti Airtel Ltd (Uttar Pradesh (West)-Airtel	
+40498	Bharti Airtel Ltd (Gujarat)-Airtel	
+405750	Vodafone (Jammu &amp; Kashmir)-Vodafone	
+405751	Vodafone (Assam)-Vodafone	
+405752	Vodafone (Bihar)-Vodafone	
+405753	Vodafone (Orissa)-Vodafone	
+405754	Vodafone (Himachal Pradesh)-Vodafone	
+405755	Vodafone (North East)-Vodafone	
+405756	Vodafone (Madhya Pradesh)-Vodafone	
+405799	Idea (Mumbai)-Idea	
+405800	Aircel (Delhi)-Aircel	
+405801	Aircel (Andhra Pradesh)-Aircel	
+405802	Aircel (Gujarat)-Aircel	
+405803	Aircel (Karnataka)-Aircel	
+405804	Aircel (Maharashtra)-Aircel	
+405805	Aircel (Mumbai)-Aircel	
+405806	Aircel (Rajasthan)-Aircel	
+405807	Aircel (Haryana)-Aircel	
+405808	Aircel (Madhya Pradesh)-Aircel	
+405809	Aircel (Kerala)-Aircel	
+405810	Aircel (Uttar Pradesh (East)-Aircel	
+405811	Aircel (Uttar Pradesh (West)-Aircel	
+405812	Aircel (Punjab)-Aircel	
+405813	Telenor Unitech (Haryana)-Uninor	
+405814	Telenor Unitech (Himachal Pradesh)-Uninor	
+405815	Telenor Unitech (Jammu &amp; Kashmir)-Uninor	
+405816	Telenor Unitech (Punjab)-Uninor	
+405817	Telenor Unitech (Rajasthan)-Uninor	
+405818	Telenor Unitech (Uttar Pradesh (West)-Uninor	
+405819	Telenor Unitech (Andhra Pradesh)-Uninor	
+405820	Telenor Unitech (Karnataka)-Uninor	
+405821	Telenor Unitech (Kerala)-Uninor	
+405822	Telenor Unitech (Kolkata)-Uninor	
+405823	Videocon (Andhra Pradesh)-Videocon	
+405824	Videocon (Assam)-Videocon	
+405825	Videocon (Bihar)-Videocon	
+405826	Videocon (Delhi)-Videocon	
+405827	Videocon (Gujarat)-Videocon	
+405828	Videocon (Haryana)-Videocon	
+405829	Videocon (Himachal Pradesh)-Videocon	
+405830	Videocon (Jammu &amp; Kashmir)-Videocon	
+405831	Videocon (Karnataka)-Videocon	
+405832	Videocon (Kerala)-Videocon	
+405833	Videocon (Kolkata)-Videocon	
+405834	Videocon (Madhya Pradesh)-Videocon	
+405835	Videocon (Maharashtra)-Videocon	
+405836	Videocon (Mumbai)-Videocon	
+405837	Videocon (North East)-Videocon	
+405838	Videocon (Orissa)-Videocon	
+405839	Videocon (Rajasthan)-Videocon	
+405840	Videocon (Tamilnadu)-Videocon	
+405841	Videocon (Uttar Pradesh (East)-Videocon	
+405842	Videocon (Uttar Pradesh (West)-Videocon	
+405843	Videocon (West Bengal)-Videocon	
+405844	Telenor Unitech (Delhi)-Uninor	
+405845	Idea (Assam)-Idea	
+405846	Idea (Jammu &amp; Kashmir)-Idea	
+405848	Idea (Kolkata)-Idea	
+405849	Idea (North East)-Idea	
+405850	Idea (Orissa)-Idea	
+405852	Idea (Tamilnadu)-Idea	
+405853	Idea (West Bengal)-Idea	
+405854	LOOP (Andhra Pradesh)-LOOP	
+405855	LOOP (Assam)-LOOP	
+405856	LOOP (Bihar)-LOOP	
+405857	LOOP (Delhi)-LOOP	
+405858	LOOP (Gujarat)-LOOP	
+405859	LOOP (Haryana)-LOOP	
+405860	LOOP (Himachal Pradesh)-LOOP	
+405861	LOOP (Jammu &amp; Kashmir)-LOOP	
+405862	LOOP (Karnataka)-LOOP	
+405863	LOOP (Kerala)-LOOP	
+405864	LOOP (Kolkata)-LOOP	
+405865	LOOP (Madhya Pradesh)-LOOP	
+405866	LOOP (Maharashtra)-LOOP	
+405867	LOOP (North East)-LOOP	
+405868	LOOP (Orissa)-LOOP	
+405869	LOOP (Punjab)-LOOP	
+405870	LOOP (Rajasthan)-LOOP	
+405871	LOOP (Tamilnadu)-LOOP	
+405872	LOOP (Uttar Pradesh (East)-LOOP	
+405873	LOOP (Uttar Pradesh (West)-LOOP	
+405874	LOOP (West Bengal)-LOOP	
+405875	Telenor Unitech (Assam)-Uninor	
+405876	Telenor Unitech (Bihar)-Uninor	
+405877	Telenor Unitech (North East)-Uninor	
+405878	Telenor Unitech (Orissa)-Uninor	
+405879	Telenor Unitech (Uttar Pradesh (East)-Uninor	
+405880	Telenor Unitech (West Bengal)-Uninor	
+405881	S TEL (Assam)-S TEL	
+405882	S TEL (Bihar)-S TEL	
+405883	S TEL (Himachal Pradesh)-S TEL	
+405884	S TEL (Jammu &amp; Kashmir)-S TEL	
+405885	S TEL (North East)-S TEL	
+405886	S TEL (Orissa)-S TEL	
+405887	Sistema Shyam (Andhra Pradesh)-Sistema Shyam	
+405888	Sistema Shyam (Assam)-Sistema Shyam	
+405889	Sistema Shyam (Bihar)-Sistema Shyam	
+405890	Sistema Shyam (Delhi)-Sistema Shyam	
+405891	Sistema Shyam (Gujarat)-Sistema Shyam	
+405892	Sistema Shyam (Haryana)-Sistema Shyam	
+405893	Sistema Shyam (Himachal Pradesh)-Sistema Shyam	
+405894	Sistema Shyam (Jammu &amp; Kashmir)-Sistema Shyam	
+405895	Sistema Shyam (Karnataka)-Sistema Shyam	
+405896	Sistema Shyam (Kerala)-Sistema Shyam	
+405897	Sistema Shyam (Kolkata)-Sistema Shyam	
+405898	Sistema Shyam (Madhya Pradesh)-Sistema Shyam	
+405899	Sistema Shyam (Maharashtra)-Sistema Shyam	
+405900	Sistema Shyam (Mumbai)-Sistema Shyam	
+405901	Sistema Shyam (North East)-Sistema Shyam	
+405902	Sistema Shyam (Orissa)-Sistema Shyam	
+405903	Sistema Shyam (Punjab)-Sistema Shyam	
+405904	Sistema Shyam (Tamilnadu)-Sistema Shyam	
+405905	Sistema Shyam (Uttar Pradesh (East)-Sistema Shyam	
+405906	Sistema Shyam (Uttar Pradesh (West)-Sistema Shyam	
+405907	Sistema Shyam (West Bengal)-Sistema Shyam	
+405912	Etisalat DB (Andhra Pradesh)-Etisalat DB	
+405913	Etisalat DB (Delhi)-Etisalat DB	
+405914	Etisalat DB (Gujarat)-Etisalat DB	
+405915	Etisalat DB (Haryana)-Etisalat DB	
+405916	Etisalat DB (Karnataka)-Etisalat DB	
+405917	Etisalat DB (Kerala)-Etisalat DB	
+405918	Etisalat DB (Maharashtra)-Etisalat DB	
+405919	Etisalat DB (Mumbai)-Etisalat DB	
+405920	Etisalat DB (Punjab)-Etisalat DB	
+405921	Etisalat DB (Rajasthan)-Etisalat DB	
+405922	Etisalat DB (Tamilnadu)-Etisalat DB	
+405923	Etisalat DB (Uttar Pradesh (East)-Etisalat DB	
+405924	Etisalat DB (Uttar Pradesh (West)-Etisalat DB	
+405925	Telenor Unitech (Tamilnadu)-Uninor	
+405926	Telenor Unitech (Mumbai)-Uninor	
+405927	Telenor Unitech (Gujarat)-Uninor	
+405928	Telenor Unitech (Madhya Pradesh)-Uninor	
+405929	Telenor Unitech (Maharashtra)-Uninor	
+405930	Etisalat DB (Bihar)-Etisalat DB	
+405931	Etisalat DB (Madhya Pradesh)-Etisalat DB	
+405932	Videocon (Punjab)-Videocon	
+51000	PT Pasifik Satelit Nusantara (ACeS)-PSN	
+51001	PT Indonesian Satellite Corporation Tbk (INDOSAT)-INDOSAT	
+51008	PT Natrindo Telepon Seluler-AXIS	
+51009	PT Smart Telecom-SMART	
+51010	PT Telekomunikasi Selular-Telkomsel	
+51011	PT XL Axiata Tbk-XL	
+51027	PT Sampoerna Telekomunikasi Indonesia-Ceria	
+51028	PT Mobile-8 Telecom-Fren/Hepi	
+51089	PT Hutchison CP Telecommunications-3	
+90101	ICO Satellite Management-ICO	
+90103	Iridium-Iridium	
+90104	Globalstar-Globalstar	
+90105	Thuraya RMSS Network	
+90106	Thuraya Satellite Telecommunications Company	
+90110	ACeS-ACeS	
+90111	Inmarsat-Inmarsat	
+90112	Maritime Communications Partner AS-MCP	
+90113	Global Networks Switzerland Inc.-GSM.AQ	
+90114	AeroMobile AS	
+90115	OnAir Switzerland Sarl	
+90117	Navitas-Navitas	
+90118	AT&amp;T Mobility-Cellular @Sea	
+90121	Seanet Maritime Communications-Seanet	
+43211	Mobile Communications Company of Iran-IR-MCI	
+43214	KIFZO (Telecommunication Kish Co.)-TKC	
+43219	Mobile Telecommunications Company of Esfahan-MTCE	
+43232	Rafsanjan Industrial Complex-Taliya	
+43235	Irancell Telecommunications Services Company-Irancell	
+43270	Telephone Communications Company of Iran-TCI	
+43293	-Iraphone	
+41805	Asia Cell Telecommunications Com.-Asia Cell	
+41808	Korek Telecom Ltd-Korek	
+41820	Zain Iraq-Zain	
+41830	Zain Iraq-Zain	
+41840	Korek Telecom Ltd-Korek	
+41845	Mobitel Co. Ltd-Mobiltel	
+41892	Ommnea Wireless-Omnnea	
+27201	Vodafone Ireland Plc-Vodafone	
+27202	O2 Ireland-O2	
+27203	Meteor Mobile Communications Ltd.-Meteor	
+27205	Hutchison 3G Ireland limited-3	
+27207	Eircom-Eircom	
+27209	Clever Communications Ltd.	
+27211	Liffey Telecom-Tesco Mobile	
+27213	-Lyca Mobile	
+42501	Partner Communications Co. Ltd.-Orange	
+42502	Cellcom Israel Ltd.-Cellcom	
+42503	Pelephone Communications Ltd.-Pelephone	
+42505	Palestine Cellular Communications-Jawwal	
+42507	Hot Mobile-Hot Mobile	
+42508	-Golan Telecom	
+425303	Pelephone Communications Ltd.-Rami Levy	
+22201	Telecom Italia SpA-TIM	
+22207	-Noverca	
+22208	-Fastweb	
+22210	Vodafone Omnitel N.V.-Vodafone	
+22288	Wind Telecomunicazioni SpA-Wind	
+22299	Hutchison 3G-3 Italia	
+33820	Cable &amp; Wireless Jamaica Ltd.-LIME (formerly known as Cable &amp; Wireless)	
+33850	Digicel (Jamaica) Limited-Digicel	
+33870	Oceanic Digital Jamaica Limited-Claro	
+338180	Cable and Wireless Jamaica Limited-LIME (formerly known as Cable &amp; Wireless)	
+44000	Emobile Ltd-eMobile	
+44001	NTT DoCoMo-DoCoMo	
+44002	NTT DoCoMo Kansai-DoCoMo	
+44003	NTT DoCoMo Hokuriku-DoCoMo	
+44004	SoftBank Mobile Corp-Softbank	
+44006	Softbank Mobile Corp-Softbank	
+44007	KDDI Corporation-KDDI	
+44008	KDDI Corporation-KDDI	
+44009	NTT DoCoMo Kansai-DoCoMo	
+44010	NTT DoCoMo-DoCoMo	
+44011	NTT DoCoMo Tokai-DoCoMo	
+44012	NTT DoCoMo-DoCoMo	
+44013	NTT DoCoMo-DoCoMo	
+44014	NTT DoCoMo Thoku-DoCoMo	
+44015	NTT DoCoMo-DoCoMo	
+44016	NTT DoCoMo-DoCoMo	
+44017	NTT DoCoMo-DoCoMo	
+44018	NTT DoCoMo Tokai-DoCoMo	
+44019	NTT DoCoMo Hokkaido-DoCoMo	
+44020	SoftBank Mobile Corp-SoftBank	
+44021	NTT DoCoMo-DoCoMo	
+44022	NTT DoCoMo Kansai-DoCoMo	
+44023	NTT DoCoMo Tokai-DoCoMo	
+44024	NTT DoCoMo Chugoku-DoCoMo	
+44025	NTT DoCoMo Hokkaido-DoCoMo	
+44026	NTT DoCoMo Kyushu-DoCoMo	
+44027	NTT DoCoMo Tohoku-DoCoMo	
+44028	NTT DoCoMo Shikoku-DoCoMo	
+44029	NTT DoCoMo-DoCoMo	
+44030	NTT DoCoMo-DoCoMo	
+44031	NTT DoCoMo Kansai-DoCoMo	
+44032	NTT DoCoMo-DoCoMo	
+44033	NTT DoCoMo Tokai-DoCoMo	
+44034	NTT DoCoMo Kyushu-DoCoMo	
+44035	NTT DoCoMo Kansai-DoCoMo	
+44036	NTT DoCoMo-DoCoMo	
+44037	NTT DoCoMo-DoCoMo	
+44038	NTT DoCoMo-DoCoMo	
+44039	NTT DoCoMo-DoCoMo	
+44040	Softbank Mobile Corp-Softbank	
+44041	Softbank Mobile Corp-Softbank	
+44042	Softbank Mobile Corp-Softbank	
+44043	Softbank Mobile Corp-Softbank	
+44044	Softbank Mobile Corp-Softbank	
+44045	Softbank Mobile Corp-Softbank	
+44046	Softbank Mobile Corp-Softbank	
+44047	Softbank Mobile Corp-Softbank	
+44048	Softbank Mobile Corp-Softbank	
+44049	KDDI Corporation-KDDI	
+44050	KDDI Corporation-KDDI	
+44051	KDDI Corporation-KDDI	
+44052	KDDI Corporation-KDDI	
+44053	KDDI Corporation-KDDI	
+44054	KDDI Corporation-KDDI	
+44055	KDDI Corporation-KDDI	
+44056	KDDI Corporation-KDDI	
+44058	NTT DoCoMo Kansai-DoCoMo	
+44060	NTT DoCoMo Kansai-DoCoMo	
+44061	NTT DoCoMo Chugoku-DoCoMo	
+44062	NTT DoCoMo Kyushu-DoCoMo	
+44063	NTT DoCoMo-DoCoMo	
+44064	Softbank Mobile Corp-Softbank	
+44065	NTT DoCoMo Shikoku-DoCoMo	
+44066	NTT DoCoMo-DoCoMo	
+44067	NTT DoCoMo Tohoku-DoCoMo	
+44068	NTT DoCoMo Kyushu-DoCoMo	
+44069	NTT DoCoMo-DoCoMo	
+44070	KDDI Corporation-Au	
+44071	KDDI Corporation-KDDI	
+44072	KDDI Corporation-KDDI	
+44073	KDDI Corporation-KDDI	
+44074	KDDI Corporation-KDDI	
+44075	KDDI Corporation-KDDI	
+44076	KDDI Corporation-KDDI	
+44077	KDDI Corporation-KDDI	
+44078	Okinawa Cellular Telephone-Okinawa	
+44079	KDDI Corporation-KDDI	
+44087	NTT DoCoMo Chugoku-DoCoMo	
+44088	KDDI Corporation-KDDI	
+44089	KDDI Corporation-KDDI	
+44090	Softbank Mobile Corp-Softbank	
+44091	Softbank Mobile Corp-Softbank	
+44092	SoftBank Mobile Corp-Softbank	
+44093	Softbank Mobile Corp-Softbank	
+44094	Softbank Mobile Corp-Softbank	
+44095	Softbank Mobile Corp-Softbank	
+44096	Softbank Mobile Corp-Softbank	
+44097	Softbank Mobile Corp-Softbank	
+44098	Softbank Mobile Corp-Softbank	
+44099	NTT DoCoMo-DoCoMo	
+41601	Jordan Mobile Telephone Services-zain JO	
+41602	Xpress-XPress Telecom	
+41603	Umniah-Umniah	
+41677	Petra Jordanian Mobile Telecommunications Company (MobileCom)-Orange	
+40101	Kar-Tel llc-Beeline	
+40102	GSM Kazakhstan Ltd-Kcell	
+40107	Dalacom (CDMA)-Dalacom	
+40108	Kazakhtelecom-Kazakhtelecom	
+40177	Mobile Telecom Service LLP-Mobile Telecom Service	
+63902	Safaricom Ltd.-Safaricom	
+63903	Celtel Kenya Limited-Zain	
+63905	Telkom Kenya-yu	
+63907	Econet Wireless Kenya-Orange Kenya	
+54509	Telecom Services Kiribati Ltd-Kiribati Frigate	
+467193	Korea Posts and Telecommunications Corporation-SUN NET	
+45002	KT-KT	
+45004	KT-KT	
+45005	SK Telecom-SKT	
+45006	LGT Telcom-LGT	
+45008	KTF SHOW-KTF Show	
+41902	Mobile Telecommunications Company-Zain	
+41903	Wataniya Telecom-Wataniya	
+41904	Kuwait Telecommunication Company-Viva	
+43701	Bitel GSM	
+43703	Aktel Ltd-Fonex	
+43705	MEGACOM	
+43709	NurTelecom LLC-O!	
+45701	Lao Shinawatra Telecom-LaoTel	
+45702	Enterprise of Telecommunications Lao-ETL	
+45703	Star Telecom Co., Ltd-Unitel	
+45708	Millicom Lao Co Ltd-Tigo	
+24701	Latvian Mobile Phone (LMT)-LMT	
+24702	Tele2-Tele2	
+24703	Telekom Baltija (CDMA)-Triatel	
+24705	Bite Latvija-Bite	
+24707	Master Telecom (MTS)	
+24708	IZZI	
+24709	Camel Mobile-Camel Mobile	
+41501	MIC 1-Alfa	
+41503	MIC 2-mtc touch	
+41505	Ogero Telecom-Ogero Mobile	
+65101	Vodacom Lesotho (pty) Ltd.-Vodacom	
+65102	Econet Ezin-cel	
+61801	Lonestar Cell	
+61803	Cellcom	
+61804	Comium	
+61807	Cellcom-Cellcom	
+60600	Libyana Mobile Phone	
+60601	Madar	
+29501	Swisscom AG-Swisscom	
+29502	Orange AG-Orange	
+29504	Cubic Telecom AG-Cubic Telecom	
+29505	Mobilkom AG (FL1)-FL1	
+29577	Alpcom AG-Alpmobil	
+24601	Omnitel	
+24602	Bite GSM	
+24603	Tele2	
+27001	LuxGSM-LuxGSM	
+27077	Tango-Tango	
+27099	Orange S.A.-Orange	
+45500	SmarTone	
+45501	C.T.M Telemovel+-CTM	
+45502	China Telecom	
+45503	Hutchison Telecom-3	
+45504	C.T.M Telemovel+-CTM	
+45505	Hutchison Telecom-3	
+29401	T-Mobile	
+29402	Cosmofon	
+29403	VIP Operator	
+64601	Celtel-Zain	
+64602	Orange Madagascar S.A-Orange	
+64603	Madamobil-Madamobil	
+64604	Telma Mobile S.A-Telma	
+65001	Telekom Network Ltd.-TNM	
+65010	Bharti Airtel Limited-Airtel	
+50201	Telekom Malaysia Bhd-TM CDMA	
+50212	Maxis Communications Berhad-Maxis	
+50213	TM Touch-Celcom	
+50216	DIGI-DiGi	
+50217	Maxis-Maxis	
+50218	U Mobile Sdn Bhd-U Mobile	
+50219	CelCom-Celcom	
+47201	Dhivehi Raajjeyge Gulhun-Dhiraagu	
+47202	Wataniya Telecom Maldives-Wataniya	
+61001	Malitel-Malitel	
+61002	Orange Mali SA-Orange	
+27801	Vodafone Malta-Vodafone	
+27821	Mobisle Communications Limited-GO	
+27877	Melita Plc-Melita	
+34001	Orange Cara�be Mobiles-Orange	
+34002	Outremer Telecom-Outremer	
+34003	Saint Martin et Saint Barthelemy Telcell Sarl-Telcell	
+34008	MIO GSM-MIO GSM	
+34020	DIGICEL Antilles Fran�aise Guyane-Digicel	
+340993	Orange Martinique	
+60901	Mattel S.A.-Mattel	
+60902	Chinguitel S.A.	
+60910	Mauritel Mobiles-Mauritel	
+61701	Cellplus Mobile Communications Ltd.-Orange	
+61702	Mahanagar Telephone (Mauritius) Ltd.-MTML	
+61710	Emtel Ltd-Emtel	
+33401	Nextel M�xico-Nextel	
+33402	Am�rica M�vil-Telcel	
+33403	Telefonica Moviles (Movistar)-Movistar	
+33404	Iusacell / Unefon-Iusacell / Unefon	
+33405	-Iusacell / Unefon	
+33450	Iusacell / Unefon-Iusacell / Unefon	
+55001	FSM Telecom	
+25901	Orange Moldova GSM-Orange	
+25902	Moldcell GSM-Moldcell	
+25903	Moldtelecom-IDC	
+25905	Moldtelecom-Unite	
+21200	-Media Telecom	
+21201	Monaco Telecom-Office des Telephones	
+21202	-Morocco Wana	
+42888	Unitel-Unitel	
+42891	Skytel LLC-Skytel	
+42898	G-Mobile LLC-G.Mobile	
+42899	Mobicom-MobiCom	
+29701	Telenor Montenegro-Telenor	
+29702	T-Mobile Montenegro LLC-T-Mobile	
+29703	MTEL CG-m:tel CG	
+29704	T-Mobile Montenegro LLC-T-Mobile	
+354860	Cable &amp; Wireless West Indies (Montserrat)	
+60400	Medi Telecom-M�ditel	
+60401	Ittissalat Al Maghrib (Maroc Telecom)-IAM	
+60402	WANA - Groupe ONA-INWI	
+60405	WANA - Groupe ON-INWI	
+64301	Mocambique Celular S.A.R.L-mCel	
+64303	Movitel-Movitel	
+64304	Vodacom Mozambique, S.A.R.L.-Vodacom	
+41401	Myanmar Post and Telecommunication-MPT	
+64901	Mobile Telecommunications Ltd.-MTC	
+64902	Switch-Switch	
+64903	Orascom Telecom Holding-Leo	
+42901	Nepal Telecommunications-Namaste / Nt Mobile	
+42902	Spice Nepal Private Ltd.-Ncell	
+42903	Nepal Telecom-Sky/C-Phone	
+42904	Smart Telecom Pvt. Ltd-SmartCell	
+20402	Tele2-Tele2	
+20404	Vodafone-Vodafone	
+20405	-Elephant Talk Communications	
+20406	Mundio Mobile Ltd-Mundio Mobile	
+20407	Teleena Holding B.V.-Teleena	
+20408	KPN B.V-KPN	
+20409	Lyca mobile Netherlands Ltd.-Lyca mobile	
+20410	KPN B.V-KPN	
+20412	Telfort B.V-Telfort	
+20414	6GMobile B.V-6GMobile	
+20415	Ziggo B.V-Ziggo B.V	
+20416	T-Mobile-T-mobile	
+20420	T-mobile-T-mobile	
+20469	KPN B.V-KPN	
+36251	TelCell	
+36269	Digicel	
+36276	Antiliano Por N.V.-Antiliano Por N.V.	
+36291	UTS	
+36294	Bayos-Bayos	
+36295	MIO-MIO	
+362630	Cingular Wireless	
+362951	UTS Wireless Curacao	
+54601	OPT Mobilis-Mobilis	
+53000	Telecom New Zealand-Telecom	
+53001	Vodafone New Zealand-Vodafone	
+53003	Woosh Wireless New Zealand-Woosh	
+53004	TelstraClear New Zealand-TelstraClear	
+53005	Telecom New Zealand-XT Mobile (Telecom)	
+53006	Skinny-Skinny	
+53024	2degrees-2degrees	
+53055	Cable &amp; Wireless Guernsey Ltd-Telecom	
+71021	Empresa Nicarag�ense de Telecomunicaciones, S.A. (ENITEL)-Claro	
+71030	Telef�nica M�viles de Nicaragua S.A.-movistar	
+71073	Servicios de Comunicaciones, S.A. (SERCOM)-SERCOM	
+61401	Sahel.Com-SahelCom	
+61402	Celtel-Zain	
+61403	Telecel Niger SA-Telecel	
+61404	Orange-Orange	
+62120	Bharti Airtel Ltd-Airtel	
+62125	Vidafone Communications Ltd.-Visafone	
+62130	MTN Nigeria Communications-MTN	
+62140	Nigerian Mobile Telecommunications Ltd.-M-Tel	
+62150	Globacom Ltd-Glo	
+62160	Etisalat Ltd.-Etisalat	
+24201	Telenor Norway AS-Telenor	
+24202	TeliaSonera Norway AS-Netcom	
+24204	Tele2 Norway AS-Tele2	
+24205	Network Norway AS-Network Norway	
+24207	Ventelo Norway AS-Ventelo	
+24208	TDC Mobil AS-TDC	
+24223	Lyca Mobile Ltd	
+42202	Oman Mobile Telecommunications Company-Oman Mobile	
+42203	Oman Qatari Telecommunications Company (Nawras)-Nawras	
+41001	Mobilink-PMCL-Mobilink	
+41003	Pakistan Telecommunication Mobile Ltd-Ufone	
+41004	China Mobile-Zong	
+41006	Telenor Pakistan-Telenor	
+41007	WaridTel-Warid	
+55201	Palau National Communications Corp. (a.k.a. PNCC)-PNCC	
+55280	Palau Mobile Corporation-Palau Mobile	
+71401	Cable &amp; Wireless Panama S.A.-Cable &amp; Wireless	
+71402	Telefonica Moviles Panama S.A-movistar	
+71403	Am�rica M�vil-Claro	
+71404	Group-Digicel	
+53701	Pacific Mobile Communications-B-Mobile	
+53703	Digicel PNG-Digicel	
+74401	Hola Paraguay S.A-VOX	
+74402	AMX Paraguay S.A.-Claro	
+74404	Telefonica Celular Del Paraguay S.A. (Telecel)-Claro	
+74405	N�cleo S.A-Personal	
+71606	Telef�nica M�viles Per�-movistar	
+71610	Am�rica M�vil Per�-Claro	
+71617	NII Holdings-NEXTEL	
+51502	Globe Telecom-Globe	
+51503	PLDT via Smart Communications-Smart	
+51505	Digital Telecommunications Philippines-Sun	
+51518	PLDT via Smarts Connectivity Unlimited Resources Enterprise-Cure	
+51588	Nextel-Nextel	
+26001	Plus GSM (Polkomtel S.A.)-Plus (Polkomtel)	
+26002	ERA GSM (Polska Telefonia Cyfrowa Sp. Z.o.o.)-T-Mobile	
+26003	Orange-Orange	
+26006	Play (P4)-Play (P4)	
+26007	Netia S.A-Netia (Using P4 Nw)	
+26010	Sferia S.A.-Sferia (Using T-mobile)	
+26012	Cyfrowy Polsat S.A.-Cyfrowy Polsat	
+26014	Sferia S.A-Sferia (Using T-mobile)	
+26015	CenterNet S.A.-CenterNet (UMTS Data only)	
+26016	Mobyland Sp. z o.o.-Mobyland (UMTS)	
+26017	Aero 2 Sp. z o.o.-Aero2 (UMTS)	
+26801	Vodafone Portugal-Vodafone	
+26803	Sonaecom � Servi�os de Comunica��es, S.A.-Optimus	
+26806	Telecomunica��es M�veis Nacionais-TMN	
+26821	Zapp Portugal-Zapp	
+33011	Puerto Rico Telephone Company-Claro	
+42701	Qtel-Qtel	
+42702	Vodaphone Quatar-Vodafone	
+62901	Celtel Congo-Zain	
+62907	MTN CONGO S.A-Libertis Telecom	
+62910	Libertis Telecom	
+64700	Orange	
+64702	Outremer Telecom	
+64710	SFR Reunion	
+647995	SRR Mayotte-SRR Mayotte	
+647997	Orange Mayotte-Orange	
+22601	Vodafone Romania SA	
+22602	Romtelecom	
+22603	Cosmote (Zapp)	
+22604	Cosmote (Zapp)	
+22605	Digi mobil	
+22606	Cosmote	
+22610	Orange Romania	
+25001	Mobile TeleSystems-MTS	
+25002	MegaFon OJSC-MegaFon	
+25003	Nizhegorodskaya Cellular Communications-NCC	
+25005	Yeniseytelecom-ETK	
+25006	CJSC Saratov System of Cellular Communications-Skylink	
+25007	Zao SMARTS-SMARTS	
+25009	Khabarovsky Cellular Phone-Skylink	
+25012	Baykal Westcom / Akos-Baykal	
+25015	SMARTS Ufa, SMARTS Uljanovsk-SMARTS	
+25016	New Telephone Company-NTC	
+25017	JSC Uralsvyazinform-Utel	
+25020	Tele2-Tele2	
+25035	MOTIV-MOTIV	
+25037	ZAO Kodotel-ZAO Kodotel	
+25038	Tambov GSM-Tambov GSM	
+25039	Uralsvyazinform-Utel	
+25099	OJSC VimpelCom-Beeline	
+250801	-EastWest Telecom	
+250802	MCS Pvolzhie-MegaFon	
+250803	Mobicom-Caucasus-MegaFon	
+250804	Sonic Duo-MegaFon	
+250805	RTCOM-RTCOM	
+250806	Smolensk Cellular-Smolensk Cellular	
+250807	ST Mobile-ST Mobile	
+250808	Siberian Cellular Comms (Omsk)-Tele 2	
+250809	Corporation Severnaya Corona-Vimpelcom	
+250810	Tatincom-T-Volga Telecom	
+250811	Votek Mobile	
+63510	MTN Rwandacell SARL-MTN	
+63512	-Rwandatel (GSM)	
+63513	TIGO RWANDA S.A-Tigo	
+35650	Digicel-Digicel	
+35670	UTS-Chippie	
+356110	Cable &amp; Wireless-LIME	
+35850	Digicel (St Lucia) Limited-Digicel	
+358110	Cable &amp; Wireless-Lime (Cable &amp; Wireless)	
+36070	Digicel (St. Vincent and Grenadines) Limited-Digicel	
+360100	Cingular Wireless-Cingular Wireless	
+360110	Cable &amp; Wireless-Lime (Cable &amp; Wireless)	
+54901	Digicel Pacific Ltd.-Digicel	
+54927	SamoaTel Ltd-SamoaTel	
+62601	Companhia Santomese de Telecomunica��es-CSTmovel	
+42001	Saudi Telecom Company-Al Jawal	
+42003	Etihad Etisalat Company-Mobily	
+42004	Zain SA-Zain SA	
+60801	Sonatel-Orange	
+60802	Millicom-Tigo	
+60803	Sudatel-Expresso	
+22001	Telenor Serbia-Telenor	
+22002	Telenor Montenegro-Telenor	
+22003	Telekom Srbija a.d.-mt:s	
+22005	Vip mobile d.o.o.-VIP	
+63301	Cable &amp; Wireless (Seychelles) Ltd.-Cable &amp; Wireless	
+63302	Mediatech International Ltd.-Mediatech International	
+63310	Telecom (Seychelles) Ltd.-Airtel	
+61901	Bharti Airtel Ltd-Airtel	
+61902	Millicom (SL) Ltd-Tigo	
+61903	Lintel Sierra Leone Ltd-Africell	
+61904	Comium (Sierra Leone) Ltd.-Comium	
+61905	Lintel (Sierra Leone) Ltd.-Africell	
+61925	Mobitel-Mobitel	
+52501	Singapore Telecom-SingTel	
+52502	Singapore Telecom-SingTel-G18	
+52503	MobileOne Asia-M1	
+52505	StarHub Mobile-StarHub	
+52512	Digital Trunked Radio Network	
+23101	Orange Slovensko-Orange	
+23102	T-Mobile Slovensko-T-Mobile	
+23104	T-Mobile Slovensko-T-Mobile	
+23106	Telef�nica O2-O2	
+29340	SI Mobil D.D-Si.mobil	
+29341	Ipkonet-Mobitel	
+29364	T-2 d.o.o.-T-2	
+29370	Tusmobil d.o.o.-Tu�mobil	
+54001	Solomon Telekom Co Ltd-BREEZE	
+63701	Telesom-Telesom	
+63704	Somafone FZLLC-Somafone	
+63710	NationLink Telecom-Nationlink	
+63725	Hormuud Telecom Somalia Inc-Hormuud	
+63730	Golis Telecom Somalia-Golis	
+63782	Telcom Somalia-Telcom	
+65501	Vodacom (Pty) Ltd.-Vodacom	
+65502	Telkom-Telkom Mobile / 8.ta	
+65504	Sasol (PTY) LTD-Sasol (PTY) LTD	
+65506	Sentech (Pty) Ltd.-Sentech	
+65507	Cell C (Pty) Ltd.-Cell C &amp; Virgin	
+65510	Mobile Telephone Networks-MTN	
+65511	SAPS Gauteng	
+65513	Neotel-Neotel	
+65519	Wireless Business Solutions-iBurst	
+65521	Cape Town Metropolitan Council	
+65525	Wirels Connect-Wirels Connect	
+65530	Bokamoso Consortium	
+65531	Karabo Telecoms (Pty) Ltd.	
+65532	Ilizwi Telecommunications	
+65533	Thinta Thinta Telecommunications	
+65901	Vivacell-Now	
+21401	Vodafone Spain-Vodafone	
+21403	France Telecom Espa�a SA-Orange	
+21404	Xfera Moviles SA-Yoigo	
+21405	Telef�nica M�viles Espa�a-TME	
+21406	Vodafone Spain-Vodafone	
+21407	Telef�nica M�viles Espa�a-movistar	
+21408	Euskaltel-Euskaltel	
+21409	France Telecom Espa�a SA-Orange	
+21415	BT Group Espa�a Compa�ia de Servicios Globales de Telecomunicaciones S.A.U.-BT	
+21416	Telecable de Asturias S.A.U.-TeleCable	
+21417	R Cable y Telecomunicaciones Galicia S.A.-M�bil R	
+21418	Cableuropa S.A.U.-ONO	
+21419	E-PLUS Moviles Virtuales Espa�a S.L.U. (KPN)-Simyo	
+21420	Fonyou Telecom S.L.-Fonyou	
+21421	Jazz Telecom S.A.U.-Jazztel	
+21422	Best Spain Telecom-DigiMobil	
+21423	Barablu Movil Espana-Barablu	
+21424	Eroski M�vil Espa�a-Eroski	
+21425	LycaMobile S.L.-LycaMobile	
+21433	France Telecom Espa�a SA-Orange	
+41301	Sri Lanka Telecom Mobitel-Mobitel	
+41302	Dialog Telekom-Dialog	
+41303	Emirates Telecommunication Corporation-Etisalat	
+41305	Bharti Airtel-Airtel	
+41308	Hutchison Telecommunications Lanka (Pvt) Limited-Hutch	
+30801	St. Pierre-et-Miquelon T�l�com-Ameris	
+63401	Zain Group - Sudan-Zain SD	
+63402	MTN Sudan-MTN	
+63405	Wawat Securities-Vivacell (NOW)	
+63407	Sudatel Group-Sudani One	
+74602	Telecommunications Company Suriname-Telesur	
+74603	Digicel Group Limited-Digicel	
+74604	Intelsur N.V. / UTS N.V.-Uniqa	
+65310	Swazi MTN	
+24000	Direct2 Internet-Direct2 Internet	
+24001	Telia Sonera AB-Telia	
+24002	H3G Access AB-3	
+24003	Netett Sverige AB-Netett Sverige AB	
+24005	Svenska UMTS-N�t-Sweden 3G (Telia/Tele2)	
+24006	Telenor Sweden AB-Telenor	
+24007	Tele2 Sweden AB-Tele2	
+24008	Telenor Sweden AB-Telenor	
+24009	Djuice Mobile Sweden-Djuice Mobile Sweden	
+24010	Spring Mobil AB-Spring	
+24011	-Lindholmen Science Park	
+24012	Lycamobile AB-Lycamobile	
+24013	Ventelo Sweden AB-Ventelo	
+24014	TDC Mobil AS-TDC	
+24016	42 Telecom AB-42 Telecom AB	
+24017	G�talandsn�tet AB-G�talandsn�tet AB	
+24018	Generic Mobile Systems Sweden AB	
+24019	Mudio Mobile Sweden-Mudio Mobile	
+24022	-EuTel	
+24025	-Digitel Mobile Srl	
+24027	MyIndian AB-MyIndian AB	
+24029	-Mercury International Carrier Services	
+24030	-NextGen Mobile Ltd	
+24034	Tigo LTD-Tigo LTD	
+24036	Interactive digital media GmbH-IDM	
+24041	-Shyam Telecom UK Ltd	
+24089	ACN Communications Sweden AB-ACN Communications Sweden AB	
+240500	Unknown-Unknown	
+240503	Unknown-Unknown	
+22801	Swisscom Ltd-Swisscom	
+22802	Sunrise Communications AG-Sunrise	
+22803	Orange Communications SA-Orange	
+22805	Togewanet AG (Comfone)	
+22806	SBB AG-SBB AG	
+22807	IN&amp;Phone SA-IN&amp;Phone	
+22808	Tele2 Telecommunications AG-Tele2	
+22850	3G Mobile AG	
+22851	Bebbicell AG	
+41701	Syriatel Mobile Telecom-Syriatel	
+41702	MTN Syria-MTN	
+46601	Far EasTone Telecommunications Co Ltd-FarEasTone	
+46605	Asia Pacific Telecom-APTG	
+46606	Tuntex Telecom-Tuntex	
+46611	LDTA/Chungwa Telecom-Chunghwa LDM	
+46688	KG Telecom-KG Telecom	
+46689	VIBO Telecom-VIBO	
+46692	Chunghwa Telecom LDM-Chungwa	
+46693	Mobitai Communications-MobiTai	
+46697	Taiwan Cellular Corporation-Taiwan Mobile	
+46699	TransAsia Telecoms-TransAsia	
+43601	JV Somoncom-Tcell	
+43602	Indigo Tajikistan-Tcell	
+43603	TT Mobile-MLT	
+43604	Babilon-Mobile-Babilon-M	
+43605	Vimpelcom-Beeline	
+43612	Indigo-Tcell	
+64002	MIC Tanzania Ltd-tiGO	
+64003	Zanzibar Telecom Ltd-Zantel	
+64004	Vodacom Tanzania Ltd-Vodacom	
+64005	Bharti Airtel-Airtel	
+64006	Dovetel Ltd-SasaTel	
+64007	Tanzania Telecommunication Company LTD-TTCL Mobile	
+64008	Benson Informatics Ltd-Benson Online (BOL)	
+64011	Smile Telecoms Holdings Ltd-SmileCom	
+52000	CAT CDMA-Hutch	
+52001	Advanced Info Service-AIS	
+52002	CAT Telecom-CAT CDMA	
+52015	elephone Organization of Thailand-TOT 3G	
+52018	Total Access Communications Co (DTAC)-dtac	
+52023	Digital Phone (AIS)-AIS GSM 1800	
+52099	True Corporation-True Move	
+51402	Timor Telecom	
+61501	Togo Telecom-Togo Cell	
+61503	Moov Togo-Moov	
+53901	Tonga Communications Corporation	
+53943	Shoreline Communication	
+53988	Digicel-Digicel	
+37412	BMobile-bMobile	
+37413	Digicel-Digicel	
+60501	Orange Tunisia-Orange	
+60502	Tunisie Telecom-Tunicell	
+60503	Orascom Telecom-Tunisiana	
+28601	Turkcell Iletisim Hizmetleri A.S.-Turkcell	
+28602	Vodafone-Vodafone	
+28603	Avea-Avea	
+43801	Barash Communication Technologies (BCTI)-MTS	
+43802	TM-Cell-TM-Cell	
+37605	Digicel (Turks &amp; Caicos) Limited-Digicel	
+376350	Cable &amp; Wireless West Indies Ltd (Turks &amp; Caicos)-Lime (Cable &amp; Wireless)	
+376352	IslandCom Communications Ltd.-Islandcom	
+64101	Celtel Uganda-Zain	
+64110	MTN Uganda Ltd.-MTN	
+64111	Uganda Telecom Ltd.-Uganda Telecom	
+64114	Orange Uganda-Orange	
+64122	Warid Telecom Uganda Ltd.-Warid Telecom	
+23400	British Telecom-BT	
+23401	Mudio Mobile Ltd-Vectone MObile	
+23402	O2 UK Ltd-O2	
+23403	Jersey Airtel Ltd-Airtel-Vodafone	
+23407	Cable and Wireless Plc	
+23410	Telef�nica Europe-O2	
+23411	Telef�nica Europe-O2	
+23415	Vodafone Ltd-Vodafone	
+23416	Talk Talk Communications Ltd-Talk Talk	
+23417	Flextel Ltd	
+23418	Wire9 Telecom Plc-Cloud9	
+23419	Teleware Plc-Teleware	
+23420	Hutchison 3G UK Ltd-3	
+23430	Everything Everywhere Ltd-T-mobile	
+23431	Virgin Media (MVNO on EE)-Virgin	
+23432	Virgin Media (MVNO on EE)-Virgin	
+23433	Everything Everywhere Ltd-Orange	
+23434	Everything Everywhere Ltd-Orange	
+23450	Jersey Telecom GSM-JT-Wave	
+23455	Cable and Wireless Plc-Cable and Wireless	
+23458	Manx Telecom-Manx Telecom	
+23475	Inquam Telecom Ltd.-Inquam	
+23476	British Telecom-BT	
+23478	Airwave	
+23491	Vodafone United Kingdom-Vodafone	
+25501	Ukrainian Mobile Communication, UMC-MTS	
+25502	Ukranian Radio Systems, URS-Beeline	
+25503	Kyivstar GSM JSC-Kyivstar	
+25505	Golden Telecom-Golden Telecom	
+25506	Astelit-life:)	
+25507	Ukrtelecom-Ukrtelecom	
+25521	CJSC - Telesystems of Ukraine-PEOPLEnet	
+25523	CDMA Ukraine-ITC	
+25525	CST Inves-Newtone	
+42402	E mirates Telecom Corp-Etisalat	
+42403	Emirates Integrated Telecommunications Company-du	
+31000	Mid-Tex Cellular Ltd.-Mid-Tex Cellular	
+31100	Mid-Tex Cellular Ltd.-Mid-Tex Cellular	
+31003	Verizon Wireless-Verizon	
+31004	Verizon Wireless-Verizon	
+31005	Verizon Wireless-Verizon	
+31007	Highland	
+31010	Verizon Wirelss-Verizon	
+31110	Chariton Valley Communications-Chariton Valley	
+31611	-Southern Communications Services	
+31012	Verizon Wireless-Verizon	
+31013	Alltel Wireless-Alltel Wireless	
+31016	Cricket Communications	
+31017	North Sight Communications Inc.	
+31020	Union Telephone Company	
+31120	Missouri RSA 5 Partnership	
+31026	T-Mobile-T-Mobile	
+31130	Indigo Wireless-Indigo Wireless	
+31030	Centennial Communications-Centennial	
+31034	Airpeak-Airpeak	
+31040	Concho Cellular Telephone Co., Inc.-Concho	
+31140	Commnet Wireless-Commnet Wireless	
+31046	TMP Corp-Simmetry	
+31150	Wikes Cellular-Wikes Cellular	
+31160	Farmers Cellular Telephone-Farmers Cellular	
+31060	Consolidated Telcom	
+31070	Highland Cellular, Inc.	
+31170	AT&amp;T-AT&amp;T	
+31180	Pine Telephone Company-Pine Cellular	
+31080	Corr Wireless Communications LLC-Corr	
+31190	Long Lines Wireless LLC-Long Lines Wireless	
+31090	AT&amp;T-AT&amp;T	
+311100	High Plains Wireless-High Plains Wireless	
+310100	New Mexico RSA 4 East Ltd. Partnership-Plateau Wireless	
+310110	Verizon Wireless-Verizon	
+311110	High Plains Wireless-High Plains Wireless	
+310120	Sprint-Sprint	
+311130	Alltel-Alltel	
+311140	MBO Wireless-Sprocket	
+310150	AT&amp;T Mobility-AT&amp;T	
+311150	Wilkes Cellular	
+310160	T-Mobile-T-Mobile	
+311170	Broadpoint Inc-PetroCom	
+310180	West Central Wireless-West Central	
+310190	Alaska Wireless Communications LLC-Dutch Harbor	
+311210	Farmers Cellular Telephone-Farmers Cellular	
+310260	T-Mobile	
+311260	Cellular One-Cellular One	
+311270	Lamar Country Cellular-Lamar Country Cellular	
+311290	NEP Wireless-NEP Wireless	
+310300	Smart Call (Truphone)-iSmart Mobile	
+310311	Farmers Wireless	
+310320	Smith Bagley Inc, dba Cellular One-Cellular One	
+311330	Michigan Wireless, LLC-Bug Tussel Wireless	
+310340	Westlink Communications-Westlink	
+311370	General Communication Inc.-GCI Wireless in Alaska	
+310390	Verizon Wireless-Verizon	
+310400	Wave Runner LLC-i CAN_GSM	
+310410	AT&amp;T-AT&amp;T	
+310420	Cincinnati Bell Wireless LLC-Cincinnati Bell	
+310430	Alaska Digitel LLC	
+310450	Viaero Wireless-Viaero	
+310460	TMP Corp-Simmetry	
+310480	Verizon Wireless-Verizon	
+310490	T-Mobile-T-Mobile	
+310500	Alltel-Alltel	
+310510	Airtel Wireless LLC-Airtel	
+310530	West Virginia Wireless	
+311530	NewCore Wireless-NewCore Wireless	
+310540	Oklahoma Western Telephone Company-Oklahoma Western	
+310560	AT&amp;T-AT&amp;T	
+310570	MTPCS LLC-Cellular One	
+310590	Alltel-Alltel	
+310610	Elkhart Telephone Co.-Epic Touch	
+310620	Coleman County Telecommunications Inc. (Trans Texas PCS)-Coleman County Telecom	
+310630	Choice Wireless-AmeriLink PCS	
+310640	Airadigm Communications-Airadigm	
+310650	Jasper Wireless Inc.-Jasper	
+310660	MetroPCS-MetroPCS	
+310670	Northstar-Northstar	
+310680	AT&amp;T-AT&amp;T	
+310690	Conestoga Wireless Company-Conestoga	
+310730	SeaMobile-SeaMobile	
+310740	Convey Communications Inc.-Convey	
+310760	Panhandle Telecommunications Systems Inc.-Panhandle	
+310770	Iowa Wireless Services LLC dba I Wireless-i wireless	
+310790	PinPoint Communications Inc.-PinPoint	
+310830	Caprock Cellular Ltd. Partnership-Caprock	
+310840	Telecom North America Mobile, Inc.-telna Mobile	
+310850	Aeris Communications, Inc.-Aeris	
+310870	Kaplan Telephone Company Inc.-PACE	
+310880	Advantage Cellular Systems, Inc.-Advantage	
+310890	Verizon Wireless-Verizon	
+310900	Mid-Rivers Communications-Mid-Rivers Wireless	
+310910	Verizon Wireless-Verizon	
+310940	Poka Lambro Telecommunications Ltd.	
+310950	Iris Wireless LLC-XIT Wireless	
+310960	Texas RSA 1 dba XIT Cellular-Plateau Wireless	
+310970	Globalstar USA-Globalstar	
+74800	Compania estatal (ANTEL)-Ancel	
+74801	Compania estatal (ANTEL)-Ancel	
+74807	Telef�nica M�viles Uruguay-Movistar	
+74810	AM Wireless Uruguay S.A.-Claro	
+43401	Buztel	
+43402	Uzmacom	
+43404	Unitel LLC-Beeline	
+43405	Coscom-Ucell	
+43406	Perfectum Mobile	
+43407	Uzdunrobita-MTS	
+54101	Telecom Vanatou-Smile	
+54105	Digicel-Digicel	
+73401	Digitel-Digitel	
+73402	Digitel-Digitel	
+73403	Digitel-Digitel	
+73404	Movistar-Movistar	
+73406	Movilnet-Movilnet	
+45201	Vietnam Mobile Telecom (VMS)-MobilFone	
+45202	Vinaphone-Vinaphone	
+45203	S-Telecom-S-Fone	
+45204	Viettel Corporation (Viettel Mobile)-Viettel	
+45205	Hanoi Telecom-Vietnamobile	
+45206	EVN Telecom-E-Mobile	
+45207	GTEL Mobile JSC-Beeline VN	
+42101	SabaFon	
+42102	Spacetel Yemen	
+42103	Yemen Mobile-Yemen Mobile	
+42104	Y-HiTS-Unitel	
+64501	Zain	
+64502	MTN	
+64503	Zamtel	
+64801	Net*One Cellular Ltd-Net One	
+64803	Telecel Zimbabwe Ltd-Telecel	
+64804	Econet Wireless-Econet	
